@@ -4,7 +4,7 @@ An open-source, bilingual activity finder for New York City's five boroughs and 
 
 **[Website](https://nyc-family-weekend.pages.dev/)** · **[Current JSON](public/data/events.json)** · **[CSV](public/data/sessions.csv)** · **[Edition archives](datasets/)**
 
-For agents: [llms.txt](https://nyc-family-weekend.pages.dev/llms.txt) lists data endpoints, schema guidance, freshness checks, and attribution. `/llm.txt` is an identical compatibility alias generated at build time. Both also work beneath an existing subdirectory mount.
+For agents: [llms.txt](https://nyc-family-weekend.pages.dev/llms.txt) lists data endpoints, schema guidance, freshness checks, and attribution. It also works beneath an existing subdirectory mount.
 
 ## Run locally
 

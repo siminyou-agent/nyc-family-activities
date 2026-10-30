@@ -2,7 +2,7 @@
 
 > Bilingual, source-linked family activities in New York City's five boroughs and Nassau County. Use the structured datasets below rather than scraping the JavaScript interface. No authentication or API key is required to read them.
 
-The website and data are maintained in the canonical GitHub repository. This guide is also served at /llm.txt. On a subdirectory-mounted site, resolve data paths relative to this guide's directory (for example, ./data/events.json), not the domain root.
+The website and data are maintained in the canonical GitHub repository. On a subdirectory-mounted site, resolve data paths relative to this guide's directory (for example, ./data/events.json), not the domain root.
 
 ## Data endpoints
 
