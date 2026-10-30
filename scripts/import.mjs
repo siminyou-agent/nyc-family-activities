@@ -1,0 +1,10 @@
+import {readFile,writeFile,rename} from 'node:fs/promises';
+import {validate,validateSources} from './contract.mjs';
+if(!process.argv[2])throw new Error('Usage: npm run import -- /absolute/path/to/edition.json');
+const data=JSON.parse(await readFile(process.argv[2],'utf8'));
+const summary={...validate(data),...validateSources(data,JSON.parse(await readFile(new URL('../public/data/sources.json',import.meta.url),'utf8')))};
+const destination=new URL('../public/data/events.json',import.meta.url);
+const temp=new URL('../public/data/.events-import.tmp',import.meta.url);
+await writeFile(temp,JSON.stringify(data,null,2)+'\n');
+await rename(temp,destination);
+console.log('Imported edition atomically:',summary);

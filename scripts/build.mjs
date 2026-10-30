@@ -1,0 +1,20 @@
+import {cp,mkdir,readFile,rm} from 'node:fs/promises';
+import {writeFile,readdir} from 'node:fs/promises';
+import {execFileSync} from 'node:child_process';
+import {createHash} from 'node:crypto';
+import {validate,validateSources} from './contract.mjs';
+const root=new URL('../',import.meta.url);
+const data=JSON.parse(await readFile(new URL('public/data/events.json',root),'utf8'));
+const summary={...validate(data),...validateSources(data,JSON.parse(await readFile(new URL('public/data/sources.json',root),'utf8')))};
+await rm(new URL('dist/',root),{recursive:true,force:true});
+await cp(new URL('public/',root),new URL('dist/',root),{recursive:true});
+let commit=null;try{commit=execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8',stdio:['ignore','pipe','ignore']}).trim();}catch{}
+const dirty=Boolean(execFileSync('git',['status','--porcelain','--untracked-files=normal'],{cwd:root,encoding:'utf8'}).trim());
+const hashes={};for(const name of await readdir(new URL('public/data/',root)))hashes[name]=createHash('sha256').update(await readFile(new URL(`public/data/${name}`,root))).digest('hex');
+await writeFile(new URL('dist/data/release.json',root),JSON.stringify({repository:'https://github.com/siminyou-agent/nyc-family-activities',commit,dirty,edition:data.edition.id,sha256:hashes},null,2)+'\n');
+await mkdir(new URL('dist/vendor/',root),{recursive:true});
+for(const name of ['leaflet.js','leaflet.js.map','leaflet.css','images'])await cp(new URL(`node_modules/leaflet/dist/${name}`,root),new URL(`dist/vendor/${name}`,root),{recursive:true});
+await cp(new URL('node_modules/leaflet/LICENSE',root),new URL('dist/vendor/LEAFLET-LICENSE',root));
+for(const name of ['leaflet.markercluster.js','leaflet.markercluster.js.map','MarkerCluster.css'])await cp(new URL(`node_modules/leaflet.markercluster/dist/${name}`,root),new URL(`dist/vendor/${name}`,root));
+await cp(new URL('node_modules/leaflet.markercluster/MIT-LICENCE.txt',root),new URL('dist/vendor/MARKERCLUSTER-LICENSE',root));
+console.log('Static site built in dist/',summary);

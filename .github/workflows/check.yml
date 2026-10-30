@@ -1,0 +1,29 @@
+name: Check public release
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check:public
+      - run: npm run validate
+      - run: npm run export -- --check
+      - run: npm test
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - name: Browser checks
+        run: |
+          npm start &
+          trap 'kill $(jobs -p) 2>/dev/null || true' EXIT
+          for attempt in $(seq 1 30); do curl -fsS http://127.0.0.1:4317/ >/dev/null && break; sleep 1; done
+          npm run test:browser

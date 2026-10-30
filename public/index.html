@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Family activities in all five NYC boroughs and Nassau County. Filter by date, area, age and cost, with a map and official event links.">
+  <title>NYC Family Activities · New York &amp; Nassau County</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./vendor/leaflet.css">
+  <link rel="stylesheet" href="./vendor/MarkerCluster.css">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./vendor/leaflet.js"></script>
+  <script defer src="./vendor/leaflet.markercluster.js"></script>
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#results" data-i18n="skip">Skip to activities</a>
+  <main class="wrap">
+    <header class="site-header">
+      <div><h1 data-i18n="heading">NYC Family Activities</h1><p data-i18n="coverage">Manhattan · Brooklyn · Queens · Bronx · Staten Island · Nassau County</p></div>
+      <div class="language-switch" role="group" aria-label="Switch language"><button data-lang="en" aria-pressed="true">EN</button><button data-lang="zh" aria-pressed="false">中文</button></div>
+    </header>
+    <section class="filters" aria-label="Filter activities">
+      <div class="date-row"><div class="pills" id="date-presets" role="group" aria-label="Date range">
+        <button data-preset="edition" data-i18n="edition" aria-pressed="true">This edition</button><button data-preset="this" data-i18n="this" aria-pressed="false">This weekend</button><button data-preset="next" data-i18n="next" aria-pressed="false">Next weekend</button><button data-preset="custom" data-i18n="custom" aria-pressed="false">Choose dates</button>
+      </div><span id="range-label" class="range-label"></span></div>
+      <div id="custom-dates" class="custom-dates" hidden><label><span data-i18n="start">From</span><input type="date" id="start-date"></label><span>—</span><label><span data-i18n="end">To</span><input type="date" id="end-date"></label><span data-i18n="inclusive">Both dates included</span></div>
+      <div class="filter-row"><span class="filter-label" id="region-label" data-i18n="region">Area</span><div class="pills" id="regions" role="group" aria-labelledby="region-label"></div></div>
+      <div id="nassau-areas" class="filter-row nassau-areas" hidden><label class="source-filter"><span data-i18n="town">Town / City</span><select id="town-filter" aria-label="Nassau town / city"></select></label><label class="source-filter"><span data-i18n="community">Community</span><select id="community-filter" aria-label="Nassau community"></select></label></div>
+      <div class="filter-row age-time"><span class="filter-label" id="age-label" data-i18n="age">Ages</span><div class="pills" id="ages" role="group" aria-labelledby="age-label"><button data-age="all" data-i18n="allAges" aria-pressed="true">Any age</button><button data-age="preschool" data-i18n="preschool" aria-pressed="false">Preschool · 0–5</button><button data-age="school" data-i18n="school" aria-pressed="false">Elementary · 6–12</button></div><span class="filter-label time-label" data-i18n="time">Time</span><div class="pills" id="times" role="group" aria-label="Time"><button data-time="all" data-i18n="anytime" aria-pressed="true">Any</button><button data-time="morning" data-i18n="morning" aria-pressed="false">Morning</button><button data-time="afternoon" data-i18n="afternoon" aria-pressed="false">Afternoon</button><button data-time="evening" data-i18n="evening" aria-pressed="false">Evening</button></div></div>
+      <div class="filter-row"><span class="filter-label" id="category-label" data-i18n="category">Type</span><div class="pills" id="categories" role="group" aria-labelledby="category-label"></div></div>
+      <div class="filter-bottom"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" aria-label="Search activities" placeholder="Search activities, venues or towns…"></label><label class="source-filter"><span data-i18n="sourceLabel">Source</span><select id="source-filter" aria-label="Source"></select></label><label class="check"><input type="checkbox" id="free-only"><span data-i18n="freeOnly">Free admission</span></label><label class="check"><input type="checkbox" id="indoor-only"><span data-i18n="indoorOnly">Indoors</span></label><button id="reset" class="reset" data-i18n="reset">Reset</button></div>
+    </section>
+    <details id="source-coverage" class="source-coverage"><summary><span data-i18n="sourceCoverage">Sources &amp; coverage</span> <span id="coverage-summary"></span></summary><p class="coverage-warning" data-i18n="coverageWarning">Coverage varies by source. Expand to see collection scope and exclusions.</p><div id="source-list"></div></details>
+    <section id="results" aria-label="Activity results">
+      <div class="results-bar"><div><h2><strong id="count">—</strong> <span data-i18n="resultsUnit">activities</span><span id="session-count"></span></h2><span id="results-note" data-i18n="resultsNote">Sorted by date</span></div><div class="view-switch" role="group" aria-label="Display mode"><button data-view="list" data-i18n="list" aria-pressed="true">List</button><button data-view="map" data-i18n="map" aria-pressed="false">Map</button></div></div>
+      <p id="notice" class="notice" hidden></p>
+      <div class="explorer">
+        <div class="list-panel"><div id="cards" class="cards" aria-live="polite"><p data-i18n="loading">Loading activities…</p></div><div id="empty" class="empty" hidden><h3 data-i18n="emptyTitle">No matching activities</h3><p data-i18n="emptyDescription">Try another area or date.</p><button id="empty-reset" data-i18n="emptyReset">Browse this edition</button></div></div>
+        <div id="map-panel" hidden><div id="map" aria-label="Activity locations"></div><p class="map-note" data-i18n="mapNote">Select a venue to view activities. Pins show approximate locations.</p></div>
+      </div>
+      <noscript>Enable JavaScript. 请启用 JavaScript。 <a href="./data/events.json">Activity data / 活动数据</a></noscript>
+    </section>
+    <footer><p id="updated-label"></p><p class="project-links"><a href="https://github.com/siminyou-agent/nyc-family-activities" target="_blank" rel="noopener noreferrer" data-i18n="openSource">Open source on GitHub ↗</a> · <a href="./data/events.json" data-i18n="openData">Activity data</a> · <a href="./data/sessions.csv" download>CSV</a> · <a href="https://github.com/siminyou-agent/nyc-family-activities/blob/main/DATA_LICENSE.md" data-i18n="dataLicense">Data license &amp; attribution</a></p><details><summary data-i18n="sourceNotes">Sources &amp; notes</summary><p data-i18n="aboutCaveat"></p><p><span data-i18n="inspiredBy">Inspired by</span> <a href="https://ranchen.org/weekend" target="_blank" rel="noopener noreferrer" data-i18n="inspiration">Bay Area Family Activities</a></p><p>Venue coordinates: US Census Bureau · © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> (ODbL).</p></details></footer>
+  </main>
+</body>
+</html>

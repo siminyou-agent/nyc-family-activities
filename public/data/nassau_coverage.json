@@ -1,0 +1,4616 @@
+{
+  "checkedOn": "2026-10-24",
+  "range": {
+    "start": "2026-10-24",
+    "end": "2026-11-01"
+  },
+  "memberDirectory": "https://nassaulibrary.org/members/",
+  "memberLibraries": 54,
+  "calendarReadable": 48,
+  "calendarRecords": 1382,
+  "candidateGroups": 365,
+  "representativeDetails": 359,
+  "libraryScopes": [
+    {
+      "id": "baldwin-public-library",
+      "name": "Baldwin Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://baldwinpl.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://baldwinpl.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 25
+          },
+          {
+            "url": "https://baldwinpl.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 5
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "bayville-free-library",
+      "name": "Bayville Free Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://bayvillefreelibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://bayvillefreelibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 20
+          },
+          {
+            "url": "https://bayvillefreelibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 1
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "bellmore-memorial-library",
+      "name": "Bellmore Memorial Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://bellmorelibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://bellmorelibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 29
+          },
+          {
+            "url": "https://bellmorelibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 1
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "bethpage-public-library",
+      "name": "Bethpage Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    },
+    {
+      "id": "bryant-library",
+      "name": "Bryant Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://bryantlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://bryantlibrary.libcal.com/ical_subscribe.php?src=p&cid=21142",
+            "eventsInRange": 37,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "east-meadow-public-library",
+      "name": "East Meadow Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://eastmeadow.libcal.com",
+        "feeds": [
+          {
+            "url": "https://eastmeadow.libcal.com/ical_subscribe.php?src=p&cid=20871",
+            "eventsInRange": 30,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "east-rockaway-public-library",
+      "name": "East Rockaway Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    },
+    {
+      "id": "east-williston-public-library",
+      "name": "East Williston Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    },
+    {
+      "id": "elmont-memorial-library",
+      "name": "Elmont Memorial Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://elmontlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://elmontlibrary.libcal.com/ical_subscribe.php?src=p&cid=20858",
+            "eventsInRange": 29,
+            "totalEvents": 384
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "farmingdale-public-library",
+      "name": "Farmingdale Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://farmingdale.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 1
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 9
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 11
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 12
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 11
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 6
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 2
+          },
+          {
+            "url": "https://farmingdale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "floral-park-public-library",
+      "name": "Floral Park Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://floralparklibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://floralparklibrary.libcal.com/ical_subscribe.php?src=p&cid=20970",
+            "eventsInRange": 18,
+            "totalEvents": 424
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "franklin-square-public-library",
+      "name": "Franklin Square Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://franklinsquarepl.libcal.com",
+        "feeds": [
+          {
+            "url": "https://franklinsquarepl.libcal.com/ical_subscribe.php?src=p&cid=20873",
+            "eventsInRange": 33,
+            "totalEvents": 363
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "freeport-memorial-library",
+      "name": "Freeport Memorial Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://freeportlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://freeportlibrary.libcal.com/ical_subscribe.php?src=p&cid=21131",
+            "eventsInRange": 62,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "garden-city-public-library",
+      "name": "Garden City Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://gardencitypl.libcal.com",
+        "feeds": [
+          {
+            "url": "https://gardencitypl.libcal.com/ical_subscribe.php?src=p&cid=21254",
+            "eventsInRange": 24,
+            "totalEvents": 254
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "glen-cove-public-library",
+      "name": "Glen Cove Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://glencovelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://glencovelibrary.libcal.com/ical_subscribe.php?src=p&cid=21102",
+            "eventsInRange": 34,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "gold-coast-public-library",
+      "name": "Gold Coast Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://goldcoast.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 3
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 3
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 3
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 1
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 2
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 2
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 0
+          },
+          {
+            "url": "https://goldcoast.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 1
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "great-neck-library",
+      "name": "Great Neck Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://greatnecklibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://greatnecklibrary.libcal.com/ical_subscribe.php?src=p&cid=20029",
+            "eventsInRange": 68,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "hempstead-public-library",
+      "name": "Hempstead Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://hempsteadlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://hempsteadlibrary.libcal.com/ical_subscribe.php?src=p&cid=21358",
+            "eventsInRange": 5,
+            "totalEvents": 21
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "henry-waldinger-memorial-library",
+      "name": "Henry Waldinger Memorial Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://valleystreamlibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://valleystreamlibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 15
+          },
+          {
+            "url": "https://valleystreamlibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 0
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "hewlett-woodmere-public-library",
+      "name": "Hewlett-Woodmere Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://hwpl.libcal.com",
+        "feeds": [
+          {
+            "url": "https://hwpl.libcal.com/ical_subscribe.php?src=p&cid=21026",
+            "eventsInRange": 32,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "hicksville-public-library",
+      "name": "Hicksville Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://hicksvillelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://hicksvillelibrary.libcal.com/ical_subscribe.php?src=p&cid=18197",
+            "eventsInRange": 25,
+            "totalEvents": 216
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "hillside-public-library",
+      "name": "Hillside Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://hillsidelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://hillsidelibrary.libcal.com/ical_subscribe.php?src=p&cid=21040",
+            "eventsInRange": 17,
+            "totalEvents": 256
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "island-park-public-library",
+      "name": "Island Park Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://islandparklibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://islandparklibrary.libcal.com/ical_subscribe.php?src=p&cid=21090",
+            "eventsInRange": 10,
+            "totalEvents": 326
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "island-trees-public-library",
+      "name": "Island Trees Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://islandtreespubliclibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://islandtreespubliclibrary.libcal.com/ical_subscribe.php?src=p&cid=20975",
+            "eventsInRange": 17,
+            "totalEvents": 415
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "jericho-public-library",
+      "name": "Jericho Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://www.jericholibrary.org",
+        "feeds": [
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 4
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 4
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 3
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 5
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 5
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 7
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 6
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 3
+          },
+          {
+            "url": "https://www.jericholibrary.org/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "lakeview-public-library",
+      "name": "Lakeview Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://lakeviewlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://lakeviewlibrary.libcal.com/ical_subscribe.php?src=p&cid=21042",
+            "eventsInRange": 20,
+            "totalEvents": 161
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "levittown-public-library",
+      "name": "Levittown Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://levittown.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 1
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 1
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 11
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 4
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 6
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 5
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 5
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 2
+          },
+          {
+            "url": "https://levittown.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "locust-valley-library",
+      "name": "Locust Valley Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://locustvalleylibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://locustvalleylibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 25
+          },
+          {
+            "url": "https://locustvalleylibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 1
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "long-beach-public-library",
+      "name": "Long Beach Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://longbeachpl.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 5
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 2
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 13
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 5
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 12
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 9
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 6
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 6
+          },
+          {
+            "url": "https://longbeachpl.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 2
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "lynbrook-public-library",
+      "name": "Lynbrook Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://lynbrooklibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://lynbrooklibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 7
+          },
+          {
+            "url": "https://lynbrooklibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 0
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "malverne-public-library",
+      "name": "Malverne Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://malvernelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://malvernelibrary.libcal.com/ical_subscribe.php?src=p&cid=20949",
+            "eventsInRange": 5,
+            "totalEvents": 74
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "manhasset-public-library",
+      "name": "Manhasset Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://manhasset.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 3
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 3
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 4
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 6
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 3
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 2
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 1
+          },
+          {
+            "url": "https://manhasset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 1
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "massapequa-public-library",
+      "name": "Massapequa Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://massapequa.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 2
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 3
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 6
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 7
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 5
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 2
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 0
+          },
+          {
+            "url": "https://massapequa.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "merrick-library",
+      "name": "Merrick Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://merricklibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://merricklibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 22
+          },
+          {
+            "url": "https://merricklibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 0
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "mineola-public-library",
+      "name": "Mineola Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://mineola.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 2
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 1
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 3
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 2
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 2
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 1
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 1
+          },
+          {
+            "url": "https://mineola.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "north-bellmore-public-library",
+      "name": "North Bellmore Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://northbellmorelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://northbellmorelibrary.libcal.com/ical_subscribe.php?src=p&cid=20879",
+            "eventsInRange": 40,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "north-merrick-public-library",
+      "name": "North Merrick Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://nmerricklibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://nmerricklibrary.libcal.com/ical_subscribe.php?src=p&cid=21071",
+            "eventsInRange": 17,
+            "totalEvents": 188
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "oceanside-library",
+      "name": "Oceanside Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://oceansidelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://oceansidelibrary.libcal.com/ical_subscribe.php?src=p&cid=20886",
+            "eventsInRange": 88,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "oyster-bay-east-norwich-public-library",
+      "name": "Oyster Bay-East Norwich Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://oysterbaylibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://oysterbaylibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 20
+          },
+          {
+            "url": "https://oysterbaylibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 0
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "peninsula-public-library",
+      "name": "Peninsula Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    },
+    {
+      "id": "plainedge-public-library",
+      "name": "Plainedge Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://plainedgelibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://plainedgelibrary.libcal.com/ical_subscribe.php?src=p&cid=21053",
+            "eventsInRange": 4,
+            "totalEvents": 64
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "plainview-old-bethpage-public-library",
+      "name": "Plainview-Old Bethpage Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://poblib.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 2
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 2
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 6
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 9
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 7
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 5
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 5
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 1
+          },
+          {
+            "url": "https://poblib.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 5
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "port-washington-public-library",
+      "name": "Port Washington Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://portwashington.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 4
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 0
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 11
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 10
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 10
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 12
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 8
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 3
+          },
+          {
+            "url": "https://portwashington.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "rockville-centre-public-library",
+      "name": "Rockville Centre Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://rvcpl.libcal.com",
+        "feeds": [
+          {
+            "url": "https://rvcpl.libcal.com/ical_subscribe.php?src=p&cid=21039",
+            "eventsInRange": 30,
+            "totalEvents": 491
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "roosevelt-public-library",
+      "name": "Roosevelt Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    },
+    {
+      "id": "sea-cliff-village-library",
+      "name": "Sea Cliff Village Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://seaclifflibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://seaclifflibrary.libcal.com/ical_subscribe.php?src=p&cid=21594",
+            "eventsInRange": 14,
+            "totalEvents": 232
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "seaford-public-library",
+      "name": "Seaford Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "assabet-jsonld",
+        "origin": "https://seafordlibrary.assabetinteractive.com",
+        "feeds": [
+          {
+            "url": "https://seafordlibrary.assabetinteractive.com/calendar/2026-october/",
+            "eventsInRange": 12
+          },
+          {
+            "url": "https://seafordlibrary.assabetinteractive.com/calendar/2026-november/",
+            "eventsInRange": 0
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "shelter-rock-public-library",
+      "name": "Shelter Rock Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://srpl.libcal.com",
+        "feeds": [
+          {
+            "url": "https://srpl.libcal.com/ical_subscribe.php?src=p&cid=21438",
+            "eventsInRange": 24,
+            "totalEvents": 252
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "syosset-public-library",
+      "name": "Syosset Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://syosset.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 4
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 1
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 4
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 7
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 4
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 5
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 3
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 0
+          },
+          {
+            "url": "https://syosset.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "uniondale-public-library",
+      "name": "Uniondale Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "librarycalendar-daily",
+        "origin": "https://uniondale.librarycalendar.com",
+        "feeds": [
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-24&ongoing_events=hide",
+            "date": "2026-10-24",
+            "events": 3
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-25&ongoing_events=hide",
+            "date": "2026-10-25",
+            "events": 2
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-26&ongoing_events=hide",
+            "date": "2026-10-26",
+            "events": 8
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-27&ongoing_events=hide",
+            "date": "2026-10-27",
+            "events": 7
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-28&ongoing_events=hide",
+            "date": "2026-10-28",
+            "events": 6
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-29&ongoing_events=hide",
+            "date": "2026-10-29",
+            "events": 5
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-30&ongoing_events=hide",
+            "date": "2026-10-30",
+            "events": 6
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-10-31&ongoing_events=hide",
+            "date": "2026-10-31",
+            "events": 4
+          },
+          {
+            "url": "https://uniondale.librarycalendar.com/events/feed/html?_wrapper_format=lc_calendar_feed&current_date=2026-11-01&ongoing_events=hide",
+            "date": "2026-11-01",
+            "events": 0
+          }
+        ],
+        "failures": [],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "wantagh-public-library",
+      "name": "Wantagh Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://wantaghlibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://wantaghlibrary.libcal.com/ical_subscribe.php?src=p&cid=20951",
+            "eventsInRange": 24,
+            "totalEvents": 500
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "west-hempstead-public-library",
+      "name": "West Hempstead Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://whplibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://whplibrary.libcal.com/ical_subscribe.php?src=p&cid=21141",
+            "eventsInRange": 27,
+            "totalEvents": 290
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "westbury-memorial-public-library",
+      "name": "Westbury Memorial Public Library",
+      "status": "ok",
+      "scope": {
+        "platform": "libcal-ical",
+        "origin": "https://westburylibrary.libcal.com",
+        "feeds": [
+          {
+            "url": "https://westburylibrary.libcal.com/ical_subscribe.php?src=p&cid=21306",
+            "eventsInRange": 5,
+            "totalEvents": 27
+          },
+          {
+            "url": "https://westburylibrary.libcal.com/ical_subscribe.php?src=p&cid=21313",
+            "eventsInRange": 5,
+            "totalEvents": 39
+          },
+          {
+            "url": "https://westburylibrary.libcal.com/ical_subscribe.php?src=p&cid=21314",
+            "eventsInRange": 27,
+            "totalEvents": 333
+          }
+        ],
+        "completeDates": [
+          "2026-10-24",
+          "2026-11-01"
+        ]
+      },
+      "error": null
+    },
+    {
+      "id": "williston-park-public-library",
+      "name": "Williston Park Public Library",
+      "status": "limited",
+      "scope": null,
+      "error": "Calendar needs separate platform adapter or additional discovery"
+    }
+  ],
+  "imported": [
+    {
+      "key": "baldwin-public-library|tuney tots - 1 - 4 years with parent/caregiver |2nd floor community room (full room)|",
+      "id": "nassau-8420d07e2d18",
+      "libraryId": "baldwin-public-library",
+      "source": "https://baldwinpl.assabetinteractive.com/calendar/tuney-tots-1-4-years-with-parent-caregiver-14/",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "baldwin-public-library|make your own trick-or-treat bag! (grades k - 2)|makerspace (2nd floor)|grades k - 2) decorate this canvas bag in anticipatio",
+      "id": "nassau-051673934bea",
+      "libraryId": "baldwin-public-library",
+      "source": "https://baldwinpl.assabetinteractive.com/calendar/placeholder-childrens-event-2/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "baldwin-public-library|make your own trick-or-treat bag! (grades 3 - 6)|makerspace (2nd floor)|grades 3 - 6) decorate this canvas bag in anticipatio",
+      "id": "nassau-7b0e4ed9ff90",
+      "libraryId": "baldwin-public-library",
+      "source": "https://baldwinpl.assabetinteractive.com/calendar/make-your-own-trick-or-treat-bag-grades-3-6/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "baldwin-public-library|music for aardvarks - ages 4 months - 4 years with parent/caregiver|2nd floor community room c (front half)|ages 4 months - 4 years with parent/caregiver wedne",
+      "id": "nassau-670651bccc04",
+      "libraryId": "baldwin-public-library",
+      "source": "https://baldwinpl.assabetinteractive.com/calendar/music-for-aardvarks-ages-4-months-4-years-with-parent-caregiver-22/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "baldwin-public-library|teen halloween movie (grades 6-12)|2nd floor community room d (back half)|grades 6-12) get in the spirit with a halloween movie",
+      "id": "nassau-a4e2f0555f64",
+      "libraryId": "baldwin-public-library",
+      "source": "https://baldwinpl.assabetinteractive.com/calendar/teen-halloween-movie-grades-6-12/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "bayville-free-library|baby's first storytime|sperandei hall|ages 3 months - 18 months",
+      "id": "nassau-429b1f79097a",
+      "libraryId": "bayville-free-library",
+      "source": "https://bayvillefreelibrary.assabetinteractive.com/calendar/babys-first-storytime-182/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bellmore-memorial-library|family storytime|storytime room|ages: 5 and underplease note that when you register ",
+      "id": "nassau-c49945cc83a1",
+      "libraryId": "bellmore-memorial-library",
+      "source": "https://bellmorelibrary.assabetinteractive.com/calendar/family-storytime-292/",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bellmore-memorial-library|baby storytime|storytime room|ages: 18 months and underplease note that when you r",
+      "id": "nassau-dac8c4880b88",
+      "libraryId": "bellmore-memorial-library",
+      "source": "https://bellmorelibrary.assabetinteractive.com/calendar/baby-storytime-176/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bellmore-memorial-library|tiny songbirds|community room|ages: 5 and underdue to the limited number of spaces",
+      "id": "nassau-e42a36b35ab7",
+      "libraryId": "bellmore-memorial-library",
+      "source": "https://bellmorelibrary.assabetinteractive.com/calendar/tiny-songbirds-8/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bellmore-memorial-library|halloween party|community room|ages: 5 and underdue to the limited number of spaces",
+      "id": "nassau-efbd95ffeb93",
+      "libraryId": "bellmore-memorial-library",
+      "source": "https://bellmorelibrary.assabetinteractive.com/calendar/halloween-party-5/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|halloween tabletop craft (cr)|children's room|",
+      "id": "nassau-8b86a176fb14",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17239377",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "bryant-library|bryant before dark: boo bash! (hgr)|children's room|",
+      "id": "nassau-49260cba1e0e",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17222645",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|share, story, sing! (cr)|children's room|ages 1 - 4 years",
+      "id": "nassau-4779199a63f7",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17223632",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|halloween storycraft (cr)|children's room|ages 2-5",
+      "id": "nassau-5129006ca1db",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17223752",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|decorate halloween spooky houses! (hgr)|hgr|",
+      "id": "nassau-43c39aad4f4e",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17258915",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|family game night! (cr)|children's room|",
+      "id": "nassau-adf4efeca267",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17259066",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "bryant-library|bryant kids trick or treat & halloween party! (hgr)|hgr|",
+      "id": "nassau-d44bcac7bae4",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/16866962",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|halloween storytime & parade (cr)|children's room|",
+      "id": "nassau-dcde34db13cc",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17239078",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "bryant-library|lego fun time (cr)|children's room|ages 3 ",
+      "id": "nassau-a7d2ca95099f",
+      "libraryId": "bryant-library",
+      "source": "https://bryantlibrary.libcal.com/event/17595536",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "east-meadow-public-library|halloween toddler dance party - 18 months to not yet in k|children's story hour room|",
+      "id": "nassau-04a585ae062b",
+      "libraryId": "east-meadow-public-library",
+      "source": "https://eastmeadow.libcal.com/event/17324944",
+      "sessions": 2,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "east-meadow-public-library|toddler and me yoga- ages 2-5|children's story hour room|ages 2-5 learn some simple yoga poses along with yo",
+      "id": "nassau-84003d6030b5",
+      "libraryId": "east-meadow-public-library",
+      "source": "https://eastmeadow.libcal.com/event/17325022",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "east-meadow-public-library|baby playdate- birth to 17 months|children's story hour room|age 17 months only",
+      "id": "nassau-1288e9abe7fd",
+      "libraryId": "east-meadow-public-library",
+      "source": "https://eastmeadow.libcal.com/event/17325037",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "east-meadow-public-library|halloween bingo- ages 3 and up|community room|ages 3 and up join us for halloween bingo, a costum",
+      "id": "nassau-3782674537e1",
+      "libraryId": "east-meadow-public-library",
+      "source": "https://eastmeadow.libcal.com/event/17324580",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "elmont-memorial-library|little kids yoga|room 02|ages 2 years - 4 years",
+      "id": "nassau-387504f45bb6",
+      "libraryId": "elmont-memorial-library",
+      "source": "https://elmontlibrary.libcal.com/event/17081956",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "elmont-memorial-library|lego club|craftroom/storytime|grades k - 5",
+      "id": "nassau-ab4b33304e8e",
+      "libraryId": "elmont-memorial-library",
+      "source": "https://elmontlibrary.libcal.com/event/17248754",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "elmont-memorial-library|atfk: preschool pals|room 02|ages 2 years - 4 years",
+      "id": "nassau-2c0db32d665f",
+      "libraryId": "elmont-memorial-library",
+      "source": "https://elmontlibrary.libcal.com/event/17189361",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "elmont-memorial-library|play hooray babies|room 02|ages birth - 1 year",
+      "id": "nassau-354d1fa74de8",
+      "libraryId": "elmont-memorial-library",
+      "source": "https://elmontlibrary.libcal.com/event/17240737",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "elmont-memorial-library|children's movie: hoppers|theatre|grade 5",
+      "id": "nassau-15ab3ad94db2",
+      "libraryId": "elmont-memorial-library",
+      "source": "https://elmontlibrary.libcal.com/event/17546703",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "farmingdale-public-library|jello tasting||",
+      "id": "nassau-c4064e969edc",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/jello-tasting-26435",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "farmingdale-public-library|inside a house that is haunted||",
+      "id": "nassau-90bc3d502c11",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/inside-house-haunted-25563",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "farmingdale-public-library|open play||",
+      "id": "nassau-5676c2cead80",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/open-play-25780",
+      "sessions": 5,
+      "ageBasis": "official"
+    },
+    {
+      "key": "farmingdale-public-library|triple p||",
+      "id": "nassau-23a65df4b902",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/triple-p-27154",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "farmingdale-public-library|magical bats||",
+      "id": "nassau-38cd0a753ff6",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/magical-bats-25571",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "farmingdale-public-library|make your own ghost||",
+      "id": "nassau-f09df276ee3a",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/make-your-own-ghost-25841",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "farmingdale-public-library|spooky tree||",
+      "id": "nassau-55c60896ee03",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/spooky-tree-25844",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "farmingdale-public-library|wiggles & giggles||",
+      "id": "nassau-0c732156ebf6",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/wiggles-giggles-25565",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "farmingdale-public-library|big buddies slime time||",
+      "id": "nassau-2bd59b694582",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/big-buddies-slime-time-25953",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "farmingdale-public-library|where the wild things are||",
+      "id": "nassau-f9d5f8428b64",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/where-wild-things-are-25566",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "farmingdale-public-library|halloween parade||",
+      "id": "nassau-c43b681da1db",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/halloween-parade-25847",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "farmingdale-public-library|fun with baby||",
+      "id": "nassau-956f4b0e0635",
+      "libraryId": "farmingdale-public-library",
+      "source": "https://farmingdale.librarycalendar.com/event/fun-baby-25490",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "floral-park-public-library|family event with chefs of d'future|meeting room located on the lower level|grade 5",
+      "id": "nassau-da17d6ac1560",
+      "libraryId": "floral-park-public-library",
+      "source": "https://floralparklibrary.libcal.com/event/16901941",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "floral-park-public-library|halloween storytime for 2 years old through preschool age.|meeting room located on the lower level|",
+      "id": "nassau-4b8d87a56a36",
+      "libraryId": "floral-park-public-library",
+      "source": "https://floralparklibrary.libcal.com/event/17581017",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "floral-park-public-library|halloween storycraft for kids in pre-k through grade 2.|meeting room located on the lower level|grade 2",
+      "id": "nassau-363e4a2a8eff",
+      "libraryId": "floral-park-public-library",
+      "source": "https://floralparklibrary.libcal.com/event/16907868",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "floral-park-public-library|more than a story with mrs. lazos for children age 2.5 to preschool.|meeting room located on the lower level|age 2",
+      "id": "nassau-2108012bc9b6",
+      "libraryId": "floral-park-public-library",
+      "source": "https://floralparklibrary.libcal.com/event/17568179",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "floral-park-public-library|pumpkin sand art for kids in kindergarten to grade 5|meeting room located on the lower level|grade 5 you must register for this event, but you ca",
+      "id": "nassau-e65f5e6588e3",
+      "libraryId": "floral-park-public-library",
+      "source": "https://floralparklibrary.libcal.com/event/17881861",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "franklin-square-public-library|story time, ages 18-24 months|meeting room|ages 18-24 months ages 18months-just 2",
+      "id": "nassau-7d0045f5981b",
+      "libraryId": "franklin-square-public-library",
+      "source": "https://franklinsquarepl.libcal.com/event/17267280",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "freeport-memorial-library|fall festival|room 1, room 2, room 3, room 4, room 5|",
+      "id": "nassau-a8859ed380ce",
+      "libraryId": "freeport-memorial-library",
+      "source": "https://freeportlibrary.libcal.com/event/16807393",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "freeport-memorial-library|halloween party prek-4 grade|room 1, room 2, room 3|",
+      "id": "nassau-0b8d484d2b28",
+      "libraryId": "freeport-memorial-library",
+      "source": "https://freeportlibrary.libcal.com/event/17083602",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "freeport-memorial-library|baby mingle|room 4|",
+      "id": "nassau-bc7a09402982",
+      "libraryId": "freeport-memorial-library",
+      "source": "https://freeportlibrary.libcal.com/event/17361658",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "freeport-memorial-library|lego club|room 3|grades 2 to 6",
+      "id": "nassau-c66904649a10",
+      "libraryId": "freeport-memorial-library",
+      "source": "https://freeportlibrary.libcal.com/event/16752065",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "garden-city-public-library|matters of the heart|small (rm. a)|ages 2-5 (not in kindergarten in) and their adult c",
+      "id": "nassau-c2ed81fe79bc",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17358625",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "garden-city-public-library|toddler storytime|children - story time|ages 18 months-36 months",
+      "id": "nassau-32e17ca54a31",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17352945",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "garden-city-public-library|mixed age storytime|children - story time|ages birth-5 (not in kindergarten)",
+      "id": "nassau-a167ff0a7219",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17353178",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "garden-city-public-library|preschool halloween parade|large (rm. b)|ages birth - 5 (not in kindergarten) and their adult ca",
+      "id": "nassau-a58f12025f77",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17183125",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "garden-city-public-library|play hooray|large (rm. b)|age 5 (not in kindergarten) and an adult caregiver",
+      "id": "nassau-aa04db286423",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17502577",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "garden-city-public-library|baby start with a time for kids|children - story time|",
+      "id": "nassau-a68f0fce16d9",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17228427",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "garden-city-public-library|day of the dead storytime and craft|children - steam|ages 2-5 and their caregivers",
+      "id": "nassau-c91d8406afd6",
+      "libraryId": "garden-city-public-library",
+      "source": "https://gardencitypl.libcal.com/event/17201543",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "glen-cove-public-library|infant massage with lisa curley: birth to pre walkers|children's room|",
+      "id": "nassau-a3add141adc8",
+      "libraryId": "glen-cove-public-library",
+      "source": "https://glencovelibrary.libcal.com/event/16920047",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "glen-cove-public-library|infant storytime: ages 3-17 months|children's room|ages 3-17 months our littlest patrons will enjoy a ",
+      "id": "nassau-d2a3251b8745",
+      "libraryId": "glen-cove-public-library",
+      "source": "https://glencovelibrary.libcal.com/event/16827804",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "glen-cove-public-library|trick or treating and crafts: halloween fun and scavenger hunt|children's room|",
+      "id": "nassau-98ccb373d460",
+      "libraryId": "glen-cove-public-library",
+      "source": "https://glencovelibrary.libcal.com/event/17797529",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "glen-cove-public-library|winnie the pooh birthday storytime: ages 1-4|children's room|ages 1-4 join us to celebrate pooh's 100th birthday",
+      "id": "nassau-8ecbdcccfcef",
+      "libraryId": "glen-cove-public-library",
+      "source": "https://glencovelibrary.libcal.com/event/17812793",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "glen-cove-public-library|time for kids halloween: ages 18 months - 5 years|children's room|ages 18 months - 5 years preschoolers will enjoy a ",
+      "id": "nassau-4016cf0f6190",
+      "libraryId": "glen-cove-public-library",
+      "source": "https://glencovelibrary.libcal.com/event/16639702",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "gold-coast-public-library|pumpkin decorating: session i||",
+      "id": "nassau-b7de5d4252e4",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/pumpkin-decorating-15900",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "gold-coast-public-library|pumpkin decorating: session ii||",
+      "id": "nassau-9c59306d6bbd",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/pumpkin-decorating-session-ii-16358",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "gold-coast-public-library|pumpkin decorating: session iii||",
+      "id": "nassau-95082fd67a2b",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/pumpkin-decorating-session-iii-16359",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "gold-coast-public-library|father goose||ages 12 to 35 months this thirty-minute circle time",
+      "id": "nassau-a0d70ce05ece",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/father-goose-14336",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "gold-coast-public-library|tots night out||ages 18 months to 5 years time for kids presents a ",
+      "id": "nassau-506bf803b8d0",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/tots-night-out-8680",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "gold-coast-public-library|wigglin' wednesdays||ages: 3 to 5 years got ants in your pants? come wigg",
+      "id": "nassau-b8376331f922",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/wigglin-wednesdays-16409",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "gold-coast-public-library|miss megan's storytime||",
+      "id": "nassau-23692c786b49",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/miss-megans-storytime-15742",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "gold-coast-public-library|miss alex's spooky storytime||ages 2-5 ; if you can, wear your halloween costume ",
+      "id": "nassau-27b78216dd2e",
+      "libraryId": "gold-coast-public-library",
+      "source": "https://goldcoast.librarycalendar.com/event/miss-alexs-spooky-storytime-15896",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "great-neck-library|book buddies with aylus (family)|main library large multipurpose room, main building|",
+      "id": "nassau-595d15c914ca",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17209851",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|blooming baby (3-9 months)|main library large multipurpose room, main building|",
+      "id": "nassau-e6b488883682",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17214754",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "great-neck-library|play and learn workshop (crawlers- prek)|station branch community room, station branch|",
+      "id": "nassau-efc00d960ea0",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17238852",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|jack o'lantern craft (walker-kindergarten)|main library children's program room, main building|",
+      "id": "nassau-d8190cbb5fbe",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17210592",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|jr. levels anime & manga drawing (grades 5-6)|levels teen center, main building|grades 5-6) join professional artist mckel supreme of",
+      "id": "nassau-e996a2088eff",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17483838",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|sensational playtime (18- 36 months)|main library community room, main building|",
+      "id": "nassau-175ea109ba2e",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17238923",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "great-neck-library|artful autumn storycraft (pre-k to 2nd grade)|main library children's program room, main building|",
+      "id": "nassau-b22a11b1847d",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17224431",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|moon craft (kindergarten-grade 5)|station branch community room, station branch|grade 5) as the days grow shorter and the stars begi",
+      "id": "nassau-853f24473453",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17229595",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|jr. levels video games (grades 5-6)|levels teen center, main building|grades 5-6) use our switch 2 to play smash bros",
+      "id": "nassau-18fb785a2ef5",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17483890",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|family game hour (family)|parkville branch programming room, parkville branch|grades pre-k to 6th welcome",
+      "id": "nassau-7a1e9869d687",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17411327",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|wild about movement (walkers-prek)|station branch community room, station branch|",
+      "id": "nassau-54a196600d65",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17242875",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|caramel apple storycraft (pre-k-gr. 2)|main library children's program room, main building|grade 2",
+      "id": "nassau-34664d8c9511",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17299996",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|animation & cartooning (grades 2-5)|parkville branch programming room, parkville branch|grades 2-5) this program will be an introduction to a",
+      "id": "nassau-be01794d829b",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17468589",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|jr. levels living through the world (grades 5-6)|levels teen center, main building|grades 5-6) the living through history program return",
+      "id": "nassau-1b07fc557562",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17484015",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|1-2-3 full s.t.e.a.m ahead (24 months- prek)|parkville branch programming room, parkville branch|",
+      "id": "nassau-a9ad0ced099a",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17210348",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|station storytime (crawlers-prek)|station branch community room, station branch|",
+      "id": "nassau-ff83ae19703c",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17225908",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|baby start (6- 18 months)|parkville branch programming room, parkville branch|",
+      "id": "nassau-975253b15b82",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17210386",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "great-neck-library|tween graphic novel book club (grades 4-7)|main library children's program room, main building|grades 4-7) attention fans of raina telgemeier",
+      "id": "nassau-28f3682acfe1",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17217673",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|zombie house painting (grades 2-5)|parkville branch programming room, parkville branch|grades 2-5) celebrate the spookiest season with an ar",
+      "id": "nassau-0df0da8637d3",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17239402",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|jr. levels crochet club (grades 5-6)|levels teen center, main building|grades 5-6) join our crochet circle and turn yarn int",
+      "id": "nassau-780450667e22",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17484050",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "great-neck-library|toddler storytime (walkers-prek)|main library large multipurpose room, main building|",
+      "id": "nassau-d902bc6b53c3",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17156552",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|baby storytime (infants- crawlers)|main library large multipurpose room, main building|",
+      "id": "nassau-ca30674aa135",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17206597",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "great-neck-library|monster masks|main library stem lab, main building|ages 7  recommended, all ages are welcome",
+      "id": "nassau-02829c23d23b",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17399985",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "great-neck-library|spooky storytime (family)|main library large multipurpose room, main building|",
+      "id": "nassau-04988c28daae",
+      "libraryId": "great-neck-library",
+      "source": "https://greatnecklibrary.libcal.com/event/17217457",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "henry-waldinger-memorial-library|toddlers, tots & tykes|children's room|age 3, with caregiver",
+      "id": "nassau-c3cc721c5363",
+      "libraryId": "henry-waldinger-memorial-library",
+      "source": "https://valleystreamlibrary.assabetinteractive.com/calendar/toddlers-tots-tykes-43/",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "henry-waldinger-memorial-library|family bingo night |village green lawn|grades k-6, with caregiverregistration required",
+      "id": "nassau-ed798302f752",
+      "libraryId": "henry-waldinger-memorial-library",
+      "source": "https://valleystreamlibrary.assabetinteractive.com/calendar/family-bingo-night-15/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "henry-waldinger-memorial-library|halloween for tots|children's room|ages 3m",
+      "id": "nassau-5c0c97ac831e",
+      "libraryId": "henry-waldinger-memorial-library",
+      "source": "https://valleystreamlibrary.assabetinteractive.com/calendar/halloween-for-tots-2/",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|fall fun with play makers - 1-4 year-olds with a caregiver|boehm room|",
+      "id": "nassau-f3363039b542",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16744945",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|toddler yoga - 18 months - 3-years-old with a caregiver|boehm room|",
+      "id": "nassau-c46b79b8ce56",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16910756",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|day of the dead (dia de los muertos) craft - grades k-5|boehm room|grades k-5 celebrate the day of the dead by decoratin",
+      "id": "nassau-db140f34af7d",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16745044",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|day of the dead (dia de los muertos) craft - grades 6-12|boehm room|grades 6-12 celebrate the day of the dead by decorati",
+      "id": "nassau-b91a1e8b7a85",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16745054",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|guitar lessons - grades 4-8|storytime room (youth services use only)|grades 4-8 join reprise music to learn the basics of ",
+      "id": "nassau-66f50e6423c1",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/17089827",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|sing, sign, & play - beginners class - 3 to 23 months with a caregiver|boehm room|",
+      "id": "nassau-f0d2b8002591",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16971689",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|sing, sign, & play - intermediate class - 1 - 3 year-olds with a caregiver|boehm room|",
+      "id": "nassau-5bcc84c97463",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16971696",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|lil athletes - 20 - 35 months old with a caregiver|boehm room|",
+      "id": "nassau-704442629857",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/17093372",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|attack of the zombie sea urchins - ages 3-5 with a caregiver|boehm room|ages 3-5 with a caregiver dive into the wild world ",
+      "id": "nassau-5fc5beb2f389",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16889554",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|goblin grabber - grades 1-5|boehm room|grades 1-5 learn about the goblin shark and engineer ",
+      "id": "nassau-7a92b25f67e7",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16889563",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|cognitive film society: the addams family (1991)|gold hall|",
+      "id": "nassau-59fdfb5d02fa",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16858777",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|great beginnings - 20 - 36 months with a caregiver|storytime room (youth services use only)|",
+      "id": "nassau-9d326ff6e45b",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/17280218",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|great beginnings - 3-19 months with a caregiver|storytime room (youth services use only)|",
+      "id": "nassau-f1da54c7fc86",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/17280276",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|halloween stem spectacular - grades 2-6|boehm room|grades 2-6 halloween-themed experiments and challenge",
+      "id": "nassau-45750fc7587d",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/17320768",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|extra extra read all about it! magic & illusion show - for families with children ages 3 and older|gold hall|ages 3 and older a library-themed show focused on r",
+      "id": "nassau-fac88565113b",
+      "libraryId": "hewlett-woodmere-public-library",
+      "source": "https://hwpl.libcal.com/event/16773392",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hicksville-public-library|baby start|community room (e)|ages birth - 17 months with a caregiver",
+      "id": "nassau-6f772965f297",
+      "libraryId": "hicksville-public-library",
+      "source": "https://hicksvillelibrary.libcal.com/event/17675505",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hicksville-public-library|tots morning out|community room (e)|ages 18 months – 5 years (not in kindergarten) with",
+      "id": "nassau-e3ab1fc08bcd",
+      "libraryId": "hicksville-public-library",
+      "source": "https://hicksvillelibrary.libcal.com/event/17675511",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hicksville-public-library|fall storytime|children's room|ages birth - 5",
+      "id": "nassau-724801465d3c",
+      "libraryId": "hicksville-public-library",
+      "source": "https://hicksvillelibrary.libcal.com/event/17860440",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hicksville-public-library|jump for joy|community room (e)|ages 18 months to 5 years with a caregiver",
+      "id": "nassau-9827fd91e84a",
+      "libraryId": "hicksville-public-library",
+      "source": "https://hicksvillelibrary.libcal.com/event/16858280",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hicksville-public-library|not so spooky storytime|community room (e)|ages birth-5 (not yet in kindergarten) with a caregiver",
+      "id": "nassau-dff8eb51d6d7",
+      "libraryId": "hicksville-public-library",
+      "source": "https://hicksvillelibrary.libcal.com/event/17456276",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hillside-public-library|snuggle tales|all-purpose room, 2nd floor|ages: 12mo-4yrs (with parent/caregiver)",
+      "id": "nassau-73c80399825d",
+      "libraryId": "hillside-public-library",
+      "source": "https://hillsidelibrary.libcal.com/event/17705734",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "hillside-public-library|master builders!|all-purpose room, 2nd floor|",
+      "id": "nassau-66cc86cc9fae",
+      "libraryId": "hillside-public-library",
+      "source": "https://hillsidelibrary.libcal.com/event/17704986",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hillside-public-library|100 years of hunny! happy b-day winnie the pooh!||ages: 1-4 (with parent/caregiver)",
+      "id": "nassau-874e304db01f",
+      "libraryId": "hillside-public-library",
+      "source": "https://hillsidelibrary.libcal.com/event/17705236",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hillside-public-library|itsy bitsy tales|all-purpose room, 2nd floor|ages: 12 months- 4 years (w/ parent/caregiver)",
+      "id": "nassau-c98c1c0edd4a",
+      "libraryId": "hillside-public-library",
+      "source": "https://hillsidelibrary.libcal.com/event/17705804",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "hillside-public-library|now showing: minions & monsters|all-purpose room, 2nd floor|",
+      "id": "nassau-a581ff25f5eb",
+      "libraryId": "hillside-public-library",
+      "source": "https://hillsidelibrary.libcal.com/event/17715417",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-park-public-library|pajama storytime|children's room|ages 3 to 8",
+      "id": "nassau-346c46670ead",
+      "libraryId": "island-park-public-library",
+      "source": "https://islandparklibrary.libcal.com/event/17253204",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "island-park-public-library|tween/teen mystical night|community room|grades 6 & up",
+      "id": "nassau-3fd05432cb62",
+      "libraryId": "island-park-public-library",
+      "source": "https://islandparklibrary.libcal.com/event/17258798",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "island-park-public-library|halloween fun & parade|children's room|",
+      "id": "nassau-9d66679b417e",
+      "libraryId": "island-park-public-library",
+      "source": "https://islandparklibrary.libcal.com/event/17269994",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-park-public-library|toddler halloween storytime|community room|ages 18 months - 4 years",
+      "id": "nassau-4d9eda5319a5",
+      "libraryId": "island-park-public-library",
+      "source": "https://islandparklibrary.libcal.com/event/17258856",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-trees-public-library|halloween paint a pumpkin (for grades 5-12)|community room, island trees public library|grades 5-12) come one come all for a fun paint progra",
+      "id": "nassau-8988f2b37854",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/17187244",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "island-trees-public-library|fun with a time for kids (ages 1.5-5yrs)|community room - library side, island trees public library|ages 1",
+      "id": "nassau-1609df24c65a",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/17002072",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-trees-public-library|babytime (ages 6-18mos.)|community room - library side|ages 6-18mos",
+      "id": "nassau-ef167d7bca72",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/16593128",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-trees-public-library|toddler time (ages 18mos.-2.5yrs)|community room - library side|ages 18mos",
+      "id": "nassau-98abc6c4fcf6",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/16593145",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "island-trees-public-library|learn to code (for grades 5-12)|young adult room, island trees public library|grades 5-12) from beginner to advanced, our mentor wi",
+      "id": "nassau-3b8fa6a4677b",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/17152070",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "island-trees-public-library|halloween zumbini! (ages 0-4yrs)|community room - library side|ages 0-4yrs) start off halloween with a dance party",
+      "id": "nassau-90836c1deae0",
+      "libraryId": "island-trees-public-library",
+      "source": "https://islandtreespubliclibrary.libcal.com/event/17070541",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|origami workshop: tulip in a box (grades 4-6) 🌷||grades 4-6) 🌷 breathe life into this model with a pu",
+      "id": "nassau-3d264c1a0b80",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/origami-workshop-tulip-box-100128",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "jericho-public-library|creative drawing workshop (grades k-3)||grades k-3) ny times artist cara wang will instruct c",
+      "id": "nassau-32905ad94c75",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/creative-drawing-workshop-grades-k-3-100189",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "jericho-public-library|tots night out (ages 18 months to 5 years)||ages 18 months to 5 years) enjoy an evening of craf",
+      "id": "nassau-d26bff31dcd6",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/tots-night-out-ages-18-months-5-years-92842",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|stepping stones to milestones (ages 18-28 months)||ages 18-28 months) come join miss renee and miss am",
+      "id": "nassau-b17ce53113cf",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/stepping-stones-milestones-ages-18-28-months-99950",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|stepping stones to milestones (ages 29-47 months)||ages 29-47 months) come join miss renee, a literary",
+      "id": "nassau-a1861c1f7796",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/stepping-stones-milestones-ages-29-47-months-99952",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|friendly ghost stories and craft (grades k-2) 👻||grades k-2) 👻 enjoy a few not-so-scary ghost stories",
+      "id": "nassau-3bdbe12539d9",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/friendly-ghost-stories-and-craft-grades-k-2-99159",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "jericho-public-library|spooky spider seashell art (grades 4-6) 🕷️🐚||grades 4-6) 🕷️🐚 in this hands-on art class, partici",
+      "id": "nassau-e5e33ae62cbf",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/spooky-spider-seashell-art-grades-4-6-98711",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "jericho-public-library|mandarin bilingual story time (ages 18 months-5 years)||ages 18 months-5 years) join us for a 30-minute pro",
+      "id": "nassau-70b145518eb7",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/mandarin-bilingual-story-time-ages-18-months-5-years-99627",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|baby and me stories and songs (ages birth through 18 months)||ages birth through 18 months) a cozy lap-sit program fo",
+      "id": "nassau-505f52ded68c",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/baby-and-me-stories-and-songs-ages-birth-through-18-months-100290",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "jericho-public-library|craft corner (grades k-3)||grades k-3) children will make a fun craft with the h",
+      "id": "nassau-3fa78d3ca6cf",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/craft-corner-grades-k-3-100302",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "jericho-public-library|itty bitty bookworms (ages birth to 30 months)||ages birth to 30 months) join us for this interactive p",
+      "id": "nassau-599a813bbb83",
+      "libraryId": "jericho-public-library",
+      "source": "https://www.jericholibrary.org/event/itty-bitty-bookworms-ages-birth-30-months-100291",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "lakeview-public-library|from our history to their future- literacy- history-service free community event|meeting room 1 - first floor|",
+      "id": "nassau-e9842a9f310b",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17811969",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "lakeview-public-library|kiki dance lab: where movement meets confidence for girls|meeting room 2 - exercise room|ages 8–14 are invited to join kiki dance lab, an en",
+      "id": "nassau-5f4e12e818dd",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17418892",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "lakeview-public-library|haunted house craft|children's room|grades 6 and under",
+      "id": "nassau-49a7cba5c368",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17536174",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "lakeview-public-library|lego club|children's room|grades k through 6th",
+      "id": "nassau-59bc7148f0ad",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17782303",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "lakeview-public-library|halloween party for kids|children's room|grades 6 and under",
+      "id": "nassau-e781b85b6b2a",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17534787",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "lakeview-public-library|coding for kids|meeting room 3 - computer lab|grades k-8",
+      "id": "nassau-8d3348a506ea",
+      "libraryId": "lakeview-public-library",
+      "source": "https://lakeviewlibrary.libcal.com/event/17842602",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "levittown-public-library|all together now storytime (session 1)||",
+      "id": "nassau-3a7e4670c082",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/all-together-now-storytime-session-1-30406",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "levittown-public-library|all together now stortyime (session 2)||",
+      "id": "nassau-e17bc1df83f1",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/all-together-now-stortyime-session-2-30409",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "levittown-public-library|little chefs (session 1)||grade 2, with one adult",
+      "id": "nassau-19470ab5fa26",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/little-chefs-session-1-27227",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "levittown-public-library|little chefs (session 2)||grade 2, with one adult",
+      "id": "nassau-47f005c880bc",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/little-chefs-session-2-27228",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "levittown-public-library|kids in the kitchen||grades 3-5",
+      "id": "nassau-d02881dce39a",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/kids-kitchen-27229",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "levittown-public-library|on my own storycrafters||ages 3",
+      "id": "nassau-3f12ce6a4e88",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/my-own-storycrafters-30418",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "levittown-public-library|monster jam show||ages birth-5 years",
+      "id": "nassau-aed2db916cab",
+      "libraryId": "levittown-public-library",
+      "source": "https://levittown.librarycalendar.com/event/monster-jam-show-22696",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|adventures in art: preschool program|mna community room|ages 3-5 with an adult",
+      "id": "nassau-44087992ab12",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/adventures-in-art-preschool-prgroam-2/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|baby storytime|children's area|",
+      "id": "nassau-3ca84d008950",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/baby-storytime-51/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|toddler storytime|storytime room|ages 18 months - 36 months",
+      "id": "nassau-5fe57bd51bd5",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/toddler-storytime-38/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|halloween pj storytime|children's area|ages 4-7",
+      "id": "nassau-9e10d533d847",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/halloween-pj-storytime/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|preschool storytime|storytime room|ages 3-5 welcome",
+      "id": "nassau-b7cacf84c8c9",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/preschool-storytime-42/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "locust-valley-library|beat to your own drum-movement class|mna community room|",
+      "id": "nassau-6bb8c8ecf1d3",
+      "libraryId": "locust-valley-library",
+      "source": "https://locustvalleylibrary.assabetinteractive.com/calendar/beat-to-your-own-drum-movement-class-69/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|concert: moose the band||",
+      "id": "nassau-f11a20e0d760",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/concert-moose-131251",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|cinderella presented by long beach arts council and sunrise theater co.||",
+      "id": "nassau-11db059972fe",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/cinderella-long-beach-arts-council-and-sunrise-theater-co-131771",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|molly mouse @ 9:30am||",
+      "id": "nassau-38bbb8f516ad",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/molly-mouse-930am-111234",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|molly mouse @ 10:15am||",
+      "id": "nassau-ae2bb723facd",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/molly-mouse-1015am-111259",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|molly mouse @ 11:00am||",
+      "id": "nassau-8120a8eae116",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/molly-mouse-1100am-111280",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|magic: the gathering||",
+      "id": "nassau-d918228c2d11",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/magic-gathering-134767",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|messy art with your baby!||",
+      "id": "nassau-7b238ab0fc87",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/messy-art-your-baby-134214",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|after-school homework help||",
+      "id": "nassau-aa0deccaac2f",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/after-school-homework-help-136769",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "long-beach-public-library|play dough time||",
+      "id": "nassau-df9a8d1cae9c",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/play-dough-time-110553",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|play hooray||",
+      "id": "nassau-cf4ce0921331",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/play-hooray-111303",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|messy art - cardboard pumpkin collage||",
+      "id": "nassau-4c39e5ae3222",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/scrap-fabric-witch-hats-131264",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "long-beach-public-library|family halloween costume party at west (west end)||",
+      "id": "nassau-f849728ca810",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/family-halloween-costume-party-west-west-end-135454",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|chess club||",
+      "id": "nassau-4b0ba3d5fd7e",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/chess-club-120112",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|baby sign language||",
+      "id": "nassau-c11514693fbe",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/baby-sign-language-121954",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|musical storytime at point lookout: spooky edition!||",
+      "id": "nassau-266ebe4272cc",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/musical-storytime-point-lookout-spooky-edition-135893",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|preschool readiness||",
+      "id": "nassau-78f0c3c3ae28",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/preschool-readiness-118298",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|5th annual halloween pizza party||",
+      "id": "nassau-af1a751aef21",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/5th-annual-halloween-pizza-party-105870",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "long-beach-public-library|baby music with love||",
+      "id": "nassau-b67930ec7e74",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/baby-music-love-129968",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|fun for all: diy halloween bookmark craft (point lookout)||",
+      "id": "nassau-63c208b69450",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/fun-all-diy-halloween-bookmark-craft-point-lookout-135086",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "long-beach-public-library|fun for all: diy halloween bookmark craft (west end)||",
+      "id": "nassau-464e7cd77d8a",
+      "libraryId": "long-beach-public-library",
+      "source": "https://longbeachpl.librarycalendar.com/event/fun-all-diy-halloween-bookmark-craft-west-end-135087",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "lynbrook-public-library|family chess club|community room|",
+      "id": "nassau-fb3b80361896",
+      "libraryId": "lynbrook-public-library",
+      "source": "https://lynbrooklibrary.assabetinteractive.com/calendar/family-chess-club-19/",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "malverne-public-library|learn to sew (grades 3-9)|colwell room|grades 3-9) learn sewing basics, including how to use",
+      "id": "nassau-0180c0e5b7d9",
+      "libraryId": "malverne-public-library",
+      "source": "https://malvernelibrary.libcal.com/event/17633730",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "malverne-public-library|hey julie & friends! (babies-3 years)|colwell room|",
+      "id": "nassau-c0e4a66e12bb",
+      "libraryId": "malverne-public-library",
+      "source": "https://malvernelibrary.libcal.com/event/17633503",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "manhasset-public-library|kids art time - october theme||grades k & 1",
+      "id": "nassau-9e21995b2fb5",
+      "libraryId": "manhasset-public-library",
+      "source": "https://manhasset.librarycalendar.com/event/kids-art-time-october-theme-32201",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "manhasset-public-library|tweens & teens - make your own ghost plushie||grades 5-12",
+      "id": "nassau-bcd8695c57cd",
+      "libraryId": "manhasset-public-library",
+      "source": "https://manhasset.librarycalendar.com/event/tween-ghost-plushie-31631",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "manhasset-public-library|bilingual panda storytime||ages 18 months- 4 (with a caregiver)",
+      "id": "nassau-ef9018ab7177",
+      "libraryId": "manhasset-public-library",
+      "source": "https://manhasset.librarycalendar.com/event/bilingual-panda-storytime-32255",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "manhasset-public-library|halloween fun for littles||ages 0-4 (with a caregiver) bring your little ones ",
+      "id": "nassau-ed245a827715",
+      "libraryId": "manhasset-public-library",
+      "source": "https://manhasset.librarycalendar.com/event/halloween-fun-littles-32185",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "manhasset-public-library|diwali for families celebration||",
+      "id": "nassau-105252a287bb",
+      "libraryId": "manhasset-public-library",
+      "source": "https://manhasset.librarycalendar.com/event/diwali-families-celebration-33655",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "massapequa-public-library|bh -mini haunted houses (grades k-5)||grades k-5) melinda from them's the breaks will help ",
+      "id": "nassau-537d5cbfe380",
+      "libraryId": "massapequa-public-library",
+      "source": "https://massapequa.librarycalendar.com/event/bh-mini-halloween-houses-grades-k-5-53469",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "massapequa-public-library|bh- halloween special (ages 18 mos.-5 yrs)||ages 18 mos",
+      "id": "nassau-cb79c904c010",
+      "libraryId": "massapequa-public-library",
+      "source": "https://massapequa.librarycalendar.com/event/copy-bh-halloween-special-ages-18-mos-5-yrs-53462",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "massapequa-public-library|teen minecraft adventure - haunted mansion||",
+      "id": "nassau-a6004ad091ae",
+      "libraryId": "massapequa-public-library",
+      "source": "https://massapequa.librarycalendar.com/event/teen-minecraft-adventure-haunted-mansion-55089",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "massapequa-public-library|bh- chess for kids (grades 1-5)||grades 1-5) this is class 2 of a session that registe",
+      "id": "nassau-5e149536a158",
+      "libraryId": "massapequa-public-library",
+      "source": "https://massapequa.librarycalendar.com/event/bh-chess-kids-grades-1-5-53468",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "massapequa-public-library|ca - halloween story time (3-5 years old)||",
+      "id": "nassau-32a832ceb59d",
+      "libraryId": "massapequa-public-library",
+      "source": "https://massapequa.librarycalendar.com/event/ca-halloween-story-time-3-5-years-old-53421",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "merrick-library|scarecrow storytime (ages 3-5)|children's workshop|ages 3-5) enjoy stories and get creative with a var",
+      "id": "nassau-5ffc50927377",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/scarecrow-storytime-ages-3-5/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "merrick-library|dungeons & dragons everbright (grades 1-6)|children's workshop|grades 1-6) go on a fantasy quest in this role-playin",
+      "id": "nassau-0e27b2a559cf",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/dungeons-dragons-everbright-grades-3-6-4/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "merrick-library|bats of long island (grades 3-6)|children's workshop|grades 3-6) discover the fascinating world of long is",
+      "id": "nassau-ab4af4064538",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/bats-of-long-island-grades-3-6/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "merrick-library|halloween bingo (families)|children's workshop|",
+      "id": "nassau-e5836af9d8bc",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/halloween-bingo-families/",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "merrick-library|halloween babies, books, & blocks (0-18 months)|children's workshop|",
+      "id": "nassau-56c4cbf9831c",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/halloween-babies-books-blocks-0-18-months/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "merrick-library|monster basket weaving (grades 2-6)|children's workshop|grades 2-6) weave or crochet a miniature basket monst",
+      "id": "nassau-bc70ce80255b",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/monster-basket-weaving-grades-2-6/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "merrick-library|preschool halloween party (0-5 years)|community room|",
+      "id": "nassau-445a0f9b7038",
+      "libraryId": "merrick-library",
+      "source": "https://merricklibrary.assabetinteractive.com/calendar/preschool-halloween-party-2-5-years/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "mineola-public-library|halloween costume shop||",
+      "id": "nassau-535e6ed23088",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/halloween-costume-shop-9861",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "mineola-public-library|calling all wizards||grades k-5",
+      "id": "nassau-eb0db97f6b7a",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/calling-all-wizards-9708",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "mineola-public-library|pumpkin fun||",
+      "id": "nassau-d6889605be7d",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/pumpkin-fun-9709",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "mineola-public-library|byob (bring your own baby) to book club||",
+      "id": "nassau-dd2c5ed2db8e",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/byob-bring-your-own-baby-book-club-9774",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "mineola-public-library|a not so spooky story time & craft||grades k-2",
+      "id": "nassau-343b970a13fd",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/not-so-spooky-story-time-craft-9724",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "mineola-public-library|trick or treat, crafts and sweets||",
+      "id": "nassau-9fd07735edbc",
+      "libraryId": "mineola-public-library",
+      "source": "https://mineola.librarycalendar.com/event/trick-or-treat-crafts-and-sweets-9710",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "north-bellmore-public-library|halloween carnival|community room|",
+      "id": "nassau-75d8cfab02d4",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17164187",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-bellmore-public-library|picture book stories|children's activity room|ages 3-5",
+      "id": "nassau-0357f8c30922",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17122252",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-bellmore-public-library|edible tricky treats|children's activity room|grades k-5",
+      "id": "nassau-95a9774644fa",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17127886",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "north-bellmore-public-library|art specialists|children's activity room|ages 3-5 ",
+      "id": "nassau-c86148dd4824",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17157197",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-bellmore-public-library|halloween hocus pocus!|children's activity room|ages 3-4, independently",
+      "id": "nassau-f1bf56ce470d",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17046126",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-bellmore-public-library|intro to typing|children's activity room|grades k-3 ",
+      "id": "nassau-a0231d56f52e",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/16964839",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "north-bellmore-public-library|halloween suncatchers|children's activity room|grades 2-5",
+      "id": "nassau-6d8ecd6cd4ea",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17122882",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "north-bellmore-public-library|math buddy meet up|children's activity room|grades k-8",
+      "id": "nassau-4401b0373509",
+      "libraryId": "north-bellmore-public-library",
+      "source": "https://northbellmorelibrary.libcal.com/event/17169342",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "north-merrick-public-library|baby storytime|north merrick community room|",
+      "id": "nassau-4202fb520896",
+      "libraryId": "north-merrick-public-library",
+      "source": "https://nmerricklibrary.libcal.com/event/17338116",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-merrick-public-library|toddler storytime|north merrick community room|",
+      "id": "nassau-1795f46e58fe",
+      "libraryId": "north-merrick-public-library",
+      "source": "https://nmerricklibrary.libcal.com/event/17338173",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-merrick-public-library|spooky walk|north merrick community room, outdoor pavilion|",
+      "id": "nassau-31930ac3fed8",
+      "libraryId": "north-merrick-public-library",
+      "source": "https://nmerricklibrary.libcal.com/event/17505586",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "north-merrick-public-library|halloween storytime and parade|north merrick community room|age 5 years old (not yet in kindergarten)",
+      "id": "nassau-0bf9ed3822e6",
+      "libraryId": "north-merrick-public-library",
+      "source": "https://nmerricklibrary.libcal.com/event/17541128",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oceanside-library|dungeons & dragons (tweens/teens)|community 3|",
+      "id": "nassau-1a86ee612e8e",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17229056",
+      "sessions": 2,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oceanside-library|collectible pin trading|community 1, community 2|",
+      "id": "nassau-16f1e63df6d8",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17125049",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|kids corner|children's storytime area|",
+      "id": "nassau-f403d095c81e",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17777936",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oceanside-library|pokemon drawing workshop (grades 2 - 6)|children's program room|grades 2 - 6) learn how to draw your favorite pokemon",
+      "id": "nassau-c9e482f8ebb6",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17692027",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|milestone movers (ages 3 to 5 years)|children's program room|ages 3 to 5 years) enjoy an hour of free play, feat",
+      "id": "nassau-41f77056a500",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17118816",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|sensory storytime (grades k - 3)|children's program room|grades k - 3) join us for a sensory-focused storytime",
+      "id": "nassau-0634d9a38263",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17146718",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|tots night out (18 months - 5 years)|children's program room|",
+      "id": "nassau-42d7b81f2eec",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/16993704",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|baby playhooray (6 - 18 months)|children's program room|",
+      "id": "nassau-008e3a3bc762",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/16993957",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|playhooray (18 months - 4 years)|children's program room|",
+      "id": "nassau-5ceec1c34913",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/16993971",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|autumn pumpkin painting (grades 5 to 8)|discovery lab|grades 5 to 8) ",
+      "id": "nassau-b996f616b610",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17164752",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|family halloween cupcake decorating (grades k & up)|children's program room|grades k & up) bring the whole family to the library ",
+      "id": "nassau-8a144dce5766",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17077047",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oceanside-library|halloween fun storycraft (3 - 5 years)|children's program room|",
+      "id": "nassau-79a6bd683e97",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17077075",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|parent-child workshop (1 - 3 years)|children's program room|",
+      "id": "nassau-d4dcba6a01b7",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17028820",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oceanside-library|fear factor (grades 5-8)|discovery lab|grades 5-8) do you have what it takes to overcome you",
+      "id": "nassau-fa53441fec29",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17164760",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|classic cardboard monsters (grades 1 - 3)|discovery lab|grades 1 - 3) join us in the discovery lab to create ",
+      "id": "nassau-b6b531b9dea9",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17083299",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|family halloween steam engineering (grades k - 6)|children's program room|grades k - 6) build your own haunted house",
+      "id": "nassau-0eb80d4d0f2f",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17026194",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "oceanside-library|library for all: halloween movie morning|theater|",
+      "id": "nassau-ec9bcf5b37f7",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17060830",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oceanside-library|preschool storycraft (3 - 5 years)|children's program room|",
+      "id": "nassau-fc8a9c8b8d15",
+      "libraryId": "oceanside-library",
+      "source": "https://oceansidelibrary.libcal.com/event/17109686",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "oyster-bay-east-norwich-public-library|teen/tween video game club|community room|",
+      "id": "nassau-2da2ed89fd3d",
+      "libraryId": "oyster-bay-east-norwich-public-library",
+      "source": "https://oysterbaylibrary.assabetinteractive.com/calendar/teen-tween-video-game-club-11/",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "oyster-bay-east-norwich-public-library|trick or treat at the library!  (for all ages)|children's room|",
+      "id": "nassau-3a950653723d",
+      "libraryId": "oyster-bay-east-norwich-public-library",
+      "source": "https://oysterbaylibrary.assabetinteractive.com/calendar/trick-or-treat-at-the-library/",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|music for aardvarks||ages 6 months to 5 years with accompanying adults",
+      "id": "nassau-4a7494642043",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/music-aardvarks-85264",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|mackenzie-childs inspired black and white pumpkin||grades 5-12 create replica pumpkins similar to the wi",
+      "id": "nassau-a1c2c277f434",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/mackenzie-childs-inspired-black-and-white-pumpkin-73998",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|watercolor resist spider web art||ages 3-5 with accompanying adult",
+      "id": "nassau-7dca8f630767",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/tim-burton-selfie-class-74923",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|video game tournament||grades 4 and up",
+      "id": "nassau-caf51a8f6ef4",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/video-game-tournament-77918",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|rock the block||ages 2-4 with accompanying adult",
+      "id": "nassau-2ba9ced39409",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/rock-block-82395",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|mushroom hat cat ceramic||grades k-4",
+      "id": "nassau-6ff933f11977",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/mushroom-hat-cat-ceramic-71360",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|sugar skulls||grades k-4",
+      "id": "nassau-3674e98e4b8c",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/fc-program-79324",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|family center's book-a-treat||",
+      "id": "nassau-65cad3155dd1",
+      "libraryId": "plainview-old-bethpage-public-library",
+      "source": "https://poblib.librarycalendar.com/event/family-centers-book-treat-74165",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "port-washington-public-library|creative readers||",
+      "id": "nassau-1aa74c1b87cf",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/creative-readers-116196",
+      "sessions": 4,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "port-washington-public-library|read with snowball||grades 1 to 3 read for 15-minutes with snowball, a su",
+      "id": "nassau-66321e057a2c",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/read-snowball-115833",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "port-washington-public-library|little hands, big discoveries||",
+      "id": "nassau-bf9a5d3e490c",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/little-hands-big-discoveries-115838",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "port-washington-public-library|spooky stem adventures||grades k to 3 enjoy learning about different spooky t",
+      "id": "nassau-debb8374baf6",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/stem-adventures-116128",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "port-washington-public-library|sing and swing||ages 18 months to 5 years with an adult",
+      "id": "nassau-8189e681ba77",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/sing-and-swing-115376",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "port-washington-public-library|preschool story time||ages 2 1/2 to 5 years with an adult enjoy great sto",
+      "id": "nassau-4e40b45546b7",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/preschool-story-time-115831",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "port-washington-public-library|chess||grades 3 to 6",
+      "id": "nassau-9d8ce773d3dd",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/chess-115798",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "port-washington-public-library|baby rhyme time||ages birth to 17 months a lap-sit story time with books",
+      "id": "nassau-57aced27c902",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/baby-rhyme-time-117978",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "port-washington-public-library|open play||ages 18 months to 5 years enjoy open play time with",
+      "id": "nassau-64573d79d33a",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/open-play-116995",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "port-washington-public-library|crazy 8s math club||grades k-2",
+      "id": "nassau-acd5b93232b2",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/crazy-8s-math-club-115765",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "port-washington-public-library|park story time||ages birth to five with an adult join your favorite lib",
+      "id": "nassau-899f059e2e10",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/park-story-time-115411",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "port-washington-public-library|coding for kids||grades 3-6",
+      "id": "nassau-269052dd99e8",
+      "libraryId": "port-washington-public-library",
+      "source": "https://portwashington.librarycalendar.com/event/coding-kids-115843",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "rockville-centre-public-library|pumpkin decorating (all ages)|children's room|",
+      "id": "nassau-5b09dd7691eb",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17327653",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|monday storytime (ages 18 months - 5 years)|story time room|ages 18 months - 5 years) join us for this special ",
+      "id": "nassau-9e8931e92c8d",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17233259",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|tot spot (ages birth - 17 months)|story time room|ages birth - 17 months) for this lapsit storytime, you'",
+      "id": "nassau-c93caa945e12",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17234573",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|library play date (ages 15 months - 4 years)|helen kraus room|ages 15 months - 4 years) enjoy free play with our ",
+      "id": "nassau-cb249d8086b1",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17234802",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|checkmate chess club (grades 2-6)|story time room|grades 2-6) love playing chess? join your fellow ches",
+      "id": "nassau-1acb6f5cc729",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17455676",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "rockville-centre-public-library|first look book club (grades 4-5)|kim's corner|grades 4-5) not sure what to read? take a first look ",
+      "id": "nassau-bf75470c2b40",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17340274",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "rockville-centre-public-library|afternoon craft (ages 3-5 years)|helen kraus room|ages 3-5 years) make a simple craft together",
+      "id": "nassau-c8c3222cf1c5",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17337786",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|music for aardvarks (ages 6 months - 4 years)|helen kraus room|ages 6 months - 4 years) join us for rocking, rolli",
+      "id": "nassau-30beb988dd9e",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17235252",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "rockville-centre-public-library|library trick-or-treat (all ages)||",
+      "id": "nassau-22c7c808b949",
+      "libraryId": "rockville-centre-public-library",
+      "source": "https://rvcpl.libcal.com/event/17199013",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "sea-cliff-village-library|tiny thinkers|children's room, children's room|",
+      "id": "nassau-d9212361bd98",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17561972",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "sea-cliff-village-library|kids workshop|children's room, children's room|",
+      "id": "nassau-cbf4e442f0f0",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17453349",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "sea-cliff-village-library|storytime|children's room, children's room|",
+      "id": "nassau-318b9d8d5358",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17453476",
+      "sessions": 6,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "sea-cliff-village-library|pretzels and paperbacks 3rd-5th grade|children's room, children's room|",
+      "id": "nassau-3311e688d39c",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17453406",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "sea-cliff-village-library|pretzels and paperbacks kindergarten|children's room, children's room|",
+      "id": "nassau-6a63cb459e82",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17453426",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "sea-cliff-village-library|pretzels and paperbacks - 1st and 2nd grade|children's room, children's room|",
+      "id": "nassau-b0defc38442f",
+      "libraryId": "sea-cliff-village-library",
+      "source": "https://seaclifflibrary.libcal.com/event/17453440",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "seaford-public-library|sensory storytime (pre k - grade 4 with adult)|meeting room|grade 4 with adult) join a time for kids in a multi-",
+      "id": "nassau-60a037cc13fa",
+      "libraryId": "seaford-public-library",
+      "source": "https://seafordlibrary.assabetinteractive.com/calendar/sensory-storytime-pre-k-grade-4-with-adult/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "seaford-public-library|lego buddies (grades k - 4)|meeting room|grades k - 4) join us for an exciting lego and block-",
+      "id": "nassau-4734489d1b65",
+      "libraryId": "seaford-public-library",
+      "source": "https://seafordlibrary.assabetinteractive.com/calendar/lego-buddies-grades-k-4-22/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "seaford-public-library|dungeons and dragons (grades 5-12)|meeting room · teen area |grades 5-12) join the adventurers guild on their ques",
+      "id": "nassau-b6e8403a5881",
+      "libraryId": "seaford-public-library",
+      "source": "https://seafordlibrary.assabetinteractive.com/calendar/dungeons-and-dragons-grades-5-12-3/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "seaford-public-library|care package for veterinarians (grades 5-12)|meeting room|grades 5-12) teens will work in groups to create spec",
+      "id": "nassau-e52d6e578e1f",
+      "libraryId": "seaford-public-library",
+      "source": "https://seafordlibrary.assabetinteractive.com/calendar/care-package-for-veterinarians-grades-5-12/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "seaford-public-library|chess club (grades 1 - 5)|meeting room|grades 1 - 5) challenge your mind",
+      "id": "nassau-803a35d808bc",
+      "libraryId": "seaford-public-library",
+      "source": "https://seafordlibrary.assabetinteractive.com/calendar/chess-club-grades-1-5-40/",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "shelter-rock-public-library|dungeons & dragons for grades 6 – 12 (registration full; waiting list available)|story hour room|grades 6 – 12 (registration full; waiting list availa",
+      "id": "nassau-7028ce31f1bd",
+      "libraryId": "shelter-rock-public-library",
+      "source": "https://srpl.libcal.com/event/17480480",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "shelter-rock-public-library|bright beginnings|story hour room|ages 12 – 36 months with parent, grandparent or car",
+      "id": "nassau-df3fd2b49010",
+      "libraryId": "shelter-rock-public-library",
+      "source": "https://srpl.libcal.com/event/17421590",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "shelter-rock-public-library|fall storytime|story hour room|ages 2 - 5 with parent",
+      "id": "nassau-9e4054412f41",
+      "libraryId": "shelter-rock-public-library",
+      "source": "https://srpl.libcal.com/event/17338111",
+      "sessions": 2,
+      "ageBasis": "official"
+    },
+    {
+      "key": "shelter-rock-public-library|creepy creation slime for grades 6 – 12 (registration full; waiting list available)|community room|grades 6 – 12 (registration full; waiting list availa",
+      "id": "nassau-3f560e0f8c14",
+      "libraryId": "shelter-rock-public-library",
+      "source": "https://srpl.libcal.com/event/17645218",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "shelter-rock-public-library|halloween preschool storytime|story hour room|ages 3 - 5",
+      "id": "nassau-a9fb629f2e14",
+      "libraryId": "shelter-rock-public-library",
+      "source": "https://srpl.libcal.com/event/17712292",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "syosset-public-library|chess workshop 9:30 am session||grades: 2-5",
+      "id": "nassau-e385f7859adc",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/chess-workshop-930-am-session-55636",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "syosset-public-library|chess workshop 10:45 am session||grades 2-5",
+      "id": "nassau-1c33958fc147",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/chess-workshop-1045-am-session-55640",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "syosset-public-library|boo-k buddies||ages 3 1/2 years to grade 2",
+      "id": "nassau-7860f944765a",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/halloween-boo-k-buddies-56549",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "syosset-public-library|storytime for tots||ages 2 1/2 to 3 1/2 with an adult",
+      "id": "nassau-9033553ddd39",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/storytime-tots-55930",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "syosset-public-library|preschool storytime||ages 3 1/2 to 5 years",
+      "id": "nassau-4d69309bb245",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/preschool-storytime-55922",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "syosset-public-library|halloween art||grade 2",
+      "id": "nassau-e31615e485c7",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/halloween-art-56851",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "syosset-public-library|halloween hoot||ages: 18-months - 5 years (not yet in kindergarten) ",
+      "id": "nassau-bc3d490c0614",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/halloween-hoot-56546",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "syosset-public-library|123 play with me||ages 18 to 30 months with a caregiver",
+      "id": "nassau-e01fc8ce795b",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/123-play-me-56067",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "syosset-public-library|campfire tales||grades 3-5",
+      "id": "nassau-efd64235e53c",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/campfire-tales-56777",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "syosset-public-library|halloween parade||",
+      "id": "nassau-758192f5ddd5",
+      "libraryId": "syosset-public-library",
+      "source": "https://syosset.librarycalendar.com/event/halloween-parade-56550",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "uniondale-public-library|hispanic heritage month storytime||",
+      "id": "nassau-0e833034456c",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/hispanic-heritage-month-storytime-13941",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|beginner sewing club||",
+      "id": "nassau-d58d1ee37e25",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/beginner-sewing-club-16371",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "uniondale-public-library|sensory tales and textures||",
+      "id": "nassau-ef1016459405",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/sensory-tales-and-textures-16835",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|creative writing - sunday sessions||",
+      "id": "nassau-84bc749fc46c",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/creative-writing-sunday-sessions-16780",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "uniondale-public-library|sign language storytime||",
+      "id": "nassau-6fd68338edeb",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/sign-language-storytime-16346",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "uniondale-public-library|storycrafters||",
+      "id": "nassau-46de7907dca6",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/storycrafters-16805",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|spooky house lantern||",
+      "id": "nassau-5addc25b4c84",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/spooky-house-lantern-16786",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "uniondale-public-library|storytime in black||",
+      "id": "nassau-12c7a865db7d",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/storytime-black-16815",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|creepy chocolate house||",
+      "id": "nassau-b7bf95a640ee",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/creepy-chocolate-house-16831",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|toddler time||",
+      "id": "nassau-479238d44a3a",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/toddler-time-16750",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|toddler costume parade||",
+      "id": "nassau-0dd21aad28ed",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/toddler-costume-parade-16772",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|babytime||",
+      "id": "nassau-cefc719df360",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/babytime-16758",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|abc 123||",
+      "id": "nassau-3e3b9930e163",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/abc-123-16767",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|seasonal craft||",
+      "id": "nassau-5bea685e1381",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/seasonal-craft-16787",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "uniondale-public-library|scary stories for little kids||",
+      "id": "nassau-a909fa26c7b3",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/scary-stories-little-kids-16773",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|costume parade||",
+      "id": "nassau-885a6537cd6f",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/costume-parade-16837",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "uniondale-public-library|scary stories for school age kids||age kids ",
+      "id": "nassau-6a8b153119b7",
+      "libraryId": "uniondale-public-library",
+      "source": "https://uniondale.librarycalendar.com/event/scary-stories-school-age-kids-16790",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "wantagh-public-library|stem club (grades upk-2)|community room|grade 2 ",
+      "id": "nassau-2aa4cd3ac170",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16455383",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "wantagh-public-library|a time for kids evening (ages 18 months - 4 years)|community room|ages 18 months - 4 years) class dates",
+      "id": "nassau-2c0e2f0290fc",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16433567",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "wantagh-public-library|on my own (ages 3-4)|community room|ages 3-4) class dates",
+      "id": "nassau-14d7ae8ab165",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16455272",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "wantagh-public-library|ready, set, storytime (ages 18-36 months)|community room|ages 18-36 months) class dates",
+      "id": "nassau-a5b77cb35ef2",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16455283",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "wantagh-public-library|baby bookworms (0-17 months)|community room|ages\nbirth-17 months w/ a caregiver",
+      "id": "nassau-ae04c70b1e95",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16455299",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "wantagh-public-library|painting with le petite picassos (grades 2-5)|community room|grades 2-5) ages",
+      "id": "nassau-5fdd5969edb4",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/17132288",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "wantagh-public-library|giggles & grooves (ages 1-4)|community room|ages 1-4) ages ",
+      "id": "nassau-b3364a2be4d4",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16522943",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "wantagh-public-library|toddler halloween party (ages 1-4)|community room|ages 1-4) ages",
+      "id": "nassau-a9c2868e9ec8",
+      "libraryId": "wantagh-public-library",
+      "source": "https://wantaghlibrary.libcal.com/event/16525966",
+      "sessions": 1,
+      "ageBasis": "official"
+    },
+    {
+      "key": "west-hempstead-public-library|toddler open play|children's program room|",
+      "id": "nassau-d8a3e7b05734",
+      "libraryId": "west-hempstead-public-library",
+      "source": "https://whplibrary.libcal.com/event/17591540",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "westbury-memorial-public-library|aaaah!! monster storytime/aaaah!! cuentos de monstruos|children's library|",
+      "id": "nassau-f772295bb09f",
+      "libraryId": "westbury-memorial-public-library",
+      "source": "https://westburylibrary.libcal.com/event/17352645",
+      "sessions": 1,
+      "ageBasis": "editorial"
+    },
+    {
+      "key": "westbury-memorial-public-library|123 play with me: parent child workshop/123 juega conmigo: taller para padres y niños|adult library meeting room|",
+      "id": "nassau-5202d59948e8",
+      "libraryId": "westbury-memorial-public-library",
+      "source": "https://westburylibrary.libcal.com/event/17255361",
+      "sessions": 1,
+      "ageBasis": "unknown"
+    },
+    {
+      "key": "westbury-memorial-public-library|lil owls toddler time/tiempo para los pequeñitos búhos|children's library|",
+      "id": "nassau-8e02b7466e0e",
+      "libraryId": "westbury-memorial-public-library",
+      "source": "https://westburylibrary.libcal.com/event/17212098",
+      "sessions": 1,
+      "ageBasis": "official"
+    }
+  ],
+  "excluded": [
+    {
+      "key": "baldwin-public-library|piece it together (grades 6-12)|teen room|grades 6-12) november 1-30come into the teen room to ",
+      "title": "Piece It Together (Grades 6-12)",
+      "urls": [
+        "https://baldwinpl.assabetinteractive.com/calendar/piece-it-together-grades-6-12-2/"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "baldwin-public-library|dreamcatchers (grades 6-12)|teen room|grades 6-12) november 1-30in honor of native american",
+      "title": "Dreamcatchers (Grades 6-12)",
+      "urls": [
+        "https://baldwinpl.assabetinteractive.com/calendar/dreamcatchers-grades-6-12/"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "baldwin-public-library|guess how many gumdrops (grades 6-12)|teen room|grades 6-12) november 1-20 in honor of hunger games: ",
+      "title": "Guess How Many Gumdrops (Grades 6-12)",
+      "urls": [
+        "https://baldwinpl.assabetinteractive.com/calendar/guess-how-many-gumdrops-grades-6-12/"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "bayville-free-library|toddler storytime|sperandei hall|ages 18 months - 3 years, includes plenty of music,",
+      "title": "Toddler Storytime",
+      "urls": [
+        "https://bayvillefreelibrary.assabetinteractive.com/calendar/toddler-storytime-148/"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "franklin-square-public-library|**cancelled** dungeons & dragons: kids fall campaign|j craft room|grades 4-6",
+      "title": "**CANCELLED** Dungeons & Dragons: Kids Fall Campaign",
+      "urls": [
+        "https://franklinsquarepl.libcal.com/event/17326916"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "franklin-square-public-library|chair yoga|third floor meeting area|",
+      "title": "Chair Yoga",
+      "urls": [
+        "https://franklinsquarepl.libcal.com/event/17047203"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "great-neck-library|canceled: sensory friendly storytime (pre k - grade 2)|parkville branch programming room, parkville branch|grade 2) join librarian ms",
+      "title": "Canceled: Sensory Friendly Storytime (Pre K - Grade 2)",
+      "urls": [
+        "https://greatnecklibrary.libcal.com/event/17409985"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "great-neck-library|author event with john a. valenti 3rd: \"for nothing is hidden: inspired by one of the oldest unsolved missing child cases in u.s. history\"|main library large multipurpose room, main building|",
+      "title": "Author Event with John A. Valenti 3rd: \"For Nothing is Hidden: Inspired by One of the Oldest Unsolved Missing Child Cases in U.S. History\"",
+      "urls": [
+        "https://greatnecklibrary.libcal.com/event/16801716"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "great-neck-library|storytime fun (toddlers-preschool) (oct. 30 session canceled)|parkville branch programming room, parkville branch|",
+      "title": "Storytime Fun (Toddlers-Preschool) (Oct. 30 session CANCELED)",
+      "urls": [
+        "https://greatnecklibrary.libcal.com/event/17276167"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "great-neck-library|tween art club (grades 4-6) (oct. 30th session canceled)|parkville branch programming room, parkville branch|grades 4-6) (oct",
+      "title": "Tween Art Club (Grades 4-6) (Oct. 30th session CANCELED)",
+      "urls": [
+        "https://greatnecklibrary.libcal.com/event/17413934"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "great-neck-library|veterans day cards (all ages)|main library children's room, main building|",
+      "title": "Veterans Day cards (All Ages)",
+      "urls": [
+        "https://greatnecklibrary.libcal.com/event/17650269"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "hempstead-public-library|halloween goodie bags | bolsitas de sorpresas para halloween|hempstead public library|",
+      "title": "HALLOWEEN GOODIE BAGS | Bolsitas de sorpresas para Halloween",
+      "urls": [
+        "https://hempsteadlibrary.libcal.com/event/17519393"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|memory cafe|boehm room|",
+      "title": "Memory Cafe",
+      "urls": [
+        "https://hwpl.libcal.com/event/16791081"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "hewlett-woodmere-public-library|tai chi for longevity|boehm room|",
+      "title": "Tai Chi for Longevity",
+      "urls": [
+        "https://hwpl.libcal.com/event/17014635"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "island-trees-public-library|free manicure services from nassau boces|community room - stage side|",
+      "title": "Free Manicure Services from Nassau BOCES",
+      "urls": [
+        "https://islandtreespubliclibrary.libcal.com/event/17134728"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "long-beach-public-library|spice, spice baby: a spice exploration club (spice pickup)||",
+      "title": "Spice, Spice Baby: a spice exploration club (spice pickup)",
+      "urls": [
+        "https://longbeachpl.librarycalendar.com/event/spice-spice-baby-spice-exploration-club-133338"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "malverne-public-library|halloween drop-in kid's craft|children's area - 1st floor|",
+      "title": "Halloween Drop-In Kid's Craft",
+      "urls": [
+        "https://malvernelibrary.libcal.com/event/17633601"
+      ],
+      "reason": "no verified timed occurrence (all-day/pickup excluded)"
+    },
+    {
+      "key": "manhasset-public-library|canceled-volunteer-hallo-tween jewelry craft helpers||grades 5-8",
+      "title": "CANCELED-Volunteer-Hallo-TWEEN Jewelry Craft Helpers",
+      "urls": [
+        "https://manhasset.librarycalendar.com/event/volunteer-hallo-tween-jewelry-craft-helpers-32028"
+      ],
+      "reason": "cancelled"
+    },
+    {
+      "key": "manhasset-public-library|volunteer-kids art time helper||grades k-1",
+      "title": "Volunteer-Kids Art Time Helper",
+      "urls": [
+        "https://manhasset.librarycalendar.com/event/volunteer-kids-art-time-helper-32030"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "massapequa-public-library|america's boating course presented by captree power squadron (part 2)||",
+      "title": "America's Boating Course presented by Captree Power Squadron (Part 2)",
+      "urls": [
+        "https://massapequa.librarycalendar.com/event/copy-boaters-safety-course-presented-captree-power-squadron-part-i-57062"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "massapequa-public-library|girl scout visit||",
+      "title": "Girl Scout Visit",
+      "urls": [
+        "https://massapequa.librarycalendar.com/event/girl-scout-visit-59127"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "oceanside-library|*date changed* cooking with kristen||",
+      "title": "*Date changed* Cooking with Kristen",
+      "urls": [
+        "https://oceansidelibrary.libcal.com/event/17123664"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "oceanside-library|the human dance project|community 1|",
+      "title": "The Human Dance Project",
+      "urls": [
+        "https://oceansidelibrary.libcal.com/event/17060897"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainedge-public-library|fall storytime express - grab & go||ages 2 - 5 years with an adult",
+      "title": "Fall Storytime Express - Grab & Go",
+      "urls": [
+        "https://plainedgelibrary.libcal.com/event/17371077"
+      ],
+      "reason": "take-home kit/pickup rather than a scheduled outing"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|al-anon open door family group||",
+      "title": "AL-ANON OPEN DOOR FAMILY GROUP",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/al-anon-open-door-family-group-65834"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|family residences and essential enterprises||",
+      "title": "Family Residences and Essential Enterprises",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/family-residences-and-essential-enterprises-71650"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|bookmark it! (community service opportunity)||grades 5-12",
+      "title": "Bookmark It! (Community Service Opportunity)",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/bookmark-it-community-service-opportunity-82674"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|cards for hospitalized kids (community service opportunity)||grades 5-12",
+      "title": "Cards for Hospitalized Kids (Community Service Opportunity)",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/cards-hospitalized-kids-community-service-opportunity-82675"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|color a smile (community service opportunity)||grades 5-12",
+      "title": "Color a Smile (Community Service Opportunity)",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/color-smile-community-service-opportunity-82678"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|helping hands - travel size toiletries for the inn (community service opportunity)||grades 5-12",
+      "title": "Helping Hands - Travel Size Toiletries for the INN (Community Service Opportunity)",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/helping-hands-travel-size-toiletries-inn-community-service-opportunity-82679"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "plainview-old-bethpage-public-library|recycling rocks (community service opportunity)||grades 5-12",
+      "title": "Recycling Rocks (Community Service Opportunity)",
+      "urls": [
+        "https://poblib.librarycalendar.com/event/recycling-rocks-community-service-opportunity-82680"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "port-washington-public-library|10 warning signs of alzheimer's||",
+      "title": "10 Warning Signs of Alzheimer's",
+      "urls": [
+        "https://portwashington.librarycalendar.com/event/10-warning-signs-alzheimers-114785"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "rockville-centre-public-library|community service: pumpkin decorating (grades 7-12)|children's room|grades 7-12) help little kids decorate pumpkins",
+      "title": "Community Service: Pumpkin Decorating (grades 7-12)",
+      "urls": [
+        "https://rvcpl.libcal.com/event/17327686"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "rockville-centre-public-library|virtual dungeons & dragons adventurers' club series (live on zoom, grades 6-12)||grades 6-12) meets on mondays, september 14, 21, 28, ",
+      "title": "Virtual Dungeons & Dragons Adventurers' Club Series (Live on Zoom, grades 6-12)",
+      "urls": [
+        "https://rvcpl.libcal.com/event/17401812"
+      ],
+      "reason": "virtual event; map index is for physical outings"
+    },
+    {
+      "key": "rockville-centre-public-library|community service: chess volunteers (grades 7-12)|children's room|grades 7-12) help younger kids learn to play chess",
+      "title": "Community Service: Chess Volunteers (grades 7-12)",
+      "urls": [
+        "https://rvcpl.libcal.com/event/17357837"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "rockville-centre-public-library|parent-teen book discussion (grades 9-10 with an adult)|kim's corner|grades 9-10 with an adult) join us to discuss the nin",
+      "title": "Parent-Teen Book Discussion (grades 9-10 with an adult)",
+      "urls": [
+        "https://rvcpl.libcal.com/event/17402592"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "rockville-centre-public-library|community service: library trick or treat (grades 7-12)|children's room|grades 7-12) staff a table in the library to hand out",
+      "title": "Community Service: Library Trick or Treat (grades 7-12)",
+      "urls": [
+        "https://rvcpl.libcal.com/event/17358053"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "shelter-rock-public-library|herricks muslim families|community room|",
+      "title": "Herricks Muslim Families",
+      "urls": [
+        "https://srpl.libcal.com/event/17814611"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    },
+    {
+      "key": "west-hempstead-public-library|build-a-friend (grades 5-8)|kit pickup|grades 5-8) pick an unstuffed elephant, wolf or billy",
+      "title": "Build-a-Friend (Grades 5-8)",
+      "urls": [
+        "https://whplibrary.libcal.com/event/17350379"
+      ],
+      "reason": "take-home kit/pickup rather than a scheduled outing"
+    },
+    {
+      "key": "west-hempstead-public-library|community service: recycle challenge (grades 6 to 12)||grades 6 to 12) recycle eligible plastic bottles, can",
+      "title": "Community Service: Recycle Challenge (Grades 6 to 12)",
+      "urls": [
+        "https://whplibrary.libcal.com/event/17032947"
+      ],
+      "reason": "adult, volunteer or non-public group program"
+    }
+  ],
+  "merged": [
+    {
+      "key": "freeport-memorial-library|fall festival|room 6|",
+      "into": "nassau-a8859ed380ce",
+      "reason": "same program and time, separate room listings"
+    }
+  ],
+  "policy": {
+    "zh": "基于公开日历的候选活动索引，并非全县所有活动。详情只逐组核实代表页，其余场次保留各自日历链接；未检查的余位不推断为可报名。全天、取材料、成人／志愿服务、取消及地点未核实项目不导入。",
+    "en": "Candidate index from public calendars, not all county events. One representative detail page checked per group; each remaining occurrence retains its calendar URL. Unchecked availability is not assumed open. All-day/pickup, adult/volunteer, canceled and unresolved-location entries are excluded."
+  },
+  "showcase": {
+    "pages": 3,
+    "records": 140,
+    "inRange": 132
+  },
+  "venueReview": [
+    {
+      "url": "https://oysterbaytown.com/news/",
+      "status": "partial",
+      "note": {
+        "zh": "已核实 10/24 家庭秋日万圣节及居民说明；未遍历所有镇活动。",
+        "en": "Verified the Oct 24 family fall festival and resident wording; not all town events."
+      }
+    },
+    {
+      "url": "https://hempsteadny.gov/calendar.aspx",
+      "status": "partial",
+      "note": {
+        "zh": "已核实 10/25 Fall Finale 车展／讨糖日及观众免费入场；非全镇活动覆盖。",
+        "en": "Verified Oct 25 Fall Finale car show/trunk-or-treat and free spectator admission; not all town events."
+      }
+    },
+    {
+      "url": "https://www.cradleofaviation.org/plan_your_visit/event_calendar.html",
+      "status": "partial",
+      "note": {
+        "zh": "已核实 10/31–11/1 STEM•X，免费但须提前报名；非全日历采集。",
+        "en": "Verified Oct 31–Nov 1 STEM•X: free with advance registration; not a complete calendar collection."
+      }
+    },
+    {
+      "url": "https://nassaumuseum.org/programs-and-events-category/family-childrens-programs/",
+      "status": "partial",
+      "note": {
+        "zh": "核实亲子项目目录、10/24 魔法森林和 10/31 家庭艺术；课后十周课程不作为单次活动导入。",
+        "en": "Reviewed the family-program directory, Oct 24 Enchanted Forest and Oct 31 Family Saturdays. Ten-week after-school courses are not listed as standalone outings."
+      }
+    },
+    {
+      "url": "https://www.sandspointpreserveconservancy.org/about/master-calendar/",
+      "status": "partial",
+      "note": {
+        "zh": "已查 10 月公开日历及相关详情，收录 10/24 秋叶导览、10/25 宠物讨糖；10/26 满月步行已售罄，未收录。",
+        "en": "Reviewed the October calendar and relevant details; includes Oct 24 fall walk and Oct 25 pet trunk-or-treat. Sold-out Oct 26 full-moon hike excluded."
+      }
+    },
+    {
+      "url": "https://events.nassaulibrary.org/",
+      "status": "partial",
+      "note": {
+        "zh": "完整读取展示日历 3 页／140 条，本期 132 条；这是成员馆精选展示，不是全县总日历。补入 Williston Park Minecraft。",
+        "en": "Read all 3 showcase pages / 140 records, 132 in range. This is a member showcase, not a complete county calendar. Added Williston Park Minecraft."
+      }
+    },
+    {
+      "url": "https://www.nassaucountyny.gov/5054/Events",
+      "status": "limited",
+      "note": {
+        "zh": "已查县公园、活动、Old Bethpage、Garvies Point 与 Tackapausha 官方入口；部分活动以图片发布，未确认本期完整日程，未据此补造场次。",
+        "en": "Reviewed county parks/events and Old Bethpage, Garvies Point and Tackapausha entry pages. Some schedules are image-only; no complete edition schedule established."
+      }
+    },
+    {
+      "url": "https://www.northhempsteadny.gov/",
+      "status": "limited",
+      "note": {
+        "zh": "已查镇活动入口；查到的 Howl-O-Ween 为 10/17，超出本期。未建立完整日历覆盖。",
+        "en": "Reviewed town event entry pages. The discovered Howl-O-Ween is Oct 17, outside this edition. Complete calendar coverage not established."
+      }
+    },
+    {
+      "url": "https://www.smli.org/",
+      "status": "limited",
+      "note": {
+        "zh": "已查官网及南瓜活动商店；公开正文未能确认本期日期和票价，暂未导入。",
+        "en": "Reviewed the website and pumpkin-event shop; public text did not establish edition dates and pricing, so no event imported."
+      }
+    },
+    {
+      "url": "https://cstl.org/spookyfest/",
+      "status": "limited",
+      "note": {
+        "zh": "已查 Spooky Fest 页面；日程与旧年份文字混杂，本轮未确认年份，不导入未核实日期。",
+        "en": "Reviewed Spooky Fest; schedule text mixes with old-year copy. Edition year not resolved in this pass; unverified dates not imported."
+      }
+    },
+    {
+      "url": "https://www.garviespointmuseum.com/native-american-fall-festival.php",
+      "status": "unresolved",
+      "note": {
+        "zh": "首页指向秋日节，须进一步核实日期；未导入。",
+        "en": "Homepage links a fall festival; date requires further verification, not imported."
+      }
+    }
+  ]
+}

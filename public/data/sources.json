@@ -1,0 +1,1184 @@
+{
+  "checkedOn": "2026-10-24",
+  "sources": [
+    {
+      "id": "nyc-parks",
+      "name": "NYC Parks",
+      "kind": "parks",
+      "hosts": [
+        "www.nycgovparks.org"
+      ],
+      "url": "https://www.nycgovparks.org/events/kids/f2026-10-24/t2026-11-01",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已扫描 10/24–11/1 总日历 12 页、557 条记录，并核实 174 组详情；当前收录 168 个活动、263 场次（含工作日）。已对齐儿童、Rangers、万圣节及秋日节全部分页；排除报名关闭等项目，详见采集明细。",
+        "en": "Scanned all 12 calendar pages / 557 records for Oct 24–Nov 1 and verified 174 detail groups. Includes 168 activities / 263 sessions, including weekdays. Reconciled all kids, Rangers, Halloween and fall-festival pages; exclusions and duplicates are documented in the audit."
+      },
+      "auditPath": "./data/parks_coverage.json"
+    },
+    {
+      "id": "bpl",
+      "name": "Brooklyn Public Library",
+      "kind": "library",
+      "hosts": [
+        "www.bklynlibrary.org"
+      ],
+      "url": "https://discover.bklynlibrary.org/?event=true&eventage=Birth+to+Five+Years%7C%7CKids",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查活动搜索与部分儿童活动详情；尚未逐馆、逐日遍历。",
+        "en": "Reviewed event search and selected children’s event pages; not every branch or date."
+      }
+    },
+    {
+      "id": "qpl",
+      "name": "Queens Public Library",
+      "kind": "library",
+      "hosts": [
+        "www.queenslibrary.org",
+        "queenslibrary.org"
+      ],
+      "url": "https://www.queenslibrary.org/calendar?searchField=*&category=calendar&fromlink=calendar&searchFilter=",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查总日历及部分儿童活动详情，非全分馆收录。",
+        "en": "Reviewed the calendar and selected children’s event pages; not every branch."
+      }
+    },
+    {
+      "id": "nypl",
+      "name": "New York Public Library",
+      "kind": "library",
+      "hosts": [
+        "www.nypl.org"
+      ],
+      "url": "https://www.nypl.org/events/calendar",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已通过搜索索引、官方分馆页及活动详情的公开结构化数据核实 8 个项目，覆盖 Manhattan、Bronx、Staten Island。总日历仍加载异常，未全分馆覆盖；系列活动按确认场次读取，不按链接中的日期推断。",
+        "en": "Verified 8 programs across Manhattan, Bronx and Staten Island using search discovery, official branch pages and public structured data on event pages. The main calendar still fails to load; not every branch is covered. Repeating dates come from confirmed occurrences, not dates in URLs."
+      }
+    },
+    {
+      "id": "bronx-zoo",
+      "name": "Bronx Zoo",
+      "kind": "venue",
+      "hosts": [
+        "bronxzoo.com"
+      ],
+      "url": "https://bronxzoo.com/boo-at-the-zoo",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实 Boo at the Zoo 专题。",
+        "en": "Verified the Boo at the Zoo program."
+      }
+    },
+    {
+      "id": "bryant",
+      "name": "Bryant Park",
+      "kind": "venue",
+      "hosts": [
+        "bryantpark.org",
+        "www.bryantpark.org"
+      ],
+      "url": "https://bryantpark.org/calendar",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实杂耍课程与旋转木马。",
+        "en": "Verified juggling classes and Le Carrousel."
+      }
+    },
+    {
+      "id": "queens-farm",
+      "name": "Queens County Farm Museum",
+      "kind": "venue",
+      "hosts": [
+        "www.queensfarm.org",
+        "queensfarm.ticketspice.com"
+      ],
+      "url": "https://www.queensfarm.org/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实南瓜园和 10/31 付费万圣节专场。",
+        "en": "Verified the pumpkin patch and ticketed Oct 31 Halloween event."
+      }
+    },
+    {
+      "id": "bcm",
+      "name": "Brooklyn Children’s Museum",
+      "kind": "venue",
+      "hosts": [
+        "www.brooklynkids.org"
+      ],
+      "url": "https://www.brooklynkids.org/events/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查活动列表前两页和选中活动详情。",
+        "en": "Reviewed the first two event-list pages and selected event details."
+      }
+    },
+    {
+      "id": "sicm",
+      "name": "Staten Island Children’s Museum",
+      "kind": "venue",
+      "hosts": [
+        "sichildrensmuseum.org"
+      ],
+      "url": "https://sichildrensmuseum.org/calendar/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查本期列表，10/25 仅限会员。",
+        "en": "Reviewed this edition’s listings; Oct 25 is members-only."
+      }
+    },
+    {
+      "id": "licm",
+      "name": "Long Island Children’s Museum",
+      "kind": "venue",
+      "hosts": [
+        "www.licm.org"
+      ],
+      "url": "https://www.licm.org/events/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查本期活动详情，未收录已售罄的 Friendly Hours。",
+        "en": "Reviewed this edition’s event details; excluded sold-out Friendly Hours."
+      }
+    },
+    {
+      "id": "owg",
+      "name": "Old Westbury Gardens",
+      "kind": "venue",
+      "hosts": [
+        "www.oldwestburygardens.org"
+      ],
+      "url": "https://www.oldwestburygardens.org/events/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查 10/24–25 活动及狗狗服装比赛要求。",
+        "en": "Reviewed Oct 24–25 events and dog costume contest requirements."
+      }
+    },
+    {
+      "id": "nassau-library-baldwin",
+      "name": "Baldwin Public Library",
+      "kind": "library",
+      "hosts": [
+        "baldwinpl.assabetinteractive.com"
+      ],
+      "url": "https://www.baldwinpl.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-bayville-free",
+      "name": "Bayville Free Library",
+      "kind": "library",
+      "hosts": [
+        "bayvillefreelibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.bayvillefreelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 1 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 1 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-bellmore",
+      "name": "Bellmore Memorial Library",
+      "kind": "library",
+      "hosts": [
+        "bellmorelibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.bellmorelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 4 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 4 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-bethpage",
+      "name": "Bethpage Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.bethpagelibrary.info/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-bryant",
+      "name": "Bryant Library",
+      "kind": "library",
+      "hosts": [
+        "bryantlibrary.libcal.com"
+      ],
+      "url": "https://www.bryantlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 9 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 9 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-east-meadow",
+      "name": "East Meadow Public Library",
+      "kind": "library",
+      "hosts": [
+        "eastmeadow.libcal.com"
+      ],
+      "url": "https://www.eastmeadow.info/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 4 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 4 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-east-rockaway",
+      "name": "East Rockaway Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://eastrockawaylibrary.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-east-williston",
+      "name": "East Williston Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.ewlibrary.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-elmont",
+      "name": "Elmont Memorial Library",
+      "kind": "library",
+      "hosts": [
+        "elmontlibrary.libcal.com"
+      ],
+      "url": "https://www.elmontlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-farmingdale",
+      "name": "Farmingdale Public Library",
+      "kind": "library",
+      "hosts": [
+        "farmingdale.librarycalendar.com"
+      ],
+      "url": "https://www.farmingdalelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 12 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 12 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-floral-park",
+      "name": "Floral Park Public Library",
+      "kind": "library",
+      "hosts": [
+        "floralparklibrary.libcal.com"
+      ],
+      "url": "https://www.floralparklibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-franklin-square",
+      "name": "Franklin Square Public Library",
+      "kind": "library",
+      "hosts": [
+        "franklinsquarepl.libcal.com"
+      ],
+      "url": "https://fslibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 1 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 1 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-freeport",
+      "name": "Freeport Memorial Library",
+      "kind": "library",
+      "hosts": [
+        "freeportlibrary.libcal.com"
+      ],
+      "url": "https://www.freeportlibrary.info/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 4 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 4 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "garden-city",
+      "name": "Garden City Public Library",
+      "kind": "library",
+      "hosts": [
+        "gardencitypl.libcal.com"
+      ],
+      "url": "https://gardencitypl.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 7 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 7 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-glen-cove",
+      "name": "Glen Cove Public Library",
+      "kind": "library",
+      "hosts": [
+        "glencovelibrary.libcal.com"
+      ],
+      "url": "https://www.glencovelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-gold-coast",
+      "name": "Gold Coast Public Library",
+      "kind": "library",
+      "hosts": [
+        "goldcoast.librarycalendar.com"
+      ],
+      "url": "https://goldcoastlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 8 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 8 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "great-neck",
+      "name": "Great Neck Library",
+      "kind": "library",
+      "hosts": [
+        "greatnecklibrary.libcal.com"
+      ],
+      "url": "https://www.greatnecklibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 24 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 24 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-hempstead",
+      "name": "Hempstead Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.hempsteadlibrary.info",
+      "status": "reviewed",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 0 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 0 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-henry-waldinger",
+      "name": "Henry Waldinger Memorial Library",
+      "kind": "library",
+      "hosts": [
+        "valleystreamlibrary.assabetinteractive.com"
+      ],
+      "url": "https://valleystreamlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 3 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 3 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-hewlett-woodmere",
+      "name": "Hewlett-Woodmere Public Library",
+      "kind": "library",
+      "hosts": [
+        "hwpl.libcal.com"
+      ],
+      "url": "https://www.hwpl.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 15 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 15 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-hicksville",
+      "name": "Hicksville Public Library",
+      "kind": "library",
+      "hosts": [
+        "hicksvillelibrary.libcal.com"
+      ],
+      "url": "https://www.hicksvillelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-hillside",
+      "name": "Hillside Public Library",
+      "kind": "library",
+      "hosts": [
+        "hillsidelibrary.libcal.com"
+      ],
+      "url": "https://www.hillsidelibrary.info",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-island-park",
+      "name": "Island Park Public Library",
+      "kind": "library",
+      "hosts": [
+        "islandparklibrary.libcal.com"
+      ],
+      "url": "https://www.islandparklibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 4 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 4 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-island-trees",
+      "name": "Island Trees Public Library",
+      "kind": "library",
+      "hosts": [
+        "islandtreespubliclibrary.libcal.com"
+      ],
+      "url": "https://www.islandtreespubliclibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 6 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 6 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "jericho",
+      "name": "Jericho Public Library",
+      "kind": "library",
+      "hosts": [
+        "www.jericholibrary.org",
+        "jericholibrary.org"
+      ],
+      "url": "https://www.jericholibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 11 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 11 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-lakeview",
+      "name": "Lakeview Public Library",
+      "kind": "library",
+      "hosts": [
+        "lakeviewlibrary.libcal.com"
+      ],
+      "url": "https://lakeviewlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 6 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 6 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-levittown",
+      "name": "Levittown Public Library",
+      "kind": "library",
+      "hosts": [
+        "levittown.librarycalendar.com"
+      ],
+      "url": "https://www.levittownpl.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 7 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 7 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-locust-valley",
+      "name": "Locust Valley Library",
+      "kind": "library",
+      "hosts": [
+        "locustvalleylibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.locustvalleylibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 6 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 6 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-long-beach",
+      "name": "Long Beach Public Library",
+      "kind": "library",
+      "hosts": [
+        "longbeachpl.librarycalendar.com"
+      ],
+      "url": "https://www.longbeachlibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 20 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 20 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-lynbrook",
+      "name": "Lynbrook Public Library",
+      "kind": "library",
+      "hosts": [
+        "lynbrooklibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.lynbrooklibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 1 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 1 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-malverne",
+      "name": "Malverne Public Library",
+      "kind": "library",
+      "hosts": [
+        "malvernelibrary.libcal.com"
+      ],
+      "url": "https://www.malvernelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 2 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 2 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "manhasset",
+      "name": "Manhasset Public Library",
+      "kind": "library",
+      "hosts": [
+        "manhasset.librarycalendar.com"
+      ],
+      "url": "https://www.manhassetlibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-massapequa",
+      "name": "Massapequa Public Library",
+      "kind": "library",
+      "hosts": [
+        "massapequa.librarycalendar.com"
+      ],
+      "url": "https://www.massapequalibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-merrick",
+      "name": "Merrick Library",
+      "kind": "library",
+      "hosts": [
+        "merricklibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.merricklibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 7 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 7 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-mineola",
+      "name": "Mineola Public Library",
+      "kind": "library",
+      "hosts": [
+        "mineola.librarycalendar.com"
+      ],
+      "url": "https://www.mineolalibrary.info/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 6 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 6 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-north-bellmore",
+      "name": "North Bellmore Public Library",
+      "kind": "library",
+      "hosts": [
+        "northbellmorelibrary.libcal.com"
+      ],
+      "url": "https://www.northbellmorelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 8 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 8 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-north-merrick",
+      "name": "North Merrick Public Library",
+      "kind": "library",
+      "hosts": [
+        "nmerricklibrary.libcal.com"
+      ],
+      "url": "https://www.nmerricklibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 4 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 4 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-oceanside",
+      "name": "Oceanside Library",
+      "kind": "library",
+      "hosts": [
+        "oceansidelibrary.libcal.com"
+      ],
+      "url": "https://www.oceansidelibrary.com/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 18 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 18 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-oyster-bay-east-norwich",
+      "name": "Oyster Bay-East Norwich Public Library",
+      "kind": "library",
+      "hosts": [
+        "oysterbaylibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.oysterbaylibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 2 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 2 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-peninsula",
+      "name": "Peninsula Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.peninsulapublic.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-plainedge",
+      "name": "Plainedge Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.plainedgelibrary.org",
+      "status": "reviewed",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 0 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 0 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-plainview-old-bethpage",
+      "name": "Plainview-Old Bethpage Public Library",
+      "kind": "library",
+      "hosts": [
+        "poblib.librarycalendar.com"
+      ],
+      "url": "https://www.poblib.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 8 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 8 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "port-washington",
+      "name": "Port Washington Public Library",
+      "kind": "library",
+      "hosts": [
+        "portwashington.librarycalendar.com"
+      ],
+      "url": "https://www.pwpl.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 12 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 12 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-rockville-centre",
+      "name": "Rockville Centre Public Library",
+      "kind": "library",
+      "hosts": [
+        "rvcpl.libcal.com"
+      ],
+      "url": "https://www.rvclibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 9 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 9 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-roosevelt",
+      "name": "Roosevelt Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.rooseveltlibrary.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-sea-cliff-village",
+      "name": "Sea Cliff Village Library",
+      "kind": "library",
+      "hosts": [
+        "seaclifflibrary.libcal.com"
+      ],
+      "url": "https://www.seaclifflibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 6 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 6 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-seaford",
+      "name": "Seaford Public Library",
+      "kind": "library",
+      "hosts": [
+        "seafordlibrary.assabetinteractive.com"
+      ],
+      "url": "https://www.seafordlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-shelter-rock",
+      "name": "Shelter Rock Public Library",
+      "kind": "library",
+      "hosts": [
+        "srpl.libcal.com"
+      ],
+      "url": "https://www.srpl.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 5 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 5 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "syosset",
+      "name": "Syosset Public Library",
+      "kind": "library",
+      "hosts": [
+        "syosset.librarycalendar.com"
+      ],
+      "url": "https://www.syossetlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 10 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 10 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-uniondale",
+      "name": "Uniondale Public Library",
+      "kind": "library",
+      "hosts": [
+        "uniondale.librarycalendar.com"
+      ],
+      "url": "https://www.uniondalelibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 17 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 17 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-wantagh",
+      "name": "Wantagh Public Library",
+      "kind": "library",
+      "hosts": [
+        "wantaghlibrary.libcal.com"
+      ],
+      "url": "https://www.wantaghlibrary.org/",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 8 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 8 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-west-hempstead",
+      "name": "West Hempstead Public Library",
+      "kind": "library",
+      "hosts": [
+        "whplibrary.libcal.com"
+      ],
+      "url": "https://www.whplibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 1 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 1 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-westbury-memorial",
+      "name": "Westbury Memorial Public Library",
+      "kind": "library",
+      "hosts": [
+        "westburylibrary.libcal.com"
+      ],
+      "url": "https://www.westburylibrary.org",
+      "status": "scanned",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已读取本期公开日历；收录 3 个活动。取消、成人／志愿服务及无明确时段项目已排除；报名关闭／满额／候补保留并按场次标注。费用不明不视作免费。详见全县采集明细。",
+        "en": "Read the public calendar for this edition; includes 3 activities. Canceled, adult/volunteer and untimed entries excluded. Closed/full/waitlist occurrences are labeled. Unspecified prices are not assumed free. See countywide audit."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-library-williston-park",
+      "name": "Williston Park Public Library",
+      "kind": "library",
+      "hosts": [],
+      "url": "https://www.willistonparklibrary.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "日历平台访问受限，本期未完成逐日采集；不代表没有亲子活动。",
+        "en": "Calendar access/platform limitations prevented a complete date-by-date collection; this does not mean there are no family events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-oyster-bay",
+      "name": "Town of Oyster Bay",
+      "kind": "parks",
+      "hosts": [
+        "oysterbaytown.com"
+      ],
+      "url": "https://oysterbaytown.com/news/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实 10/24 家庭秋日万圣节及居民说明；未遍历所有镇活动。",
+        "en": "Verified the Oct 24 family fall festival and resident wording; not all town events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-hempstead",
+      "name": "Town of Hempstead",
+      "kind": "parks",
+      "hosts": [
+        "hempsteadny.gov"
+      ],
+      "url": "https://hempsteadny.gov/calendar.aspx",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实 10/25 Fall Finale 车展／讨糖日及观众免费入场；非全镇活动覆盖。",
+        "en": "Verified Oct 25 Fall Finale car show/trunk-or-treat and free spectator admission; not all town events."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-cradle",
+      "name": "Cradle of Aviation Museum",
+      "kind": "venue",
+      "hosts": [
+        "www.cradleofaviation.org"
+      ],
+      "url": "https://www.cradleofaviation.org/plan_your_visit/event_calendar.html",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已核实 10/31–11/1 STEM•X，免费但须提前报名；非全日历采集。",
+        "en": "Verified Oct 31–Nov 1 STEM•X: free with advance registration; not a complete calendar collection."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-art-museum",
+      "name": "Nassau County Museum of Art",
+      "kind": "venue",
+      "hosts": [
+        "nassaumuseum.org"
+      ],
+      "url": "https://nassaumuseum.org/programs-and-events-category/family-childrens-programs/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "核实亲子项目目录、10/24 魔法森林和 10/31 家庭艺术；课后十周课程不作为单次活动导入。",
+        "en": "Reviewed the family-program directory, Oct 24 Enchanted Forest and Oct 31 Family Saturdays. Ten-week after-school courses are not listed as standalone outings."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-sands",
+      "name": "Sands Point Preserve",
+      "kind": "venue",
+      "hosts": [
+        "www.sandspointpreserveconservancy.org"
+      ],
+      "url": "https://www.sandspointpreserveconservancy.org/about/master-calendar/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查 10 月公开日历及相关详情，收录 10/24 秋叶导览、10/25 宠物讨糖；10/26 满月步行已售罄，未收录。",
+        "en": "Reviewed the October calendar and relevant details; includes Oct 24 fall walk and Oct 25 pet trunk-or-treat. Sold-out Oct 26 full-moon hike excluded."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-nls-showcase",
+      "name": "Nassau Library System · Showcase",
+      "kind": "library",
+      "hosts": [
+        "events.nassaulibrary.org"
+      ],
+      "url": "https://events.nassaulibrary.org/",
+      "status": "partial",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "完整读取展示日历 3 页／140 条，本期 132 条；这是成员馆精选展示，不是全县总日历。补入 Williston Park Minecraft。",
+        "en": "Read all 3 showcase pages / 140 records, 132 in range. This is a member showcase, not a complete county calendar. Added Williston Park Minecraft."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-county",
+      "name": "Nassau County Parks & Museums",
+      "kind": "parks",
+      "hosts": [
+        "www.nassaucountyny.gov"
+      ],
+      "url": "https://www.nassaucountyny.gov/5054/Events",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查县公园、活动、Old Bethpage、Garvies Point 与 Tackapausha 官方入口；部分活动以图片发布，未确认本期完整日程，未据此补造场次。",
+        "en": "Reviewed county parks/events and Old Bethpage, Garvies Point and Tackapausha entry pages. Some schedules are image-only; no complete edition schedule established."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-north-hempstead",
+      "name": "Town of North Hempstead",
+      "kind": "parks",
+      "hosts": [
+        "www.northhempsteadny.gov",
+        "northhempsteadny.gov"
+      ],
+      "url": "https://www.northhempsteadny.gov/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查镇活动入口；查到的 Howl-O-Ween 为 10/17，超出本期。未建立完整日历覆盖。",
+        "en": "Reviewed town event entry pages. The discovered Howl-O-Ween is Oct 17, outside this edition. Complete calendar coverage not established."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-smli",
+      "name": "Science Museum of Long Island",
+      "kind": "venue",
+      "hosts": [
+        "www.smli.org"
+      ],
+      "url": "https://www.smli.org/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查官网及南瓜活动商店；公开正文未能确认本期日期和票价，暂未导入。",
+        "en": "Reviewed the website and pumpkin-event shop; public text did not establish edition dates and pricing, so no event imported."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    },
+    {
+      "id": "nassau-cstl",
+      "name": "Center for Science Teaching & Learning",
+      "kind": "venue",
+      "hosts": [
+        "cstl.org"
+      ],
+      "url": "https://cstl.org/spookyfest/",
+      "status": "limited",
+      "checkedOn": "2026-10-24",
+      "note": {
+        "zh": "已查 Spooky Fest 页面；日程与旧年份文字混杂，本轮未确认年份，不导入未核实日期。",
+        "en": "Reviewed Spooky Fest; schedule text mixes with old-year copy. Edition year not resolved in this pass; unverified dates not imported."
+      },
+      "auditPath": "./data/nassau_coverage.json"
+    }
+  ]
+}

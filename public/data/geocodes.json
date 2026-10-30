@@ -1,0 +1,763 @@
+{
+  "scope": "Nassau venue coordinate replacements before initial open-source publication",
+  "attribution": "US Census Bureau; © OpenStreetMap contributors (ODbL 1.0)",
+  "osmCopyright": "https://www.openstreetmap.org/copyright",
+  "venues": {
+    "licm": {
+      "address": "11 Davis Avenue, Garden City, NY 11530",
+      "coordinates": [
+        40.7286545,
+        -73.5987176
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=11+Davis+Avenue%2C+Garden+City%2C+NY+11530&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "11 DAVIS AVE, GARDEN CITY, NY, 11530",
+      "approximate": true
+    },
+    "owg": {
+      "address": "71 Old Westbury Road, Old Westbury, NY 11568",
+      "coordinates": [
+        40.7735108,
+        -73.6014187
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=71+Old+Westbury+Road%2C+Old+Westbury%2C+NY+11568&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "71 OLD WESTBURY RD, OLD WESTBURY, NY, 11568",
+      "approximate": true
+    },
+    "nassau-145f44225433": {
+      "address": "2385 Grand Ave, Baldwin, NY 11510, USA",
+      "coordinates": [
+        40.6525068,
+        -73.6114193
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2385+Grand+Ave%2C+Baldwin%2C+NY+11510%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2385 GRAND AVE, BALDWIN, NY, 11510",
+      "approximate": true
+    },
+    "nassau-80c77227c08b": {
+      "address": "34 School St, Bayville, NY 11709, USA",
+      "coordinates": [
+        40.9092175,
+        -73.5664169
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=34+School+St%2C+Bayville%2C+NY+11709%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "34 SCHOOL ST, BAYVILLE, NY, 11709",
+      "approximate": true
+    },
+    "nassau-5b0a73050198": {
+      "address": "2288 Bedford Ave, Bellmore, NY 11710, USA",
+      "coordinates": [
+        40.6677309,
+        -73.5271671
+      ],
+      "source": "https://www.openstreetmap.org/way/569440644",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Bellmore Memorial Library",
+      "approximate": true
+    },
+    "nassau-4b6a6c556719": {
+      "address": "2 Papermill Rd, Roslyn, NY 11576, USA",
+      "coordinates": [
+        40.7970444,
+        -73.6486245
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2+Papermill+Rd%2C+Roslyn%2C+NY+11576%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2 PAPERMILL RD, ROSLYN, NY, 11576",
+      "approximate": true
+    },
+    "nassau-18f6be2fc586": {
+      "address": "East Meadow Public Library, 1886 Front St, East Meadow, NY 11554, USA",
+      "coordinates": [
+        40.7199425,
+        -73.5639181
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=East+Meadow+Public+Library%2C+1886+Front+St%2C+East+Meadow%2C+NY+11554%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1886 FRONT ST, EAST MEADOW, NY, 11554",
+      "approximate": true
+    },
+    "nassau-76867c871e41": {
+      "address": "700 Hempstead Turnpike, Elmont, NY 11003, USA",
+      "coordinates": [
+        40.7081227,
+        -73.6999289
+      ],
+      "source": "https://www.openstreetmap.org/way/60845972",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Elmont Memorial Library, 700, Hempstead Turnpike, Elmont, Town of Hempstead, Nassau County, New York, 11003, United States",
+      "approximate": true
+    },
+    "nassau-b007365ac901": {
+      "address": "116 Merritts Rd, Farmingdale, NY 11735, USA",
+      "coordinates": [
+        40.7290834,
+        -73.4592447
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=116+Merritts+Rd%2C+Farmingdale%2C+NY+11735%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "116 MERRITTS RD, FARMINGDALE, NY, 11735",
+      "approximate": true
+    },
+    "nassau-4fdae7855d18": {
+      "address": "17 Caroline Pl, Floral Park, NY 11001, USA",
+      "coordinates": [
+        40.724668,
+        -73.7073675
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=17+Caroline+Pl%2C+Floral+Park%2C+NY+11001%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "17 CAROLINE PL, FLORAL PARK, NY, 11001",
+      "approximate": true
+    },
+    "nassau-24e317f6b943": {
+      "address": "19 Lincoln Rd, Franklin Square, NY 11010, USA",
+      "coordinates": [
+        40.7073985,
+        -73.6707397
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=19+Lincoln+Rd%2C+Franklin+Square%2C+NY+11010%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "19 LINCOLN RD, FRANKLIN SQUARE, NY, 11010",
+      "approximate": true
+    },
+    "nassau-c110dc11df44": {
+      "address": "144 W Merrick Rd, Freeport, NY 11520, USA",
+      "coordinates": [
+        40.6531284,
+        -73.5866289
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=144+W+Merrick+Rd%2C+Freeport%2C+NY+11520%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "144 W MERRICK RD, FREEPORT, NY, 11520",
+      "approximate": true
+    },
+    "nassau-990788e20642": {
+      "address": "60 7th St, Garden City, NY 11530, USA",
+      "coordinates": [
+        40.7237129,
+        -73.6389418
+      ],
+      "source": "https://www.openstreetmap.org/way/589705039",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Garden City Public Library, 60, 7th Street, Village of Garden City, Town of Hempstead, Nassau County, New York, 11530, United States",
+      "approximate": true
+    },
+    "nassau-4fe0a32d875f": {
+      "address": "4 Glen Cove Ave, Glen Cove, NY 11542, USA",
+      "coordinates": [
+        40.8627378,
+        -73.6337145
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4+Glen+Cove+Ave%2C+Glen+Cove%2C+NY+11542%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "4 GLEN COVE AVE, GLEN COVE, NY, 11542",
+      "approximate": true
+    },
+    "nassau-3a0db1fa966e": {
+      "address": "146 Glen Head Rd, Glen Head, NY 11545, USA",
+      "coordinates": [
+        40.8353931,
+        -73.6225696
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=146+Glen+Head+Rd%2C+Glen+Head%2C+NY+11545%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "146 GLEN HEAD RD, GLEN HEAD, NY, 11545",
+      "approximate": true
+    },
+    "nassau-c0520ec82044": {
+      "address": "159 Bayview Ave, Great Neck, NY 11023, USA",
+      "coordinates": [
+        40.797438,
+        -73.7468261
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=159+Bayview+Ave%2C+Great+Neck%2C+NY+11023%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "159 BAYVIEW AVE, GREAT NECK, NY, 11023",
+      "approximate": true
+    },
+    "nassau-37924180e703": {
+      "address": "26 Great Neck Rd, Great Neck, NY 11021, USA",
+      "coordinates": [
+        40.7862827,
+        -73.7273132
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=26+Great+Neck+Rd%2C+Great+Neck%2C+NY+11021%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "26 GREAT NECK RD, GREAT NECK, NY, 11021",
+      "approximate": true
+    },
+    "nassau-c364d388fd42": {
+      "address": "10 Campbell St, New Hyde Park, NY 11040, USA",
+      "coordinates": [
+        40.7492082,
+        -73.69647
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=10+Campbell+St%2C+New+Hyde+Park%2C+NY+11040%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "10 CAMPBELL ST, NEW HYDE PARK, NY, 11040",
+      "approximate": true
+    },
+    "nassau-13677ea84eba": {
+      "address": "60 Verona Pl, Valley Stream, NY 11582, USA",
+      "coordinates": [
+        40.6641743,
+        -73.7068152
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=60+Verona+Pl%2C+Valley+Stream%2C+NY+11582%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "60 VERONA PL, VALLEY STREAM, NY, 11580",
+      "approximate": true
+    },
+    "nassau-e4c4cdd0dcf0": {
+      "address": "Village Green Park, Valley Stream, NY 11580, USA",
+      "coordinates": [
+        40.6631371,
+        -73.7063661
+      ],
+      "source": "https://www.openstreetmap.org/way/499280497",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Village Green Park",
+      "approximate": true
+    },
+    "nassau-1a20211f4cb1": {
+      "address": "1125 Broadway, Hewlett, NY 11557, USA",
+      "coordinates": [
+        40.6343512,
+        -73.7046785
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1125+Broadway%2C+Hewlett%2C+NY+11557%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1125 BROADWAY, HEWLETT, NY, 11557",
+      "approximate": true
+    },
+    "nassau-027cfaba2e29": {
+      "address": "169 Jerusalem Ave, Hicksville, NY 11801, USA",
+      "coordinates": [
+        40.7620896,
+        -73.5233565
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=169+Jerusalem+Ave%2C+Hicksville%2C+NY+11801%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "169 JERUSALEM AVE, HICKSVILLE, NY, 11801",
+      "approximate": true
+    },
+    "nassau-d5db54ba8778": {
+      "address": "155 Lakeville Rd, New Hyde Park, NY 11040, USA",
+      "coordinates": [
+        40.7344379,
+        -73.6879948
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=155+Lakeville+Rd%2C+New+Hyde+Park%2C+NY+11040%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "155 LAKEVILLE RD, NEW HYDE PARK, NY, 11040",
+      "approximate": true
+    },
+    "nassau-de8891cad84e": {
+      "address": "176 Long Beach Rd, Island Park, NY 11558, USA",
+      "coordinates": [
+        40.6025122,
+        -73.6558452
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=176+Long+Beach+Rd%2C+Island+Park%2C+NY+11558%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "176 LONG BEACH RD, ISLAND PARK, NY, 11558",
+      "approximate": true
+    },
+    "nassau-d0e02595ed61": {
+      "address": "38 Farmedge Rd, Levittown, NY 11756, USA",
+      "coordinates": [
+        40.7363655,
+        -73.4980535
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=38+Farmedge+Rd%2C+Levittown%2C+NY+11756%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "38 FARMEDGE RD, LEVITTOWN, NY, 11756",
+      "approximate": true
+    },
+    "nassau-79d2ed7cc816": {
+      "address": "1 Merry Ln, Jericho, NY 11753, USA",
+      "coordinates": [
+        40.7939525,
+        -73.5359534
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1+Merry+Ln%2C+Jericho%2C+NY+11753%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1 MERRY LN, JERICHO, NY, 11753",
+      "approximate": true
+    },
+    "nassau-09b6060454c3": {
+      "address": "1120 Woodfield Rd, Rockville Centre, NY 11570, USA",
+      "coordinates": [
+        40.6738311,
+        -73.6528763
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1120+Woodfield+Rd%2C+Rockville+Centre%2C+NY+11570%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1120 WOODFIELD RD, ROCKVILLE CENTRE, NY, 11570",
+      "approximate": true
+    },
+    "nassau-6141aba2b138": {
+      "address": "1 Bluegrass Ln, Levittown, NY 11756, USA",
+      "coordinates": [
+        40.7229247,
+        -73.5300562
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1+Bluegrass+Ln%2C+Levittown%2C+NY+11756%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1 BLUEGRASS LN, LEVITTOWN, NY, 11756",
+      "approximate": true
+    },
+    "nassau-210f04ed843a": {
+      "address": "170 Buckram Rd, Locust Valley, NY 11560, USA",
+      "coordinates": [
+        40.8787249,
+        -73.5908507
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=170+Buckram+Rd%2C+Locust+Valley%2C+NY+11560%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "170 BUCKRAM RD, LOCUST VALLEY, NY, 11560",
+      "approximate": true
+    },
+    "nassau-2dea0e4719a3": {
+      "address": "111 W Park Ave, Long Beach, NY 11561, USA",
+      "coordinates": [
+        40.5885213,
+        -73.6672298
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=111+W+Park+Ave%2C+Long+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "111 W PARK AVE, LONG BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-4cb62adc518b": {
+      "address": "903 W Beech St, Long Beach, NY 11561, USA",
+      "coordinates": [
+        40.5860755,
+        -73.691589
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=903+W+Beech+St%2C+Long+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "903 W BEECH ST, LONG BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-cb280dde8dc4": {
+      "address": "79 Lido Blvd, Point Lookout, NY 11569, USA",
+      "coordinates": [
+        40.5920318,
+        -73.5825494
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=79+Lido+Blvd%2C+Point+Lookout%2C+NY+11569%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "79 LIDO BLVD, POINT LOOKOUT, NY, 11569",
+      "approximate": true
+    },
+    "nassau-180e495be3cd": {
+      "address": "56 Eldert St, Lynbrook, NY 11563, USA",
+      "coordinates": [
+        40.6546266,
+        -73.6741289
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=56+Eldert+St%2C+Lynbrook%2C+NY+11563%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "56 ELDERT ST, LYNBROOK, NY, 11563",
+      "approximate": true
+    },
+    "nassau-0668f89b29eb": {
+      "address": "61 St Thomas Pl, Malverne, NY 11565, USA",
+      "coordinates": [
+        40.6761119,
+        -73.6705488
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=61+St+Thomas+Pl%2C+Malverne%2C+NY+11565%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "61 SAINT THOMAS PL, MALVERNE, NY, 11565",
+      "approximate": true
+    },
+    "nassau-c093de9a5ca9": {
+      "address": "30 Onderdonk Ave, Manhasset, NY 11030, USA",
+      "coordinates": [
+        40.7944729,
+        -73.6952071
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=30+Onderdonk+Ave%2C+Manhasset%2C+NY+11030%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "30 ONDERDONK AVE, MANHASSET, NY, 11030",
+      "approximate": true
+    },
+    "nassau-01b972c87c0d": {
+      "address": "40 Harbor Ln, Massapequa Park, NY 11762, USA",
+      "coordinates": [
+        40.6636073,
+        -73.4559746
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=40+Harbor+Ln%2C+Massapequa+Park%2C+NY+11762%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "40 HARBOR LN, MASSAPEQUA PARK, NY, 11762",
+      "approximate": true
+    },
+    "nassau-66963b512e98": {
+      "address": "523 Central Ave, Massapequa, NY 11758, USA",
+      "coordinates": [
+        40.6789338,
+        -73.4717262
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=523+Central+Ave%2C+Massapequa%2C+NY+11758%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "523 CENTRAL AVE, MASSAPEQUA, NY, 11758",
+      "approximate": true
+    },
+    "nassau-ed95ddb66b20": {
+      "address": "2279 Merrick Ave, Merrick, NY 11566, USA",
+      "coordinates": [
+        40.6608429,
+        -73.5509277
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2279+Merrick+Ave%2C+Merrick%2C+NY+11566%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2279 MERRICK AVE, MERRICK, NY, 11566",
+      "approximate": true
+    },
+    "nassau-d867c85f9cbd": {
+      "address": "195 Marcellus Rd, Mineola, NY 11501, USA",
+      "coordinates": [
+        40.7431257,
+        -73.6458245
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=195+Marcellus+Rd%2C+Mineola%2C+NY+11501%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "195 MARCELLUS RD, MINEOLA, NY, 11501",
+      "approximate": true
+    },
+    "nassau-9e1edc8276d2": {
+      "address": "1551 Newbridge Rd, North Bellmore, NY 11710, USA",
+      "coordinates": [
+        40.6831033,
+        -73.5399893
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1551+Newbridge+Rd%2C+North+Bellmore%2C+NY+11710%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1551 NEWBRIDGE RD, NORTH BELLMORE, NY, 11710",
+      "approximate": true
+    },
+    "nassau-d8beeb072d42": {
+      "address": "1691 Meadowbrook Rd, North Merrick, NY 11566, USA",
+      "coordinates": [
+        40.6758627,
+        -73.5689558
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1691+Meadowbrook+Rd%2C+North+Merrick%2C+NY+11566%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1691 MEADOWBROOK RD, NORTH MERRICK, NY, 11566",
+      "approximate": true
+    },
+    "nassau-2cd8622cf287": {
+      "address": "30 Davison Ave, Oceanside, NY 11572, USA",
+      "coordinates": [
+        40.6416773,
+        -73.6392536
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=30+Davison+Ave%2C+Oceanside%2C+NY+11572%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "30 DAVISON AVE, OCEANSIDE, NY, 11572",
+      "approximate": true
+    },
+    "nassau-facc08a5a5bc": {
+      "address": "89 E Main St, Oyster Bay, NY 11771, USA",
+      "coordinates": [
+        40.8718005,
+        -73.5267711
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=89+E+Main+St%2C+Oyster+Bay%2C+NY+11771%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "89 E MAIN ST, OYSTER BAY, NY, 11771",
+      "approximate": true
+    },
+    "nassau-1052625417db": {
+      "address": "999 Old Country Rd, Plainview, NY 11803, USA",
+      "coordinates": [
+        40.7755913,
+        -73.4729081
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=999+Old+Country+Rd%2C+Plainview%2C+NY+11803%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "999 OLD COUNTRY RD, PLAINVIEW, NY, 11803",
+      "approximate": true
+    },
+    "nassau-fbab0a36689a": {
+      "address": "232 Main St, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8311557,
+        -73.6956794
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=232+Main+St%2C+Port+Washington%2C+NY+11050%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "232 MAIN ST, PORT WASHINGTON, NY, 11050",
+      "approximate": true
+    },
+    "nassau-2bd16a6936b0": {
+      "address": "Library Dr, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8319463,
+        -73.6968479
+      ],
+      "source": "https://www.openstreetmap.org/way/596142988",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Port Washington Public Library, 1, Library Drive, Village of Baxter Estates, Port Washington, Town of North Hempstead, Nassau County, New York, 11050, United States",
+      "approximate": true
+    },
+    "nassau-6da1c213c4fb": {
+      "address": "Blumenfeld Family Park, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8305679,
+        -73.695417
+      ],
+      "source": "https://www.openstreetmap.org/way/539327820",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Blumenfeld Family Park, Port Washington, Town of North Hempstead, Nassau County, New York, United States",
+      "approximate": true
+    },
+    "nassau-3ca29c10107a": {
+      "address": "221 N Village Ave, Rockville Centre, NY 11570, USA",
+      "coordinates": [
+        40.6643912,
+        -73.6485796
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=221+N+Village+Ave%2C+Rockville+Centre%2C+NY+11570%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "221 N VILLAGE AVE, ROCKVILLE CENTRE, NY, 11570",
+      "approximate": true
+    },
+    "nassau-f98933096e5e": {
+      "address": "281 Sea Cliff Ave, Sea Cliff, NY 11579, USA",
+      "coordinates": [
+        40.8492005,
+        -73.6470103
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=281+Sea+Cliff+Ave%2C+Sea+Cliff%2C+NY+11579%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "281 SEA CLIFF AVE, SEA CLIFF, NY, 11579",
+      "approximate": true
+    },
+    "nassau-dc5706554e24": {
+      "address": "2234 Jackson Ave, Seaford, NY 11783, USA",
+      "coordinates": [
+        40.666944,
+        -73.4869651
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2234+Jackson+Ave%2C+Seaford%2C+NY+11783%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2234 JACKSON AVE, SEAFORD, NY, 11783",
+      "approximate": true
+    },
+    "nassau-36b854418c00": {
+      "address": "165 Searingtown Rd, Albertson, NY 11507, USA",
+      "coordinates": [
+        40.7625744,
+        -73.6563937
+      ],
+      "source": "https://www.openstreetmap.org/way/589708643",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Shelter Rock Public Library, 165, Searingtown Road South, Searingtown Villas at Searingtown, Albertson, Town of North Hempstead, Nassau County, New York, 11507, United States",
+      "approximate": true
+    },
+    "nassau-7c75e2eeef48": {
+      "address": "225 S Oyster Bay Rd, Syosset, NY 11791, USA",
+      "coordinates": [
+        40.7993361,
+        -73.5026558
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=225+S+Oyster+Bay+Rd%2C+Syosset%2C+NY+11791%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "225 S OYSTER BAY RD, SYOSSET, NY, 11791",
+      "approximate": true
+    },
+    "nassau-1ca2d241e09f": {
+      "address": "400 Uniondale Ave, Uniondale, NY 11553, USA",
+      "coordinates": [
+        40.7061793,
+        -73.5928575
+      ],
+      "source": "https://www.openstreetmap.org/node/368050098",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Uniondale Public Library, Uniondale Avenue, Goodrich Manor, Uniondale, Town of Hempstead, Nassau County, New York, 11553, United States",
+      "approximate": true
+    },
+    "nassau-997b2adf1abc": {
+      "address": "3285 Park Ave, Wantagh, NY 11793, USA",
+      "coordinates": [
+        40.6737015,
+        -73.5103835
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3285+Park+Ave%2C+Wantagh%2C+NY+11793%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "3285 PARK AVE, WANTAGH, NY, 11793",
+      "approximate": true
+    },
+    "nassau-0f19345b1262": {
+      "address": "500 Hempstead Ave, West Hempstead, NY 11552, USA",
+      "coordinates": [
+        40.6961574,
+        -73.6542314
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=500+Hempstead+Ave%2C+West+Hempstead%2C+NY+11552%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "500 HEMPSTEAD AVE, WEST HEMPSTEAD, NY, 11552",
+      "approximate": true
+    },
+    "nassau-47a710719cc8": {
+      "address": "445 Jefferson St, Westbury, NY 11590, USA",
+      "coordinates": [
+        40.7619549,
+        -73.5828734
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=445+Jefferson+St%2C+Westbury%2C+NY+11590%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "445 JEFFERSON ST, WESTBURY, NY, 11590",
+      "approximate": true
+    },
+    "nassau-f3deb8c590ab": {
+      "address": "445 Jefferson St, Westbury, NY 11590, USA",
+      "coordinates": [
+        40.7619549,
+        -73.5828734
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=445+Jefferson+St%2C+Westbury%2C+NY+11590%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "445 JEFFERSON ST, WESTBURY, NY, 11590",
+      "approximate": true
+    },
+    "nassau-cb9746da5020": {
+      "address": "451 Unqua Rd, Massapequa Park, NY 11762, USA",
+      "coordinates": [
+        40.6696212,
+        -73.4416178
+      ],
+      "source": "https://www.openstreetmap.org/way/788934999",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Marjorie R. Post Community Park",
+      "approximate": true
+    },
+    "nassau-5baa8ff28637": {
+      "address": "1500 Lido Blvd, Lido Beach, NY 11561, USA",
+      "coordinates": [
+        40.5919532,
+        -73.5954419
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1500+Lido+Blvd%2C+Lido+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1500 LIDO BLVD, LIDO BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-ef0802e87e4c": {
+      "address": "Charles Lindbergh Blvd, Garden City, NY 11530, USA",
+      "coordinates": [
+        40.7283473,
+        -73.5974782
+      ],
+      "source": "https://www.openstreetmap.org/node/7089432281",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Cradle of Aviation Museum, Hangar Road, East Garden City, Village of Garden City, Town of Hempstead, Nassau County, New York, 11530, United States",
+      "approximate": true
+    },
+    "nassau-12a3be03aff0": {
+      "address": "Museum Dr, Roslyn, NY 11576, USA",
+      "coordinates": [
+        40.8105008,
+        -73.6428521
+      ],
+      "source": "https://www.openstreetmap.org/relation/19188119",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Nassau County Museum of Art grounds; approximate, not Manes Center entrance",
+      "approximate": true
+    },
+    "nassau-d8005d1466a9": {
+      "address": "127 Middle Neck Rd, Sands Point, NY 11050, USA",
+      "coordinates": [
+        40.8598591,
+        -73.6932755
+      ],
+      "source": "https://www.openstreetmap.org/way/1521716073",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Sands Point Preserve, Village of Sands Point, Town of North Hempstead, Nassau County, New York, United States",
+      "approximate": true
+    },
+    "nassau-5901b9d95191": {
+      "address": "494 Willis Ave, Williston Park, NY 11596, USA",
+      "coordinates": [
+        40.7573879,
+        -73.6452592
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=494+Willis+Ave%2C+Williston+Park%2C+NY+11596%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "494 WILLIS AVE, WILLISTON PARK, NY, 11596",
+      "approximate": true
+    }
+  }
+}

@@ -1,0 +1,2055 @@
+{
+  "schemaVersion": 1,
+  "verifiedOn": "2026-10-24",
+  "range": {
+    "start": "2026-10-24",
+    "end": "2026-11-01"
+  },
+  "allCalendar": {
+    "pages": 12,
+    "reportedOccurrences": 557,
+    "parsedUniqueOccurrences": 557
+  },
+  "crossChecks": {
+    "kids": {
+      "reported": 156,
+      "parsed": 156,
+      "pages": 4,
+      "missing": []
+    },
+    "urbanparkrangers": {
+      "reported": 36,
+      "parsed": 36,
+      "pages": 1,
+      "missing": []
+    },
+    "halloween": {
+      "reported": 70,
+      "parsed": 70,
+      "pages": 2,
+      "missing": []
+    },
+    "fall-festivals": {
+      "reported": 27,
+      "parsed": 27,
+      "pages": 1,
+      "missing": []
+    }
+  },
+  "candidateOccurrences": 272,
+  "candidateGroups": 174,
+  "detailsVerified": 174,
+  "includedActivities": 168,
+  "includedSessions": 263,
+  "excluded": [
+    {
+      "title": "Volunteers wanted for Oktoberfest, set up at 10 AM or assist during event",
+      "url": "https://www.nycgovparks.org/events/2026/10/24/volunteers-wanted-for-oktoberfest-set-up-at-10-am-or-assist",
+      "occurrences": 1,
+      "reason": {
+        "zh": "这是招募布置活动志愿者的公告；亲子嘉年华本身另有独立记录。",
+        "en": "Volunteer setup recruitment; the family festival itself has a separate listing."
+      }
+    },
+    {
+      "title": "Staten Island Shockwaves Swim Team",
+      "url": "https://www.nycgovparks.org/events/2026/10/24/for-returning-20252026-members-staten-island-shockwaves-swim-team",
+      "occurrences": 5,
+      "reason": {
+        "zh": "仅限上一季游泳队回归成员，且报名已关闭。",
+        "en": "Returning swim-team members only; registration is closed."
+      }
+    },
+    {
+      "title": "Hart Island Tour (South Island)",
+      "url": "https://www.nycgovparks.org/events/2026/10/27/hart-island-tour-south-island",
+      "occurrences": 1,
+      "reason": {
+        "zh": "Hart Island 参观须抽签，报名窗口已关闭。",
+        "en": "Hart Island tour requires a lottery whose registration has closed."
+      }
+    },
+    {
+      "title": "Movie Under the Stars: Frankenweenie (2012)",
+      "url": "https://www.nycgovparks.org/events/2026/10/28/movie-under-the-stars-frankenweenie-2012",
+      "occurrences": 1,
+      "reason": {
+        "zh": "官方日历及详情均未给出举办地点，暂不发布，避免错误定位。",
+        "en": "Neither the official listing nor detail page provides a venue; held out rather than inventing a location."
+      }
+    }
+  ],
+  "merged": [
+    {
+      "title": "Adventure Course Free Public Sunday Afternoon Program",
+      "into": 57,
+      "url": "https://www.nycgovparks.org/events/2026/10/25/adventure-course-free-public-sunday-afternoon-program"
+    },
+    {
+      "title": "Tiny Tots: Session 2",
+      "into": 89,
+      "url": "https://www.nycgovparks.org/events/2026/10/27/tiny-tots-session-2"
+    }
+  ],
+  "duplicates": [
+    {
+      "reason": "Conflicting duplicate listings combined, conflict disclosed on card",
+      "urls": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-candy-giveaway1",
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-candy-giveaway"
+      ]
+    }
+  ],
+  "selection": {
+    "zh": "全部分页扫描；收录官网儿童、Rangers、万圣节、秋日节分类，以及明确提到儿童/家庭/全年龄和 NYRR 全年龄活动。其余成人/非亲子项目不自动收录；不声称全市所有活动均已覆盖。",
+    "en": "All calendar pages scanned. Include official kids, Rangers, Halloween and fall-festival categories, explicit child/family/all-ages listings and all-ages NYRR programs. Other adult/non-family listings are not automatically included; this is not a claim of every event citywide."
+  },
+  "included": [
+    {
+      "eventId": "parks-nyrr-open-run-crocheron-park-13f6e142",
+      "title": "NYRR Open Run: Crocheron Park",
+      "reviewNumbers": [
+        1
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-crocheron-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-crocheron-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-youth-sports-club-56f25a75",
+      "title": "Youth Sports Club",
+      "reviewNumbers": [
+        2
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/youth-sports-club",
+        "https://www.nycgovparks.org/events/2026/10/31/youth-sports-club"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-every-play-counts-every-player-matters-dea5b198",
+      "title": "Every Play Counts, Every Player Matters",
+      "reviewNumbers": [
+        3
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/every-play-counts-every-player-matters",
+        "https://www.nycgovparks.org/events/2026/10/31/every-play-counts-every-player-matters"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-kids-in-motions-carmansville-playground-72d08b86",
+      "title": "Kids In Motions: Carmansville Playground",
+      "reviewNumbers": [
+        4
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motions-carmansville-playground",
+        "https://www.nycgovparks.org/events/2026/10/25/kids-in-motions-carmansville-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motions-carmansville-playground"
+      ],
+      "sessions": 3
+    },
+    {
+      "eventId": "parks-kids-in-motion-columbus-park-ec9e3dc3",
+      "title": "Kids in Motion: Columbus Park",
+      "reviewNumbers": [
+        5
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-columbus-park",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-columbus-park",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-columbus-park",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-columbus-park",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-columbus-park",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-columbus-park"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-kids-in-motion-sol-lain-playground-08dd49b1",
+      "title": "Kids in Motion: Sol Lain Playground",
+      "reviewNumbers": [
+        6
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-sol-lain-playground",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-sol-lain-playground",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-sol-lain-playground",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-sol-lain-playground",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-sol-lain-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-sol-lain-playground"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-kids-in-motion-tompkins-square-park-a10d1238",
+      "title": "Kids in Motion: Tompkins Square Park",
+      "reviewNumbers": [
+        7
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-tompkins-square-park",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-tompkins-square-park",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-tompkins-square-park",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-tompkins-square-park",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-tompkins-square-park",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-tompkins-square-park"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-kids-in-motion-samuel-seabury-playground-a8f621f7",
+      "title": "Kids in Motion: Samuel Seabury Playground",
+      "reviewNumbers": [
+        8
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-samuel-seabury-playground",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-samuel-seabury-playground",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-samuel-seabury-playground",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-samuel-seabury-playground",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-samuel-seabury-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-samuel-seabury-playground"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-kids-in-motion-cherry-tree-park-f1dcac16",
+      "title": "Kids In Motion: Cherry Tree Park",
+      "reviewNumbers": [
+        9
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-cherry-tree-park",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-cherry-tree-park",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-cherry-tree-park",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-cherry-tree-park",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-cherry-tree-park",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-cherry-tree-park"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-kids-in-motion-anne-loftus-playground-20bfa308",
+      "title": "Kids in Motion: Anne Loftus Playground",
+      "reviewNumbers": [
+        10
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-anne-loftus-playground",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-anne-loftus-playground",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-anne-loftus-playground",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-anne-loftus-playground",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-anne-loftus-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-anne-loftus-playground"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-its-my-park-at-walter-gladwin-park-0d91bdf4",
+      "title": "It's My Park at Walter Gladwin Park",
+      "reviewNumbers": [
+        11
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/its-my-park-at-walter-gladwin-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-kids-in-motion-bloomingdale-playground-3d562ac2",
+      "title": "Kids In Motion: Bloomingdale Playground",
+      "reviewNumbers": [
+        12
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-bloomingdale-playground",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-bloomingdale-playground",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-bloomingdale-playground",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-bloomingdale-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-bloomingdale-playground"
+      ],
+      "sessions": 5
+    },
+    {
+      "eventId": "parks-ocean-festival",
+      "title": "2026 Ocean Breeze Fall Festival",
+      "reviewNumbers": [
+        13
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/2026-ocean-breeze-fall-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-birding-fall-migration-c4980ba2",
+      "title": "Birding: Fall Migration",
+      "reviewNumbers": [
+        14
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/birding-fall-migration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-kids-in-motion-faber-89435d4f",
+      "title": "Kids In Motion: Faber",
+      "reviewNumbers": [
+        15
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-faber",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-faber",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-faber",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-faber",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-faber",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-faber"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-family-art-project-web-weavers-d93ecff3",
+      "title": "Family Art Project: Web Weavers",
+      "reviewNumbers": [
+        16
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/family-art-project-web-weavers",
+        "https://www.nycgovparks.org/events/2026/10/25/family-art-project-web-weavers"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-jesse-owens-track-field-youth-program-04721ad4",
+      "title": "Jesse Owens Track & Field Youth Program",
+      "reviewNumbers": [
+        17
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/jesse-owens-track-field-youth-program",
+        "https://www.nycgovparks.org/events/2026/10/31/jesse-owens-track-field-youth-program"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-kids-in-motion-seward-park-83df118e",
+      "title": "Kids in Motion: Seward Park",
+      "reviewNumbers": [
+        18
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/kids-in-motion-seward-park",
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-seward-park",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-seward-park",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-seward-park",
+        "https://www.nycgovparks.org/events/2026/10/30/kids-in-motion-seward-park",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-seward-park"
+      ],
+      "sessions": 6
+    },
+    {
+      "eventId": "parks-family-time1-a7628e51",
+      "title": "Family Time",
+      "reviewNumbers": [
+        20
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/family-time1",
+        "https://www.nycgovparks.org/events/2026/10/31/family-time1"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-tiny-dwellings",
+      "title": "Tiny Dwellings in the Heritage Garden",
+      "reviewNumbers": [
+        21
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/tiny-dwellings-in-the-heritage-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-highline-halloween",
+      "title": "High Line Halloween: Gnome-topia",
+      "reviewNumbers": [
+        22
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/high-line-halloween-gnometopia"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nature-exploration-and-restoration-58d2c2b3",
+      "title": "Nature Exploration and Restoration",
+      "reviewNumbers": [
+        23
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nature-exploration-and-restoration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-juniper-festival",
+      "title": "Juniper Valley Park Fall Festival",
+      "reviewNumbers": [
+        24
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/juniper-valley-park-fall-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-arts-culture-fun-da-de-muertos-celebration-edee906a",
+      "title": "Arts, Culture & Fun: Día de Muertos Celebration!",
+      "reviewNumbers": [
+        25
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/arts-culture-fun-da-de-muertos-celebration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-fest-2026-61c1231d",
+      "title": "Halloween Fest 2026",
+      "reviewNumbers": [
+        26
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/halloween-fest-2026"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-sugar-skulls",
+      "title": "Arts, Culture & Fun: Sugar Skull Art Workshop",
+      "reviewNumbers": [
+        27
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/arts-culture-and-fun-sugar-skull-art-workshop"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-festival-a06204fa",
+      "title": "Wayanda Park Fall Festival",
+      "reviewNumbers": [
+        28
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/fall-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-conference-house-haunted-trail-d6bb3dea",
+      "title": "Conference House Haunted Trail",
+      "reviewNumbers": [
+        29
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/conference-house-haunted-trail"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-spooktacular-fiesta-cee06dd1",
+      "title": "Spooktacular Fiesta",
+      "reviewNumbers": [
+        30
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/spooktacular-fiesta"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-riverside-park-pup-halloween-parade-f445c089",
+      "title": "Riverside Park Pup Halloween Parade",
+      "reviewNumbers": [
+        31
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/riverside-park-pup-halloween-parade"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-boo-bash-12d3ddfd",
+      "title": "Halloween Boo Bash",
+      "reviewNumbers": [
+        32
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/halloween-boo-bash"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-childrens-harvest-celebration-333a830a",
+      "title": "Fall Children's Harvest Celebration",
+      "reviewNumbers": [
+        33
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/fall-childrens-harvest-celebration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-oktoberfest-pumpkin-jamboree-in-dag-hammarskjojold-plaza-mid-0aea94de",
+      "title": "Oktoberfest Pumpkin Jamboree in Hammarskjold Plaza, midtown Manhattan",
+      "reviewNumbers": [
+        34
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/oktoberfest-pumpkin-jamboree-in-dag-hammarskjojold-plaza-mid"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-red-shed-community-gardens-fall-potluck-bebf7926",
+      "title": "Red Shed Community Garden's Fall Potluck",
+      "reviewNumbers": [
+        35
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/red-shed-community-gardens-fall-potluck"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-annual-fall-potluck-and-picnic-at-two-coves-community-garden-23debdc4",
+      "title": "Annual Fall Potluck and Picnic at Two Coves Community Garden",
+      "reviewNumbers": [
+        36
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/annual-fall-potluck-and-picnic-at-two-coves-community-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-birding-fall-migration1-4d40bb3e",
+      "title": "Birding: Fall Migration",
+      "reviewNumbers": [
+        37
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/birding-fall-migration1"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-magnetic-archery",
+      "title": "Magnetic Archery and Foam Axe Throwing",
+      "reviewNumbers": [
+        38
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/magnetic-archery-and-foam-axe-throwing"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-corn-husk-crafts-e8ee1c39",
+      "title": "Corn Husk Crafts",
+      "reviewNumbers": [
+        39
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/corn-husk-crafts"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-park-open-studio-9141975b",
+      "title": "Park Open Studio",
+      "reviewNumbers": [
+        40
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/park-open-studio",
+        "https://www.nycgovparks.org/events/2026/10/29/park-open-studio",
+        "https://www.nycgovparks.org/events/2026/10/30/park-open-studio",
+        "https://www.nycgovparks.org/events/2026/10/31/park-open-studio"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-harbor-hounds-halloween-costume-contest-parade-4e17b0c7",
+      "title": "Harbor Hounds Halloween Costume Contest & Parade",
+      "reviewNumbers": [
+        41
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/harbor-hounds-halloween-costume-contest-parade"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fdb-garden-annual-halloween-event-9fad13eb",
+      "title": "FDB Garden Annual Halloween Event",
+      "reviewNumbers": [
+        42
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/fdb-garden-annual-halloween-event"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-5th-annual-halloween-party-42fb17bb",
+      "title": "5th Annual Halloween Party",
+      "reviewNumbers": [
+        43
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/5th-annual-halloween-party"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-art-halloween-in-the-garden-c5132a34",
+      "title": "Art Halloween in the Garden",
+      "reviewNumbers": [
+        44
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/art-halloween-in-the-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fantasy-forest-immersive-hike-alien-visitors-fef824f9",
+      "title": "Fantasy Forest Immersive Hike: Alien Visitors",
+      "reviewNumbers": [
+        45
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/fantasy-forest-immersive-hike-alien-visitors"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-pumpkin-decorating-at-jardin-la-roca-f1331692",
+      "title": "Pumpkin Decorating at Jardin la Roca",
+      "reviewNumbers": [
+        46
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/pumpkin-decorating-at-jardin-la-roca"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-wagner-college-childrens-learn-to-swim-level-1-03588bde",
+      "title": "Wagner College: Children's Learn to Swim (Level 1)",
+      "reviewNumbers": [
+        47
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/wagner-college-childrens-learn-to-swim-level-1",
+        "https://www.nycgovparks.org/events/2026/10/31/wagner-college-childrens-learn-to-swim-level-1"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-wagner-college-childrens-learn-to-swim-level-2-5b186168",
+      "title": "Wagner College: Children's Learn to Swim (Level 2)",
+      "reviewNumbers": [
+        48
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/wagner-college-childrens-learn-to-swim-level-2",
+        "https://www.nycgovparks.org/events/2026/10/31/wagner-college-childrens-learn-to-swim-level-2"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-movie-under-the-stars-coco-2017-7342399d",
+      "title": "Movie Under the Stars: Coco (2017)",
+      "reviewNumbers": [
+        49
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/movie-under-the-stars-coco-2017"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-movies-under-the-stars-casper-pg-99ab575a",
+      "title": "Movies Under the Stars: Casper | PG",
+      "reviewNumbers": [
+        50
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/movies-under-the-stars-casper-pg"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-autumn-starfest",
+      "title": "Autumn Starfest",
+      "reviewNumbers": [
+        52
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/autumn-starfest"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-movie-under-the-stars-scoobydoo-2002-b6bcd797",
+      "title": "Movie Under the Stars: Scooby-Doo (2002)",
+      "reviewNumbers": [
+        53
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/movie-under-the-stars-scoobydoo-2002"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-wags-to-witches-fe6d1234",
+      "title": "Halloween: Wags to Witches",
+      "reviewNumbers": [
+        54
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/halloween-wags-to-witches"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-bhss-25th-annual-totten-trot-5k-foot-race-8cc671b1",
+      "title": "BHS's 25th Annual Totten Trot 5K Foot Race",
+      "reviewNumbers": [
+        55
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/bhss-25th-annual-totten-trot-5k-foot-race"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-girls-softball-clinic-5577292d",
+      "title": "Girl's Softball Clinic",
+      "reviewNumbers": [
+        56
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/girls-softball-clinic"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-adventure-course-free-public-sunday-morning-program-bb1e852a",
+      "title": "Alley Pond Adventure Course: Free Public Sunday Programs",
+      "reviewNumbers": [
+        57,
+        71
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/adventure-course-free-public-sunday-morning-program",
+        "https://www.nycgovparks.org/events/2026/10/25/adventure-course-free-public-sunday-afternoon-program"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-falloween-66e82d9b",
+      "title": "Fall-O-Ween",
+      "reviewNumbers": [
+        58
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/falloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-canoeing",
+      "title": "Fall Foliage Canoeing",
+      "reviewNumbers": [
+        59
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/fall-foliage-canoeing"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-park-clean-up-at-rev-wendell-foster-park-32609254",
+      "title": "Park Clean Up at Rev. Wendell Foster Park",
+      "reviewNumbers": [
+        60
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/park-clean-up-at-rev-wendell-foster-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-pumpkin-party-644bd6b1",
+      "title": "Pumpkin Party",
+      "reviewNumbers": [
+        61
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/pumpkin-party"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-festival-with-councilmember-vernikov-64fdfca8",
+      "title": "Fall Festival with Councilmember Vernikov",
+      "reviewNumbers": [
+        62
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/fall-festival-with-councilmember-vernikov"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-shocktoberfest-5abc3a16",
+      "title": "Shocktoberfest",
+      "reviewNumbers": [
+        63
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/shocktoberfest"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-celtic-halloween-tree-tales-cf79b656",
+      "title": "Celtic Halloween Tree Tales",
+      "reviewNumbers": [
+        64
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/celtic-halloween-tree-tales"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-autumn-festival-121faf7c",
+      "title": "Autumn Festival",
+      "reviewNumbers": [
+        65
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/autumn-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-outdoor-skills-orienteering-and-navigation-skills-f9e48a7a",
+      "title": "Outdoor Skills: Orienteering and Navigation Skills",
+      "reviewNumbers": [
+        66
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/outdoor-skills-orienteering-and-navigation-skills"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-beginner-fishing-2ab72549",
+      "title": "Beginner Fishing",
+      "reviewNumbers": [
+        67
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/beginner-fishing"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-great-trees-of-tompkins-square-park-1d54ed69",
+      "title": "Great Trees of Tompkins Square Park",
+      "reviewNumbers": [
+        68
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/great-trees-of-tompkins-square-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-central-rocks",
+      "title": "Geology: Central Park Rocks!",
+      "reviewNumbers": [
+        69
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/geology-central-park-rocks"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-batty-over-halloween-celebration-1fdd3154",
+      "title": "Batty Over Halloween Celebration",
+      "reviewNumbers": [
+        70
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/batty-over-halloween-celebration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-autumn-pollinator-garden-exploration-30e68608",
+      "title": "Autumn Pollinator Garden Exploration",
+      "reviewNumbers": [
+        72
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/autumn-pollinator-garden-exploration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-carve-a-pumpkin-for-halloween-7d60623c",
+      "title": "Carve a Pumpkin for Halloween!",
+      "reviewNumbers": [
+        73
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/carve-a-pumpkin-for-halloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-pumpkin-painting-9f16eb95",
+      "title": "Pumpkin Painting",
+      "reviewNumbers": [
+        74
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/pumpkin-painting"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nocturnal-creatures-and-wildlife-hike-9fa6a313",
+      "title": "Nocturnal Creatures and Wildlife Hike",
+      "reviewNumbers": [
+        75
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/nocturnal-creatures-and-wildlife-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nocturnal-seining-and-shore-exploration-6b0f583f",
+      "title": "Nocturnal Seining and Shore Exploration",
+      "reviewNumbers": [
+        76
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/nocturnal-seining-and-shore-exploration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-monday-morning-pitch-in-to-pick-up-42473c7c",
+      "title": "Monday Morning Pitch In to Pick Up",
+      "reviewNumbers": [
+        77
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/26/monday-morning-pitch-in-to-pick-up"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-park-clean-up-at-joyce-kilmer-park-1abef682",
+      "title": "Park Clean Up at Joyce Kilmer Park",
+      "reviewNumbers": [
+        78
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/26/park-clean-up-at-joyce-kilmer-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-after-school-youth-recreation-5d58ce8c",
+      "title": "After School Youth Recreation",
+      "reviewNumbers": [
+        79
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/26/after-school-youth-recreation",
+        "https://www.nycgovparks.org/events/2026/10/27/after-school-youth-recreation",
+        "https://www.nycgovparks.org/events/2026/10/28/after-school-youth-recreation",
+        "https://www.nycgovparks.org/events/2026/10/29/after-school-youth-recreation"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-midautumn-festival-554bb2d3",
+      "title": "Mid-Autumn Festival",
+      "reviewNumbers": [
+        80
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/26/midautumn-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-be-bold-ballet-programming-3dffb338",
+      "title": "Arts, Culture & Fun: BE BOLD - Ballet Programming",
+      "reviewNumbers": [
+        81
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/26/be-bold-ballet-programming"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-kids-in-motion-de-matti-playground-7fb21f85",
+      "title": "Kids In Motion: De Matti Playground",
+      "reviewNumbers": [
+        82
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-de-matti-playground",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-de-matti-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-de-matti-playground"
+      ],
+      "sessions": 3
+    },
+    {
+      "eventId": "parks-kids-in-motion-levy-9948457b",
+      "title": "Kids In Motion: Levy",
+      "reviewNumbers": [
+        84
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-levy",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-levy",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-levy",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-levy"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-kids-in-motion-ps-55-d9d3cacb",
+      "title": "Kids In Motion: P.S. 55",
+      "reviewNumbers": [
+        85
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-ps-55",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-ps-55",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-ps-55"
+      ],
+      "sessions": 3
+    },
+    {
+      "eventId": "parks-kids-in-motion-the-big-park-c1e44728",
+      "title": "Kids In Motion: The Big Park",
+      "reviewNumbers": [
+        86
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-the-big-park",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-the-big-park",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-the-big-park"
+      ],
+      "sessions": 3
+    },
+    {
+      "eventId": "parks-kids-in-motion-arrochar-006738ed",
+      "title": "Kids In Motion: Arrochar",
+      "reviewNumbers": [
+        87
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-arrochar",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-arrochar",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-arrochar",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-arrochar"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-kids-in-motion-austin-j-mcdonalds-playground-56a5109b",
+      "title": "Kids In Motion: Austin J. McDonald's Playground",
+      "reviewNumbers": [
+        88
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/kids-in-motion-austin-j-mcdonalds-playground",
+        "https://www.nycgovparks.org/events/2026/10/28/kids-in-motion-austin-j-mcdonalds-playground",
+        "https://www.nycgovparks.org/events/2026/10/29/kids-in-motion-austin-j-mcdonalds-playground",
+        "https://www.nycgovparks.org/events/2026/10/31/kids-in-motion-austin-j-mcdonalds-playground"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-tiny-tots-session-1-c5ba5a51",
+      "title": "Tiny Tots: Parent & Toddler Sessions",
+      "reviewNumbers": [
+        89,
+        90
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/tiny-tots-session-1",
+        "https://www.nycgovparks.org/events/2026/10/27/tiny-tots-session-2"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-summer-sports-experience-basketball-skills-and-drills-79e54eed",
+      "title": "Summer Sports Experience: Basketball: Skills and Drills",
+      "reviewNumbers": [
+        91
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/summer-sports-experience-basketball-skills-and-drills",
+        "https://www.nycgovparks.org/events/2026/10/28/summer-sports-experience-basketball-skills-and-drills",
+        "https://www.nycgovparks.org/events/2026/10/29/summer-sports-experience-basketball-skills-and-drills",
+        "https://www.nycgovparks.org/events/2026/10/30/summer-sports-experience-basketball-skills-and-drills"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-ranger-tot-time-b5740319",
+      "title": "Ranger Tot Time",
+      "reviewNumbers": [
+        92
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/28/ranger-tot-time"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-art-in-the-park-85c01297",
+      "title": "Art in the Park",
+      "reviewNumbers": [
+        93
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/28/art-in-the-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-haunted-carousel-0a6f30bc",
+      "title": "Haunted Carousel",
+      "reviewNumbers": [
+        95
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/haunted-carousel",
+        "https://www.nycgovparks.org/events/2026/10/30/haunted-carousel",
+        "https://www.nycgovparks.org/events/2026/10/31/haunted-carousel",
+        "https://www.nycgovparks.org/events/2026/11/01/haunted-carousel"
+      ],
+      "sessions": 4
+    },
+    {
+      "eventId": "parks-mcdonalds-pumpkin-patch-79591c59",
+      "title": "McDonald’s Pumpkin Patch",
+      "reviewNumbers": [
+        96
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/mcdonalds-pumpkin-patch"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-wave-hilloween-680aad38",
+      "title": "Wave Hill-O-Ween",
+      "reviewNumbers": [
+        97
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/wave-hilloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-double-dutch-143ef858",
+      "title": "Double Dutch",
+      "reviewNumbers": [
+        98
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/double-dutch"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-movie-under-the-stars-corpse-bride-2005-e043c43b",
+      "title": "Movie Under the Stars: Corpse Bride (2005)",
+      "reviewNumbers": [
+        99
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/movie-under-the-stars-corpse-bride-2005"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-trick-o-treat-at-harlem-valley-garden-4dcd8e79",
+      "title": "Halloween Trick o' Treat at Harlem Valley Garden",
+      "reviewNumbers": [
+        100
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/halloween-trick-o-treat-at-harlem-valley-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-community-halloween-event-5e98b431",
+      "title": "Community Halloween Event",
+      "reviewNumbers": [
+        101
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/community-halloween-event"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-5f979a19",
+      "title": "Halloween",
+      "reviewNumbers": [
+        102
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/halloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-haunted-heights-halloween-at-morningside-park-ebfd58d1",
+      "title": "Haunted Heights: Halloween at Morningside Park",
+      "reviewNumbers": [
+        103
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/haunted-heights-halloween-at-morningside-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-haunted-house-and-hallow-gala1-34771309",
+      "title": "Haunted House and Hallow Gala",
+      "reviewNumbers": [
+        104
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/haunted-house-and-hallow-gala1"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-pumpkin-decorating-at-brisas-del-caribe-54f7f837",
+      "title": "Pumpkin Decorating at Brisas del Caribe",
+      "reviewNumbers": [
+        105
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/pumpkin-decorating-at-brisas-del-caribe"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-pumpkin-decorating-and-candy-giveaway-39431413",
+      "title": "Halloween Pumpkin Decorating and Candy Giveaway!",
+      "reviewNumbers": [
+        106
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/halloween-pumpkin-decorating-and-candy-giveaway"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-wicked-walker-family-fun-halloween-event-5bf9f5ea",
+      "title": "Wicked Walker Family Fun & Halloween Event",
+      "reviewNumbers": [
+        107
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/wicked-walker-family-fun-halloween-event"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-family-halloween-themed-activities-51e9f48a",
+      "title": "Family Halloween Themed Activities",
+      "reviewNumbers": [
+        108
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/family-halloween-themed-activities"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-mad-monster-lab-haunted-house-fall-festival-2a5f188a",
+      "title": "Mad Monster Lab Haunted House & Fall Festival",
+      "reviewNumbers": [
+        109
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/mad-monster-lab-haunted-house-fall-festival"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-thomas-jefferson-hunted-house-69bc5aa5",
+      "title": "Thomas Jefferson Hunted Walk",
+      "reviewNumbers": [
+        110
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/thomas-jefferson-hunted-house"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-haunted-highland-walk-afbee225",
+      "title": "Haunted Highland Walk",
+      "reviewNumbers": [
+        111
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/haunted-highland-walk"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-wbo-haunted-house-16b91925",
+      "title": "WBO Haunted House",
+      "reviewNumbers": [
+        112
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/wbo-haunted-house"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-movies-under-the-stars-hoppers-pg-55f92245",
+      "title": "Movies Under the Stars: Hoppers | PG",
+      "reviewNumbers": [
+        113
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/30/movies-under-the-stars-hoppers-pg"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-garden-costume-party-volunteer-day-a60de031",
+      "title": "Garden Costume Party & Volunteer Day",
+      "reviewNumbers": [
+        114
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/garden-costume-party-volunteer-day"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-family-art-project-day-of-the-dead-42fa6976",
+      "title": "Family Art Project: Day of the Dead",
+      "reviewNumbers": [
+        115
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/family-art-project-day-of-the-dead",
+        "https://www.nycgovparks.org/events/2026/11/01/family-art-project-day-of-the-dead"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-creepy-crawly-halloween-bdce0529",
+      "title": "Creepy Crawly Halloween",
+      "reviewNumbers": [
+        116
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/creepy-crawly-halloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-town-square-bks-23rd-annual-greenpoint-childrens-halloween-p-5b7f4e48",
+      "title": "Town Square BK's 23rd Annual Greenpoint Children's Halloween Parade And Spooktacular Party",
+      "reviewNumbers": [
+        117
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/town-square-bks-23rd-annual-greenpoint-childrens-halloween-p"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-crafts-candy-compost-8c5de166",
+      "title": "Crafts, Candy, & Compost",
+      "reviewNumbers": [
+        118
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/crafts-candy-compost"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-discovery-hike-urban-wildlife-20acaac8",
+      "title": "Discovery Hike: Urban Wildlife",
+      "reviewNumbers": [
+        119
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/discovery-hike-urban-wildlife"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-hike-to-heyerdahl-hill-fa4aa61e",
+      "title": "Halloween Hike to Heyerdahl Hill",
+      "reviewNumbers": [
+        120
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-hike-to-heyerdahl-hill"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-howloween-doggie-day-hike-da365b3f",
+      "title": "Howl-oween Doggie Day Hike",
+      "reviewNumbers": [
+        121
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/howloween-doggie-day-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-trick-or-treat-at-400-montauk-bac1f2f7",
+      "title": "Trick or Treat at 400 Montauk",
+      "reviewNumbers": [
+        122
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/trick-or-treat-at-400-montauk"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-fun-27faadae",
+      "title": "Halloween Fun",
+      "reviewNumbers": [
+        123
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-fun"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-animal-tracking",
+      "title": "Outdoor Skills: Animal Tracking",
+      "reviewNumbers": [
+        124
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/outdoor-skills-animal-tracking"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-pumpkin-palooza-768856d1",
+      "title": "Pumpkin Palooza",
+      "reviewNumbers": [
+        125
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/pumpkin-palooza"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-autumn-animal-crafts-and-exploration-f18aada1",
+      "title": "Autumn Animal Crafts and Exploration",
+      "reviewNumbers": [
+        126
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/autumn-animal-crafts-and-exploration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-folklore-tales-on-the-trail-hike-f9b5fc4f",
+      "title": "Folklore Tales on the Trail Hike",
+      "reviewNumbers": [
+        127
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/folklore-tales-on-the-trail-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-howloween-doggie-day-walk-f89ff41a",
+      "title": "Howl-oween Doggie Day Walk",
+      "reviewNumbers": [
+        128
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/howloween-doggie-day-walk"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-garden-clean-up-and-pumpkin-giveaway-8b5793f3",
+      "title": "Fall Garden Clean Up and Pumpkin Giveaway",
+      "reviewNumbers": [
+        129
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/fall-garden-clean-up-and-pumpkin-giveaway"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-truco-o-trato-trick-or-treat-98333e2b",
+      "title": "Truco o Trato / Trick or Treat",
+      "reviewNumbers": [
+        130
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/truco-o-trato-trick-or-treat"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-da-de-los-muertosday-of-the-dead-at-friends-of-brook-park-b0f12467",
+      "title": "Día de los Muertos/Day of the Dead at Friends of Brook Park",
+      "reviewNumbers": [
+        131
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/da-de-los-muertosday-of-the-dead-at-friends-of-brook-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-party1-9d848267",
+      "title": "Halloween Party",
+      "reviewNumbers": [
+        132
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-party1"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-dia-de-los-muertos-at-nos-cuidamos-ba65da4e",
+      "title": "Dia de los Muertos at Nos Cuidamos",
+      "reviewNumbers": [
+        133
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/dia-de-los-muertos-at-nos-cuidamos"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-trick-or-treat-at-risse-street-community-garden-ceab979f",
+      "title": "Trick or Treat at Risse Street Community Garden",
+      "reviewNumbers": [
+        134
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/trick-or-treat-at-risse-street-community-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-at-wishing-well-garden-e68c5c6a",
+      "title": "Halloween at Wishing Well Garden",
+      "reviewNumbers": [
+        135
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-at-wishing-well-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-a-haunting-in-the-garden-halloween-e2f5892a",
+      "title": "A Haunting in the Garden - Halloween",
+      "reviewNumbers": [
+        136
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/a-haunting-in-the-garden-halloween"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-1st-annual-trick-or-treat-fest-1d0bba31",
+      "title": "1st Annual Trick or Treat Fest",
+      "reviewNumbers": [
+        137
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/1st-annual-trick-or-treat-fest"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-berry-street-haunted-garden-2151af66",
+      "title": "Berry Street Haunted Garden",
+      "reviewNumbers": [
+        138
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/berry-street-haunted-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-safe-halloween-at-howard-garden-597d0ab4",
+      "title": "Safe Halloween at Howard Garden",
+      "reviewNumbers": [
+        139
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/safe-halloween-at-howard-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-masquerade-party-29ebdbae",
+      "title": "Masquerade Party",
+      "reviewNumbers": [
+        140
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/masquerade-party"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-sugar-hill-hope-garden-annual-halloween-party-candy-giveaway-a2c056ee",
+      "title": "Sugar Hill Hope Garden Annual Halloween Party Candy Giveaway",
+      "reviewNumbers": [
+        141
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/sugar-hill-hope-garden-annual-halloween-party-candy-giveaway"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-trick-or-treat-at-the-garden-gate-b078ff0e",
+      "title": "Trick or Treat at the Garden Gate",
+      "reviewNumbers": [
+        142
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/trick-or-treat-at-the-garden-gate"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-lic-community-garden-halloween-trick-or-treating-19f9049d",
+      "title": "LIC Community Garden Halloween Trick or Treating",
+      "reviewNumbers": [
+        143
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/lic-community-garden-halloween-trick-or-treating"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-the-haunted-garden-56414d5f",
+      "title": "The Haunted Garden",
+      "reviewNumbers": [
+        144
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/the-haunted-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-hippo-playground-halloween-parade-cbe6f264",
+      "title": "Hippo Playground Halloween Parade",
+      "reviewNumbers": [
+        145
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/hippo-playground-halloween-parade"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-party-80397a70",
+      "title": "Halloween Party",
+      "reviewNumbers": [
+        146
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-party"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-inwood-hill-park-after-dark-hike-e649bc55",
+      "title": "Inwood Hill Park After Dark Hike",
+      "reviewNumbers": [
+        147
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/inwood-hill-park-after-dark-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-candy-giveaway1-1b0cde29",
+      "title": "Halloween Candy Giveaway",
+      "reviewNumbers": [
+        148
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-candy-giveaway1",
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-candy-giveaway"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-hallowgreen-f9554c3f",
+      "title": "HallowGreen",
+      "reviewNumbers": [
+        149
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/hallowgreen"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-haunted-garden-halloween-party-ec0c7bc8",
+      "title": "Haunted Garden Halloween Party",
+      "reviewNumbers": [
+        150
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/haunted-garden-halloween-party"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-halloween-in-brooklyns-finest-garden-6759290d",
+      "title": "Halloween in Brooklyn's Finest Garden",
+      "reviewNumbers": [
+        151
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/halloween-in-brooklyns-finest-garden"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-dyckman-marina-movie-nights1-9087a092",
+      "title": "Dyckman Marina Movie Nights",
+      "reviewNumbers": [
+        152
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/dyckman-marina-movie-nights1"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-2026-spooky-snug-harbor-tour-275f733a",
+      "title": "2026 Spooky Snug Harbor Tour",
+      "reviewNumbers": [
+        153
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/31/2026-spooky-snug-harbor-tour"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-fall-canoeing-bebc09f6",
+      "title": "Fall Canoeing",
+      "reviewNumbers": [
+        154
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/fall-canoeing"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-native-american-heritage-month-lenape-botany-6827f051",
+      "title": "Native American Heritage Month: Lenape Botany",
+      "reviewNumbers": [
+        155
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/native-american-heritage-month-lenape-botany"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-historic-new-york-fort-totten-b1d67a57",
+      "title": "Historic New York: Fort Totten",
+      "reviewNumbers": [
+        156
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/historic-new-york-fort-totten"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-leaf-art",
+      "title": "Nature's Workshop: Fall Foliage Leaf Art",
+      "reviewNumbers": [
+        157
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/natures-workshop-fall-foliage-leaf-art"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nature-exploration-hike-f2d611ae",
+      "title": "Native American Heritage Month: Lenape History and Ethnobotany",
+      "reviewNumbers": [
+        158
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/nature-exploration-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-saltwater-fishing-d83c0c66",
+      "title": "Saltwater Fishing",
+      "reviewNumbers": [
+        159
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/saltwater-fishing"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-micro-hike",
+      "title": "Discovery Hike: Micro Hike",
+      "reviewNumbers": [
+        160
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/discovery-hike-micro-hike"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-annual-community-dia-de-los-muertos-celebration-669d6f77",
+      "title": "Annual Community Dia de los Muertos Celebration",
+      "reviewNumbers": [
+        161
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/11/01/annual-community-dia-de-los-muertos-celebration"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nyrr-open-run-soundview-park-cb204d24",
+      "title": "NYRR Open Run: Soundview Park",
+      "reviewNumbers": [
+        162
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-soundview-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-soundview-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-shore-road-park-bde19e2a",
+      "title": "NYRR Open Run: Shore Road Park",
+      "reviewNumbers": [
+        163
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-shore-road-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-shore-road-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-highland-park-2fca4e6f",
+      "title": "NYRR Open Run: Highland Park",
+      "reviewNumbers": [
+        164
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-highland-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-highland-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-baisley-pond-park-2fe8b56d",
+      "title": "NYRR Open Run: Baisley Pond Park",
+      "reviewNumbers": [
+        165
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-baisley-pond-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-baisley-pond-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-astoria-park-19a923bb",
+      "title": "NYRR Open Run: Astoria Park",
+      "reviewNumbers": [
+        166
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-astoria-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-astoria-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-inwood-hill-park-fdc22f0d",
+      "title": "NYRR Open Run: Inwood Hill Park",
+      "reviewNumbers": [
+        167
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-inwood-hill-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-inwood-hill-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-st-marys-park-153e15c7",
+      "title": "NYRR Open Run: St. Marys Park",
+      "reviewNumbers": [
+        168
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-st-marys-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-st-marys-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-canarsie-park-a743c486",
+      "title": "NYRR Open Run: Canarsie Park",
+      "reviewNumbers": [
+        169
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/24/nyrr-open-run-canarsie-park",
+        "https://www.nycgovparks.org/events/2026/10/31/nyrr-open-run-canarsie-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-conference-house-park-310cbfd8",
+      "title": "NYRR Open Run: Conference House Park",
+      "reviewNumbers": [
+        170
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/nyrr-open-run-conference-house-park",
+        "https://www.nycgovparks.org/events/2026/11/01/nyrr-open-run-conference-house-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-marine-park-642bcb08",
+      "title": "NYRR Open Run: Marine Park",
+      "reviewNumbers": [
+        171
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/nyrr-open-run-marine-park",
+        "https://www.nycgovparks.org/events/2026/11/01/nyrr-open-run-marine-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-cunningham-park-ecbbd8d9",
+      "title": "NYRR Open Run: Cunningham Park",
+      "reviewNumbers": [
+        172
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/25/nyrr-open-run-cunningham-park",
+        "https://www.nycgovparks.org/events/2026/11/01/nyrr-open-run-cunningham-park"
+      ],
+      "sessions": 2
+    },
+    {
+      "eventId": "parks-nyrr-open-run-brooklyn-bridge-park-aa3764d1",
+      "title": "NYRR Open Run: Brooklyn Bridge Park",
+      "reviewNumbers": [
+        173
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/27/nyrr-open-run-brooklyn-bridge-park"
+      ],
+      "sessions": 1
+    },
+    {
+      "eventId": "parks-nyrr-open-run-flushing-meadows-corona-park-e4298089",
+      "title": "NYRR Open Run: Flushing Meadows Corona Park",
+      "reviewNumbers": [
+        174
+      ],
+      "sourceURLs": [
+        "https://www.nycgovparks.org/events/2026/10/29/nyrr-open-run-flushing-meadows-corona-park"
+      ],
+      "sessions": 1
+    }
+  ]
+}
