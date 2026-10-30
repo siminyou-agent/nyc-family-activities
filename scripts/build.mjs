@@ -8,6 +8,8 @@ const data=JSON.parse(await readFile(new URL('public/data/events.json',root),'ut
 const summary={...validate(data),...validateSources(data,JSON.parse(await readFile(new URL('public/data/sources.json',root),'utf8')))};
 await rm(new URL('dist/',root),{recursive:true,force:true});
 await cp(new URL('public/',root),new URL('dist/',root),{recursive:true});
+// Keep the singular compatibility URL identical to the conventional guide.
+await cp(new URL('public/llms.txt',root),new URL('dist/llm.txt',root));
 let commit=null;try{commit=execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8',stdio:['ignore','pipe','ignore']}).trim();}catch{}
 const dirty=Boolean(execFileSync('git',['status','--porcelain','--untracked-files=normal'],{cwd:root,encoding:'utf8'}).trim());
 const hashes={};for(const name of await readdir(new URL('public/data/',root)))hashes[name]=createHash('sha256').update(await readFile(new URL(`public/data/${name}`,root))).digest('hex');

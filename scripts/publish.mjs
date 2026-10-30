@@ -33,6 +33,12 @@ for(const base of bases){
   }
   const release=await fetch(base+'/data/release.json',{signal:AbortSignal.timeout(45000)});assert.equal(release.status,200);
   assert.deepEqual(await release.json(),manifest,'Live release manifest differs from this commit');
+  const agentGuide=await readFile(new URL('public/llms.txt',root),'utf8');
+  for(const name of ['llms.txt','llm.txt']){
+    const response=await fetch(base+'/'+name,{redirect:'manual',signal:AbortSignal.timeout(45000)});assert.equal(response.status,200);
+    assert.match(response.headers.get('content-type')||'',/^text\/plain\b/,'Agent guide must be plain text');
+    assert.equal(await response.text(),agentGuide,`Live agent guide mismatch: ${name}`);
+  }
   for(const [name,hash] of Object.entries(manifest.sha256)){
     const response=await fetch(base+'/data/'+name,{signal:AbortSignal.timeout(45000)});assert.equal(response.status,200);
     assert.equal(createHash('sha256').update(Buffer.from(await response.arrayBuffer())).digest('hex'),hash,`Live data mismatch: ${name}`);
