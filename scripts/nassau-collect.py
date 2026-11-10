@@ -149,18 +149,18 @@ def libcal(library, urls):
             if not event.get("DTSTART"): continue
             start_value = event.decoded("DTSTART"); end_value = event.decoded("DTEND") if event.get("DTEND") else start_value
             date, start, all_day = local(start_value); end_date, end, _ = local(end_value)
-            occurrences = [(date, start, end, all_day)]
+            occurrences = [(date, start, end, all_day, end_date)]
             if event.get("RRULE") and isinstance(start_value, dt.datetime):
                 rule = rrulestr(event["RRULE"].to_ical().decode(), dtstart=start_value)
                 duration = end_value - start_value
-                occurrences = [(local(t)[0], local(t)[1], local(t + duration)[1], False) for t in rule.between(dt.datetime.combine(START, dt.time.min, NY), dt.datetime.combine(END + dt.timedelta(days=1), dt.time.min, NY), inc=True)]
-            for date, start, end, all_day in occurrences:
+                occurrences = [(local(t)[0], local(t)[1], local(t + duration)[1], False, local(t + duration)[0]) for t in rule.between(dt.datetime.combine(START, dt.time.min, NY), dt.datetime.combine(END + dt.timedelta(days=1), dt.time.min, NY), inc=True)]
+            for date, start, end, all_day, end_date in occurrences:
                 if not START <= date <= END: continue
                 count += 1
                 title = str(event.get("SUMMARY", "")); body = str(event.get("DESCRIPTION", "")); location = str(event.get("LOCATION", ""))
                 groups = [str(x) for x in getattr(event.get("CATEGORIES"), "cats", [])]
                 status = "cancelled" if str(event.get("STATUS", "")).upper() == "CANCELLED" or re.search(r"cancelled|canceled|postponed", title, re.I) else "unknown"
-                records.append({"libraryId": library["id"], "title": title, "date": date.isoformat(), "start": start, "end": end, "allDay": all_day, "groups": groups, "body": body, "location": location, "url": str(event.get("URL", "")), "feed": url, "availability": status, "candidate": candidate(title, groups, body), "rawUID": str(event.get("UID", ""))})
+                records.append({"libraryId": library["id"], "title": title, "date": date.isoformat(), "endDate": end_date.isoformat(), "start": start, "end": end, "allDay": all_day, "multiDay": date != end_date, "groups": groups, "body": body, "location": location, "url": str(event.get("URL", "")), "feed": url, "availability": status, "candidate": candidate(title, groups, body), "rawUID": str(event.get("UID", ""))})
         feeds.append({"url": url, "eventsInRange": count, "totalEvents": len(calendar.walk("VEVENT"))})
     return records, {"platform": "libcal-ical", "origin": origin, "feeds": feeds, "completeDates": [START.isoformat(), END.isoformat()]}
 
@@ -238,8 +238,8 @@ def collect(library):
     output = D / (library["id"] + "_calendar.json")
     if output.exists():
         cached = json.loads(output.read_text())
-        if cached.get("status") == "ok": return cached
-    result = {"library": library, "status": "limited", "records": []}
+        if cached.get("status") == "ok" and cached.get("recordSchemaVersion") == 2: return cached
+    result = {"recordSchemaVersion": 2, "library": library, "status": "limited", "records": []}
     urls = library["calendarURLs"]
     try:
         icals = [u for u in urls if ".libcal.com" in urllib.parse.urlparse(u).netloc and "api.libcal.com" not in u]

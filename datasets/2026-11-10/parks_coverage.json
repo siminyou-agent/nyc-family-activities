@@ -1,0 +1,771 @@
+{
+  "schemaVersion": 1,
+  "verifiedOn": "2026-11-10",
+  "range": {
+    "start": "2026-11-10",
+    "end": "2026-11-23"
+  },
+  "allCalendar": {
+    "pages": 11,
+    "reportedOccurrences": 547,
+    "parsedUniqueOccurrences": 547
+  },
+  "audits": [
+    {
+      "url": "https://www.nycgovparks.org/events/f2026-11-10/t2026-11-23",
+      "total": 547,
+      "pagesExpected": 11,
+      "pagesReceived": 11,
+      "rows": 547,
+      "complete": true,
+      "missingFromAll": []
+    },
+    {
+      "url": "https://www.nycgovparks.org/events/kids/f2026-11-10/t2026-11-23",
+      "total": 32,
+      "pagesExpected": 1,
+      "pagesReceived": 1,
+      "rows": 32,
+      "complete": true,
+      "missingFromAll": []
+    },
+    {
+      "url": "https://www.nycgovparks.org/events/urbanparkrangers/f2026-11-10/t2026-11-23",
+      "total": 41,
+      "pagesExpected": 1,
+      "pagesReceived": 1,
+      "rows": 41,
+      "complete": true,
+      "missingFromAll": []
+    },
+    {
+      "url": "https://www.nycgovparks.org/events/fall-festivals/f2026-11-10/t2026-11-23",
+      "total": 2,
+      "pagesExpected": 1,
+      "pagesReceived": 1,
+      "rows": 2,
+      "complete": true,
+      "missingFromAll": []
+    },
+    {
+      "url": "https://www.nycgovparks.org/events/nature/f2026-11-10/t2026-11-23",
+      "total": 59,
+      "pagesExpected": 2,
+      "pagesReceived": 2,
+      "rows": 59,
+      "complete": true,
+      "missingFromAll": []
+    },
+    {
+      "url": "https://www.nycgovparks.org/events/arts-and-crafts/f2026-11-10/t2026-11-23",
+      "total": 24,
+      "pagesExpected": 1,
+      "pagesReceived": 1,
+      "rows": 24,
+      "complete": true,
+      "missingFromAll": []
+    }
+  ],
+  "candidateOccurrences": 115,
+  "candidateGroups": 79,
+  "detailsVerified": 115,
+  "includedActivities": 69,
+  "includedSessions": 98,
+  "excluded": [
+    {
+      "n": 1,
+      "title": "CANCELED: CANCELLED Hart Island: Honoring Our Military and Veterans (North Island)",
+      "url": "https://www.nycgovparks.org/events/2026/11/10/hart-island-honoring-our-military-and-veterans-north-island",
+      "reason": "Canceled official event",
+      "occurrences": 1
+    },
+    {
+      "n": 7,
+      "title": "Boogie Down Service Project",
+      "url": "https://www.nycgovparks.org/events/2026/11/11/boogie-down-service-project",
+      "reason": "Community-service project, not a dedicated child outing",
+      "occurrences": 1
+    },
+    {
+      "n": 10,
+      "title": "Storytime: Lenape and Corn",
+      "url": "https://www.nycgovparks.org/events/2026/11/12/storytime-lenape-and-corn",
+      "reason": "Unresolved official time: listing shows 03:30–16:30; afternoon start cannot be inferred",
+      "occurrences": 1
+    },
+    {
+      "n": 12,
+      "title": "Staten Island Shockwaves Swim Team",
+      "url": "https://www.nycgovparks.org/events/2026/11/13/staten-island-shockwaves-swim-team",
+      "reason": "Returning swim-team members only; registration closed",
+      "occurrences": 6
+    },
+    {
+      "n": 19,
+      "title": "NYRR Open Run: Highland Park",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-highland-park",
+      "reason": "Meeting-point heading says Elton Street, directions say Cleveland Street; entrance requires clarification",
+      "occurrences": 2
+    },
+    {
+      "n": 20,
+      "title": "NYRR Open Run: Shore Road Park",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-shore-road-park",
+      "reason": "Shore Road/Bay Ridge location conflicts with Cleveland Street/Jamaica Avenue directions",
+      "occurrences": 2
+    },
+    {
+      "n": 29,
+      "title": "It's My Park at Seaside Wildlife Nature Park",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/its-my-park-at-seaside-wildlife-nature-park",
+      "reason": "Garden and shoreline volunteer maintenance",
+      "occurrences": 1
+    },
+    {
+      "n": 48,
+      "title": "Invasive Plant Removal and Native Species Planting",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/invasive-plant-removal-and-native-species-planting",
+      "reason": "Plant-removal stewardship project rather than child outing",
+      "occurrences": 1
+    },
+    {
+      "n": 56,
+      "title": "CANCELED: Hart Island Tour (South Island)",
+      "url": "https://www.nycgovparks.org/events/2026/11/17/hart-island-tour-south-island",
+      "reason": "Canceled official event",
+      "occurrences": 1
+    },
+    {
+      "n": 58,
+      "title": "Senior Community Day",
+      "url": "https://www.nycgovparks.org/events/2026/11/18/senior-community-day",
+      "reason": "Senior community program",
+      "occurrences": 1
+    }
+  ],
+  "duplicates": [],
+  "scheduleConflicts": [],
+  "included": [
+    {
+      "n": 2,
+      "id": "parks-c5ba5a51635d",
+      "url": "https://www.nycgovparks.org/events/2026/11/10/tiny-tots-session-1",
+      "sessions": 4,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 3,
+      "id": "parks-7b7ae395b2f3",
+      "url": "https://www.nycgovparks.org/events/2026/11/10/tiny-tots-session-2",
+      "sessions": 4,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 4,
+      "id": "parks-5d58ce8cbdb5",
+      "url": "https://www.nycgovparks.org/events/2026/11/10/after-school-youth-recreation",
+      "sessions": 3,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 5,
+      "id": "parks-aa3764d1b731",
+      "url": "https://www.nycgovparks.org/events/2026/11/10/nyrr-open-run-brooklyn-bridge-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 6,
+      "id": "parks-ffe7dde6d0bc",
+      "url": "https://www.nycgovparks.org/events/2026/11/11/le-carrousel-extravaganza",
+      "sessions": 4,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 8,
+      "id": "parks-86a1efa736f0",
+      "url": "https://www.nycgovparks.org/events/2026/11/11/nyc-parks-girls-flag-football-festival",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 9,
+      "id": "parks-a499666d8024",
+      "url": "https://www.nycgovparks.org/events/2026/11/11/monthly-nature-exploration-hike-series",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 11,
+      "id": "parks-e42980894855",
+      "url": "https://www.nycgovparks.org/events/2026/11/12/nyrr-open-run-flushing-meadows-corona-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 13,
+      "id": "parks-a743c4866b36",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-canarsie-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 14,
+      "id": "parks-153e15c74ebf",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-st-marys-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 15,
+      "id": "parks-fdc22f0d10db",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-inwood-hill-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 16,
+      "id": "parks-19a923bb21bb",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-astoria-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 17,
+      "id": "parks-2fe8b56d9360",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-baisley-pond-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 18,
+      "id": "parks-13f6e142ace6",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-crocheron-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 21,
+      "id": "parks-cb204d248864",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-soundview-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 22,
+      "id": "parks-56f25a75a319",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/youth-sports-club",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 23,
+      "id": "parks-d6a4c4321026",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/family-art-project-tiny-terrariums",
+      "sessions": 2,
+      "costs": [
+        "Free with admission to the grounds."
+      ]
+    },
+    {
+      "n": 24,
+      "id": "parks-3a2da4881c32",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/falling-for-nature-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 25,
+      "id": "parks-87e26e502424",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/outdoor-skills-fire-building",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 26,
+      "id": "parks-390112eeeb4b",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/discovery-hike-waterfront-ecosystems",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 27,
+      "id": "parks-22cc4a32521c",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/behind-the-smile-animal-adaptations-revealed",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 28,
+      "id": "parks-a19d58a65755",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/spooky-staten-island-history-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 30,
+      "id": "parks-a7628e516cfd",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/family-time",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 31,
+      "id": "parks-98c7559cc805",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/basketball-clinic-at-highbridge-recreation-center-ages-5-to-7",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 32,
+      "id": "parks-6af4b910b286",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/fire-cider-workshop",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 33,
+      "id": "parks-1085885f2883",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/hiking-club-series-sappy-trails",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 34,
+      "id": "parks-7faa19d8d748",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/fall-foliage-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 35,
+      "id": "parks-f5398c3379dd",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/the-secret-lives-of-insects",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 36,
+      "id": "parks-42ff81d6d942",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/outdoor-skills-survival-101",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 37,
+      "id": "parks-03588bde9c30",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/wagner-college-childrens-learn-to-swim-level-1",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 38,
+      "id": "parks-5b186168fe83",
+      "url": "https://www.nycgovparks.org/events/2026/11/14/wagner-college-childrens-learn-to-swim-level-2",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 39,
+      "id": "parks-310cbfd84919",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-conference-house-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 40,
+      "id": "parks-642bcb08e81f",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-marine-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 41,
+      "id": "parks-ecbbd8d9a77a",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-cunningham-park",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 42,
+      "id": "parks-f5ed56ab8938",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/autumn-leaves-story-time-and-craft",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 43,
+      "id": "parks-b66cc6261b6f",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/ricitos-and-the-three-bears",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 44,
+      "id": "parks-f1cadc6787ba",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/gobble-games-family-board-game-extravaganza",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 45,
+      "id": "parks-272d88a03620",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/audre-lorde-legacy-walk",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 46,
+      "id": "parks-a17de8bfde12",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/nature-detective-mystery-adventure",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 47,
+      "id": "parks-42197e9be5cf",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/hiking-club-series-hidden-hunter-island",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 49,
+      "id": "parks-646c1d2cb7ce",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/historic-new-york-prison-ship-martyrs-monument",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 50,
+      "id": "parks-9c03bd3da5a1",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/discovery-hike-urban-mammals",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 51,
+      "id": "parks-35150f17383b",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/natures-workshop-natural-inks-and-dyes",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 52,
+      "id": "parks-42966b8b2ac8",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/natures-workshop-bird-friendly-windows",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 53,
+      "id": "parks-312329a51259",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/fireside-meditation",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 54,
+      "id": "parks-7404a924522b",
+      "url": "https://www.nycgovparks.org/events/2026/11/15/kids-on-the-move-ecosystems-and-balance",
+      "sessions": 1,
+      "costs": [
+        "Free with admission to the grounds."
+      ]
+    },
+    {
+      "n": 55,
+      "id": "parks-3dffb338a172",
+      "url": "https://www.nycgovparks.org/events/2026/11/16/arts-culture-fun-be-bold-ballet-programming",
+      "sessions": 2,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 57,
+      "id": "parks-5c75d6f6863a",
+      "url": "https://www.nycgovparks.org/events/2026/11/17/winter-lanterns-20261",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 59,
+      "id": "parks-7d469e3a2f5e",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/discovery-hike-pond-and-freshwater-ecology",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 60,
+      "id": "parks-b7cfe02754c0",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/family-art-project-papery-partners",
+      "sessions": 2,
+      "costs": [
+        "Free with admission to the grounds."
+      ]
+    },
+    {
+      "n": 61,
+      "id": "parks-9da89ae5aec5",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/turkey-trot-5k",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 62,
+      "id": "parks-d2185ad5419f",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/nature-scavenger-hunt",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 63,
+      "id": "parks-abd881a834e5",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/birding-owls",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 64,
+      "id": "parks-65fcabbe50ab",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/introduction-to-fly-fishing",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 65,
+      "id": "parks-2915b255fade",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/forest-park-super-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 66,
+      "id": "parks-68c386c62462",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/beginner-fishing",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 67,
+      "id": "parks-863d78d330da",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/living-with-urban-coyotes",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 68,
+      "id": "parks-6a850472adc9",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/falling-for-nature-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 69,
+      "id": "parks-6cfd324877ae",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/historic-new-york-greenpoint-neighborhood-history",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 70,
+      "id": "parks-157dd9b67a06",
+      "url": "https://www.nycgovparks.org/events/2026/11/21/astronomy-autumn-sky",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 71,
+      "id": "parks-0b3e30da5a14",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/birding-fall-migration",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 72,
+      "id": "parks-af029adb86e8",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/magnetic-archery",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 73,
+      "id": "parks-2467a81558de",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/autumn-mushroom-id-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 74,
+      "id": "parks-0d8b1bcef4c8",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/nature-sketching",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 75,
+      "id": "parks-f4515a6111cc",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/outdoor-skills-knot-tying",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 76,
+      "id": "parks-9a873ff7cf09",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/hibernation-and-brumation-hike",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 77,
+      "id": "parks-e1d5e427639b",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/native-american-heritage-month-walking-lenapehoking",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 78,
+      "id": "parks-0a9a79e00fbe",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/seal-exploration",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    },
+    {
+      "n": 79,
+      "id": "parks-ca0df2d608e9",
+      "url": "https://www.nycgovparks.org/events/2026/11/22/freedom-seekers-stories-by-the-fire",
+      "sessions": 1,
+      "costs": [
+        "Free"
+      ]
+    }
+  ]
+}

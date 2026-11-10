@@ -1,0 +1,1581 @@
+{
+  "scope": "Redistributable coordinate provenance for current edition venues: US Census, OpenStreetMap and official organizer-published meeting points",
+  "attribution": "US Census Bureau; © OpenStreetMap contributors (ODbL 1.0)",
+  "osmCopyright": "https://www.openstreetmap.org/copyright",
+  "venues": {
+    "licm": {
+      "address": "11 Davis Avenue, Garden City, NY 11530",
+      "coordinates": [
+        40.7286545,
+        -73.5987176
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=11+Davis+Avenue%2C+Garden+City%2C+NY+11530&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "11 DAVIS AVE, GARDEN CITY, NY, 11530",
+      "approximate": true
+    },
+    "owg": {
+      "address": "71 Old Westbury Road, Old Westbury, NY 11568",
+      "coordinates": [
+        40.7735108,
+        -73.6014187
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=71+Old+Westbury+Road%2C+Old+Westbury%2C+NY+11568&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "71 OLD WESTBURY RD, OLD WESTBURY, NY, 11568",
+      "approximate": true
+    },
+    "nassau-145f44225433": {
+      "address": "2385 Grand Ave, Baldwin, NY 11510, USA",
+      "coordinates": [
+        40.6525068,
+        -73.6114193
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2385+Grand+Ave%2C+Baldwin%2C+NY+11510%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2385 GRAND AVE, BALDWIN, NY, 11510",
+      "approximate": true
+    },
+    "nassau-80c77227c08b": {
+      "address": "34 School St, Bayville, NY 11709, USA",
+      "coordinates": [
+        40.9092175,
+        -73.5664169
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=34+School+St%2C+Bayville%2C+NY+11709%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "34 SCHOOL ST, BAYVILLE, NY, 11709",
+      "approximate": true
+    },
+    "nassau-5b0a73050198": {
+      "address": "2288 Bedford Ave, Bellmore, NY 11710, USA",
+      "coordinates": [
+        40.6677309,
+        -73.5271671
+      ],
+      "source": "https://www.openstreetmap.org/way/569440644",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Bellmore Memorial Library",
+      "approximate": true
+    },
+    "nassau-4b6a6c556719": {
+      "address": "2 Papermill Rd, Roslyn, NY 11576, USA",
+      "coordinates": [
+        40.7970444,
+        -73.6486245
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2+Papermill+Rd%2C+Roslyn%2C+NY+11576%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2 PAPERMILL RD, ROSLYN, NY, 11576",
+      "approximate": true
+    },
+    "nassau-18f6be2fc586": {
+      "address": "East Meadow Public Library, 1886 Front St, East Meadow, NY 11554, USA",
+      "coordinates": [
+        40.7199425,
+        -73.5639181
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=East+Meadow+Public+Library%2C+1886+Front+St%2C+East+Meadow%2C+NY+11554%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1886 FRONT ST, EAST MEADOW, NY, 11554",
+      "approximate": true
+    },
+    "nassau-76867c871e41": {
+      "address": "700 Hempstead Turnpike, Elmont, NY 11003, USA",
+      "coordinates": [
+        40.7081227,
+        -73.6999289
+      ],
+      "source": "https://www.openstreetmap.org/way/60845972",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Elmont Memorial Library, 700, Hempstead Turnpike, Elmont, Town of Hempstead, Nassau County, New York, 11003, United States",
+      "approximate": true
+    },
+    "nassau-b007365ac901": {
+      "address": "116 Merritts Rd, Farmingdale, NY 11735, USA",
+      "coordinates": [
+        40.7290834,
+        -73.4592447
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=116+Merritts+Rd%2C+Farmingdale%2C+NY+11735%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "116 MERRITTS RD, FARMINGDALE, NY, 11735",
+      "approximate": true
+    },
+    "nassau-4fdae7855d18": {
+      "address": "17 Caroline Pl, Floral Park, NY 11001, USA",
+      "coordinates": [
+        40.724668,
+        -73.7073675
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=17+Caroline+Pl%2C+Floral+Park%2C+NY+11001%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "17 CAROLINE PL, FLORAL PARK, NY, 11001",
+      "approximate": true
+    },
+    "nassau-24e317f6b943": {
+      "address": "19 Lincoln Rd, Franklin Square, NY 11010, USA",
+      "coordinates": [
+        40.7073985,
+        -73.6707397
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=19+Lincoln+Rd%2C+Franklin+Square%2C+NY+11010%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "19 LINCOLN RD, FRANKLIN SQUARE, NY, 11010",
+      "approximate": true
+    },
+    "nassau-c110dc11df44": {
+      "address": "144 W Merrick Rd, Freeport, NY 11520, USA",
+      "coordinates": [
+        40.6531284,
+        -73.5866289
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=144+W+Merrick+Rd%2C+Freeport%2C+NY+11520%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "144 W MERRICK RD, FREEPORT, NY, 11520",
+      "approximate": true
+    },
+    "nassau-990788e20642": {
+      "address": "60 7th St, Garden City, NY 11530, USA",
+      "coordinates": [
+        40.7237129,
+        -73.6389418
+      ],
+      "source": "https://www.openstreetmap.org/way/589705039",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Garden City Public Library, 60, 7th Street, Village of Garden City, Town of Hempstead, Nassau County, New York, 11530, United States",
+      "approximate": true
+    },
+    "nassau-4fe0a32d875f": {
+      "address": "4 Glen Cove Ave, Glen Cove, NY 11542, USA",
+      "coordinates": [
+        40.8627378,
+        -73.6337145
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4+Glen+Cove+Ave%2C+Glen+Cove%2C+NY+11542%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "4 GLEN COVE AVE, GLEN COVE, NY, 11542",
+      "approximate": true
+    },
+    "nassau-3a0db1fa966e": {
+      "address": "146 Glen Head Rd, Glen Head, NY 11545, USA",
+      "coordinates": [
+        40.8353931,
+        -73.6225696
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=146+Glen+Head+Rd%2C+Glen+Head%2C+NY+11545%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "146 GLEN HEAD RD, GLEN HEAD, NY, 11545",
+      "approximate": true
+    },
+    "nassau-c0520ec82044": {
+      "address": "159 Bayview Ave, Great Neck, NY 11023, USA",
+      "coordinates": [
+        40.797438,
+        -73.7468261
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=159+Bayview+Ave%2C+Great+Neck%2C+NY+11023%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "159 BAYVIEW AVE, GREAT NECK, NY, 11023",
+      "approximate": true
+    },
+    "nassau-37924180e703": {
+      "address": "26 Great Neck Rd, Great Neck, NY 11021, USA",
+      "coordinates": [
+        40.7862827,
+        -73.7273132
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=26+Great+Neck+Rd%2C+Great+Neck%2C+NY+11021%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "26 GREAT NECK RD, GREAT NECK, NY, 11021",
+      "approximate": true
+    },
+    "nassau-c364d388fd42": {
+      "address": "10 Campbell St, New Hyde Park, NY 11040, USA",
+      "coordinates": [
+        40.7492082,
+        -73.69647
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=10+Campbell+St%2C+New+Hyde+Park%2C+NY+11040%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "10 CAMPBELL ST, NEW HYDE PARK, NY, 11040",
+      "approximate": true
+    },
+    "nassau-13677ea84eba": {
+      "address": "60 Verona Pl, Valley Stream, NY 11582, USA",
+      "coordinates": [
+        40.6641743,
+        -73.7068152
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=60+Verona+Pl%2C+Valley+Stream%2C+NY+11582%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "60 VERONA PL, VALLEY STREAM, NY, 11580",
+      "approximate": true
+    },
+    "nassau-e4c4cdd0dcf0": {
+      "address": "Village Green Park, Valley Stream, NY 11580, USA",
+      "coordinates": [
+        40.6631371,
+        -73.7063661
+      ],
+      "source": "https://www.openstreetmap.org/way/499280497",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Village Green Park",
+      "approximate": true
+    },
+    "nassau-1a20211f4cb1": {
+      "address": "1125 Broadway, Hewlett, NY 11557, USA",
+      "coordinates": [
+        40.6343512,
+        -73.7046785
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1125+Broadway%2C+Hewlett%2C+NY+11557%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1125 BROADWAY, HEWLETT, NY, 11557",
+      "approximate": true
+    },
+    "nassau-027cfaba2e29": {
+      "address": "169 Jerusalem Ave, Hicksville, NY 11801, USA",
+      "coordinates": [
+        40.7620896,
+        -73.5233565
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=169+Jerusalem+Ave%2C+Hicksville%2C+NY+11801%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "169 JERUSALEM AVE, HICKSVILLE, NY, 11801",
+      "approximate": true
+    },
+    "nassau-d5db54ba8778": {
+      "address": "155 Lakeville Rd, New Hyde Park, NY 11040, USA",
+      "coordinates": [
+        40.7344379,
+        -73.6879948
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=155+Lakeville+Rd%2C+New+Hyde+Park%2C+NY+11040%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "155 LAKEVILLE RD, NEW HYDE PARK, NY, 11040",
+      "approximate": true
+    },
+    "nassau-de8891cad84e": {
+      "address": "176 Long Beach Rd, Island Park, NY 11558, USA",
+      "coordinates": [
+        40.6025122,
+        -73.6558452
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=176+Long+Beach+Rd%2C+Island+Park%2C+NY+11558%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "176 LONG BEACH RD, ISLAND PARK, NY, 11558",
+      "approximate": true
+    },
+    "nassau-d0e02595ed61": {
+      "address": "38 Farmedge Rd, Levittown, NY 11756, USA",
+      "coordinates": [
+        40.7363655,
+        -73.4980535
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=38+Farmedge+Rd%2C+Levittown%2C+NY+11756%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "38 FARMEDGE RD, LEVITTOWN, NY, 11756",
+      "approximate": true
+    },
+    "nassau-79d2ed7cc816": {
+      "address": "1 Merry Ln, Jericho, NY 11753, USA",
+      "coordinates": [
+        40.7939525,
+        -73.5359534
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1+Merry+Ln%2C+Jericho%2C+NY+11753%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1 MERRY LN, JERICHO, NY, 11753",
+      "approximate": true
+    },
+    "nassau-09b6060454c3": {
+      "address": "1120 Woodfield Rd, Rockville Centre, NY 11570, USA",
+      "coordinates": [
+        40.6738311,
+        -73.6528763
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1120+Woodfield+Rd%2C+Rockville+Centre%2C+NY+11570%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1120 WOODFIELD RD, ROCKVILLE CENTRE, NY, 11570",
+      "approximate": true
+    },
+    "nassau-6141aba2b138": {
+      "address": "1 Bluegrass Ln, Levittown, NY 11756, USA",
+      "coordinates": [
+        40.7229247,
+        -73.5300562
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1+Bluegrass+Ln%2C+Levittown%2C+NY+11756%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1 BLUEGRASS LN, LEVITTOWN, NY, 11756",
+      "approximate": true
+    },
+    "nassau-210f04ed843a": {
+      "address": "170 Buckram Rd, Locust Valley, NY 11560, USA",
+      "coordinates": [
+        40.8787249,
+        -73.5908507
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=170+Buckram+Rd%2C+Locust+Valley%2C+NY+11560%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "170 BUCKRAM RD, LOCUST VALLEY, NY, 11560",
+      "approximate": true
+    },
+    "nassau-2dea0e4719a3": {
+      "address": "111 W Park Ave, Long Beach, NY 11561, USA",
+      "coordinates": [
+        40.5885213,
+        -73.6672298
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=111+W+Park+Ave%2C+Long+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "111 W PARK AVE, LONG BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-4cb62adc518b": {
+      "address": "903 W Beech St, Long Beach, NY 11561, USA",
+      "coordinates": [
+        40.5860755,
+        -73.691589
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=903+W+Beech+St%2C+Long+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "903 W BEECH ST, LONG BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-cb280dde8dc4": {
+      "address": "79 Lido Blvd, Point Lookout, NY 11569, USA",
+      "coordinates": [
+        40.5920318,
+        -73.5825494
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=79+Lido+Blvd%2C+Point+Lookout%2C+NY+11569%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "79 LIDO BLVD, POINT LOOKOUT, NY, 11569",
+      "approximate": true
+    },
+    "nassau-180e495be3cd": {
+      "address": "56 Eldert St, Lynbrook, NY 11563, USA",
+      "coordinates": [
+        40.6546266,
+        -73.6741289
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=56+Eldert+St%2C+Lynbrook%2C+NY+11563%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "56 ELDERT ST, LYNBROOK, NY, 11563",
+      "approximate": true
+    },
+    "nassau-0668f89b29eb": {
+      "address": "61 St Thomas Pl, Malverne, NY 11565, USA",
+      "coordinates": [
+        40.6761119,
+        -73.6705488
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=61+St+Thomas+Pl%2C+Malverne%2C+NY+11565%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "61 SAINT THOMAS PL, MALVERNE, NY, 11565",
+      "approximate": true
+    },
+    "nassau-c093de9a5ca9": {
+      "address": "30 Onderdonk Ave, Manhasset, NY 11030, USA",
+      "coordinates": [
+        40.7944729,
+        -73.6952071
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=30+Onderdonk+Ave%2C+Manhasset%2C+NY+11030%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "30 ONDERDONK AVE, MANHASSET, NY, 11030",
+      "approximate": true
+    },
+    "nassau-01b972c87c0d": {
+      "address": "40 Harbor Ln, Massapequa Park, NY 11762, USA",
+      "coordinates": [
+        40.6636073,
+        -73.4559746
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=40+Harbor+Ln%2C+Massapequa+Park%2C+NY+11762%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "40 HARBOR LN, MASSAPEQUA PARK, NY, 11762",
+      "approximate": true
+    },
+    "nassau-66963b512e98": {
+      "address": "523 Central Ave, Massapequa, NY 11758, USA",
+      "coordinates": [
+        40.6789338,
+        -73.4717262
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=523+Central+Ave%2C+Massapequa%2C+NY+11758%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "523 CENTRAL AVE, MASSAPEQUA, NY, 11758",
+      "approximate": true
+    },
+    "nassau-ed95ddb66b20": {
+      "address": "2279 Merrick Ave, Merrick, NY 11566, USA",
+      "coordinates": [
+        40.6608429,
+        -73.5509277
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2279+Merrick+Ave%2C+Merrick%2C+NY+11566%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2279 MERRICK AVE, MERRICK, NY, 11566",
+      "approximate": true
+    },
+    "nassau-d867c85f9cbd": {
+      "address": "195 Marcellus Rd, Mineola, NY 11501, USA",
+      "coordinates": [
+        40.7431257,
+        -73.6458245
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=195+Marcellus+Rd%2C+Mineola%2C+NY+11501%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "195 MARCELLUS RD, MINEOLA, NY, 11501",
+      "approximate": true
+    },
+    "nassau-9e1edc8276d2": {
+      "address": "1551 Newbridge Rd, North Bellmore, NY 11710, USA",
+      "coordinates": [
+        40.6831033,
+        -73.5399893
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1551+Newbridge+Rd%2C+North+Bellmore%2C+NY+11710%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1551 NEWBRIDGE RD, NORTH BELLMORE, NY, 11710",
+      "approximate": true
+    },
+    "nassau-d8beeb072d42": {
+      "address": "1691 Meadowbrook Rd, North Merrick, NY 11566, USA",
+      "coordinates": [
+        40.6758627,
+        -73.5689558
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1691+Meadowbrook+Rd%2C+North+Merrick%2C+NY+11566%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1691 MEADOWBROOK RD, NORTH MERRICK, NY, 11566",
+      "approximate": true
+    },
+    "nassau-2cd8622cf287": {
+      "address": "30 Davison Ave, Oceanside, NY 11572, USA",
+      "coordinates": [
+        40.6416773,
+        -73.6392536
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=30+Davison+Ave%2C+Oceanside%2C+NY+11572%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "30 DAVISON AVE, OCEANSIDE, NY, 11572",
+      "approximate": true
+    },
+    "nassau-facc08a5a5bc": {
+      "address": "89 E Main St, Oyster Bay, NY 11771, USA",
+      "coordinates": [
+        40.8718005,
+        -73.5267711
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=89+E+Main+St%2C+Oyster+Bay%2C+NY+11771%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "89 E MAIN ST, OYSTER BAY, NY, 11771",
+      "approximate": true
+    },
+    "nassau-1052625417db": {
+      "address": "999 Old Country Rd, Plainview, NY 11803, USA",
+      "coordinates": [
+        40.7755913,
+        -73.4729081
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=999+Old+Country+Rd%2C+Plainview%2C+NY+11803%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "999 OLD COUNTRY RD, PLAINVIEW, NY, 11803",
+      "approximate": true
+    },
+    "nassau-fbab0a36689a": {
+      "address": "232 Main St, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8311557,
+        -73.6956794
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=232+Main+St%2C+Port+Washington%2C+NY+11050%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "232 MAIN ST, PORT WASHINGTON, NY, 11050",
+      "approximate": true
+    },
+    "nassau-2bd16a6936b0": {
+      "address": "Library Dr, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8319463,
+        -73.6968479
+      ],
+      "source": "https://www.openstreetmap.org/way/596142988",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Port Washington Public Library, 1, Library Drive, Village of Baxter Estates, Port Washington, Town of North Hempstead, Nassau County, New York, 11050, United States",
+      "approximate": true
+    },
+    "nassau-6da1c213c4fb": {
+      "address": "Blumenfeld Family Park, Port Washington, NY 11050, USA",
+      "coordinates": [
+        40.8305679,
+        -73.695417
+      ],
+      "source": "https://www.openstreetmap.org/way/539327820",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Blumenfeld Family Park, Port Washington, Town of North Hempstead, Nassau County, New York, United States",
+      "approximate": true
+    },
+    "nassau-3ca29c10107a": {
+      "address": "221 N Village Ave, Rockville Centre, NY 11570, USA",
+      "coordinates": [
+        40.6643912,
+        -73.6485796
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=221+N+Village+Ave%2C+Rockville+Centre%2C+NY+11570%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "221 N VILLAGE AVE, ROCKVILLE CENTRE, NY, 11570",
+      "approximate": true
+    },
+    "nassau-f98933096e5e": {
+      "address": "281 Sea Cliff Ave, Sea Cliff, NY 11579, USA",
+      "coordinates": [
+        40.8492005,
+        -73.6470103
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=281+Sea+Cliff+Ave%2C+Sea+Cliff%2C+NY+11579%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "281 SEA CLIFF AVE, SEA CLIFF, NY, 11579",
+      "approximate": true
+    },
+    "nassau-dc5706554e24": {
+      "address": "2234 Jackson Ave, Seaford, NY 11783, USA",
+      "coordinates": [
+        40.666944,
+        -73.4869651
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2234+Jackson+Ave%2C+Seaford%2C+NY+11783%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "2234 JACKSON AVE, SEAFORD, NY, 11783",
+      "approximate": true
+    },
+    "nassau-36b854418c00": {
+      "address": "165 Searingtown Rd, Albertson, NY 11507, USA",
+      "coordinates": [
+        40.7625744,
+        -73.6563937
+      ],
+      "source": "https://www.openstreetmap.org/way/589708643",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Shelter Rock Public Library, 165, Searingtown Road South, Searingtown Villas at Searingtown, Albertson, Town of North Hempstead, Nassau County, New York, 11507, United States",
+      "approximate": true
+    },
+    "nassau-7c75e2eeef48": {
+      "address": "225 S Oyster Bay Rd, Syosset, NY 11791, USA",
+      "coordinates": [
+        40.7993361,
+        -73.5026558
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=225+S+Oyster+Bay+Rd%2C+Syosset%2C+NY+11791%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "225 S OYSTER BAY RD, SYOSSET, NY, 11791",
+      "approximate": true
+    },
+    "nassau-1ca2d241e09f": {
+      "address": "400 Uniondale Ave, Uniondale, NY 11553, USA",
+      "coordinates": [
+        40.7061793,
+        -73.5928575
+      ],
+      "source": "https://www.openstreetmap.org/node/368050098",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Uniondale Public Library, Uniondale Avenue, Goodrich Manor, Uniondale, Town of Hempstead, Nassau County, New York, 11553, United States",
+      "approximate": true
+    },
+    "nassau-997b2adf1abc": {
+      "address": "3285 Park Ave, Wantagh, NY 11793, USA",
+      "coordinates": [
+        40.6737015,
+        -73.5103835
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3285+Park+Ave%2C+Wantagh%2C+NY+11793%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "3285 PARK AVE, WANTAGH, NY, 11793",
+      "approximate": true
+    },
+    "nassau-0f19345b1262": {
+      "address": "500 Hempstead Ave, West Hempstead, NY 11552, USA",
+      "coordinates": [
+        40.6961574,
+        -73.6542314
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=500+Hempstead+Ave%2C+West+Hempstead%2C+NY+11552%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "500 HEMPSTEAD AVE, WEST HEMPSTEAD, NY, 11552",
+      "approximate": true
+    },
+    "nassau-47a710719cc8": {
+      "address": "445 Jefferson St, Westbury, NY 11590, USA",
+      "coordinates": [
+        40.7619549,
+        -73.5828734
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=445+Jefferson+St%2C+Westbury%2C+NY+11590%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "445 JEFFERSON ST, WESTBURY, NY, 11590",
+      "approximate": true
+    },
+    "nassau-f3deb8c590ab": {
+      "address": "445 Jefferson St, Westbury, NY 11590, USA",
+      "coordinates": [
+        40.7619549,
+        -73.5828734
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=445+Jefferson+St%2C+Westbury%2C+NY+11590%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "445 JEFFERSON ST, WESTBURY, NY, 11590",
+      "approximate": true
+    },
+    "nassau-cb9746da5020": {
+      "address": "451 Unqua Rd, Massapequa Park, NY 11762, USA",
+      "coordinates": [
+        40.6696212,
+        -73.4416178
+      ],
+      "source": "https://www.openstreetmap.org/way/788934999",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Marjorie R. Post Community Park",
+      "approximate": true
+    },
+    "nassau-5baa8ff28637": {
+      "address": "1500 Lido Blvd, Lido Beach, NY 11561, USA",
+      "coordinates": [
+        40.5919532,
+        -73.5954419
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1500+Lido+Blvd%2C+Lido+Beach%2C+NY+11561%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "1500 LIDO BLVD, LIDO BEACH, NY, 11561",
+      "approximate": true
+    },
+    "nassau-ef0802e87e4c": {
+      "address": "Charles Lindbergh Blvd, Garden City, NY 11530, USA",
+      "coordinates": [
+        40.7283473,
+        -73.5974782
+      ],
+      "source": "https://www.openstreetmap.org/node/7089432281",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Cradle of Aviation Museum, Hangar Road, East Garden City, Village of Garden City, Town of Hempstead, Nassau County, New York, 11530, United States",
+      "approximate": true
+    },
+    "nassau-12a3be03aff0": {
+      "address": "Museum Dr, Roslyn, NY 11576, USA",
+      "coordinates": [
+        40.8105008,
+        -73.6428521
+      ],
+      "source": "https://www.openstreetmap.org/relation/19188119",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Nassau County Museum of Art grounds; approximate, not Manes Center entrance",
+      "approximate": true
+    },
+    "nassau-d8005d1466a9": {
+      "address": "127 Middle Neck Rd, Sands Point, NY 11050, USA",
+      "coordinates": [
+        40.8598591,
+        -73.6932755
+      ],
+      "source": "https://www.openstreetmap.org/way/1521716073",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "matchedName": "Sands Point Preserve, Village of Sands Point, Town of North Hempstead, Nassau County, New York, United States",
+      "approximate": true
+    },
+    "nassau-5901b9d95191": {
+      "address": "494 Willis Ave, Williston Park, NY 11596, USA",
+      "coordinates": [
+        40.7573879,
+        -73.6452592
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=494+Willis+Ave%2C+Williston+Park%2C+NY+11596%2C+USA&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "494 WILLIS AVE, WILLISTON PARK, NY, 11596",
+      "approximate": true
+    },
+    "sicm": {
+      "address": "1000 Richmond Terrace, Building M, Staten Island, NY 10301",
+      "coordinates": [
+        40.644743798098,
+        -74.102321811388
+      ],
+      "provider": "Official organizer-published venue",
+      "source": "https://sichildrensmuseum.org/venue/staten-island-childrens-museum/",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-ddbdec4abc74": {
+      "address": "Bowne Park Field House in Bowne Park Queens",
+      "coordinates": [
+        40.770500183105,
+        -73.80729675293
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/tiny-tots-session-2",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-df5d401607c1": {
+      "address": "Classroom A - Small in Lost Battalion Hall Recreation Center 93-29 Queens Boulevard Queens",
+      "coordinates": [
+        40.731924128298,
+        -73.865528823918
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/after-school-youth-recreation",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-fcb0db3398d4": {
+      "address": "Pier 6 in Brooklyn Bridge Park Atlantic Avenue and Furman Street Brooklyn",
+      "coordinates": [
+        40.692914780123,
+        -74.00262928009
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/nyrr-open-run-brooklyn-bridge-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8189f449238d": {
+      "address": "Le Carrousel in Bryant Park 40th Street between 5th Avenue and 6th Avenues Manhattan",
+      "coordinates": [
+        40.753299713135,
+        -73.984001159668
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/11/le-carrousel-extravaganza",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-fe0f952ac0ae": {
+      "address": "Beach 32nd Street Football Field in Rockaway Beach and Boardwalk Queens",
+      "coordinates": [
+        40.592538749639,
+        -73.763463231456
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/11/nyc-parks-girls-flag-football-festival",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d6e9a95176be": {
+      "address": "West 218th Street and Indian Road in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.873013267738,
+        -73.918452858924
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/astronomy-autumn-sky",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-466db2d5f4b0": {
+      "address": "United Nations Ave South Entrance in Flushing Meadows Corona Park Queens Location Details: Beginning of United Nations Avenue South, by the parking lot at 111th Street and 55th Avenue.",
+      "coordinates": [
+        40.742657289192,
+        -73.849996328354
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/12/nyrr-open-run-flushing-meadows-corona-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-894466777efe": {
+      "address": "Canarsie Park House in Canarsie Park 88th Street and Seaview Avenue Brooklyn",
+      "coordinates": [
+        40.628942896777,
+        -73.895997524261
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-canarsie-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-4f68ae709320": {
+      "address": "St. Mary's Annual 5K Start East 149th and Eagle Ave Bronx",
+      "coordinates": [
+        40.813804626464844,
+        -73.91180419921875
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-st-marys-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-da6746f85376": {
+      "address": "Seaman Avenue and Isham Street Entrance in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.869998931884766,
+        -73.92109680175781
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-inwood-hill-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-bb570294a380": {
+      "address": "Astoria Park Queens Location Details: Next to the track by the comfort station.",
+      "coordinates": [
+        40.779102012899,
+        -73.922377586365
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-astoria-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-bb5f2d1169ab": {
+      "address": "Baisley Pond Park House in Baisley Pond Park Rockaway & Sutphin Boulevards Queens",
+      "coordinates": [
+        40.67300033569336,
+        -73.78669738769531
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-baisley-pond-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-670769f06f63": {
+      "address": "Entrance to John Golden Park in John Golden Park 215th Place and 33rd Ave Queens John Golden Parking Lot in John Golden Park 215th Place and 33rd Avenue Queens",
+      "coordinates": [
+        40.773001879825,
+        -73.769996166229
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-crocheron-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f28bba5dab5d": {
+      "address": "Entrance - Lafayette Avenue and Morrison Avenue in Soundview Park Bronx",
+      "coordinates": [
+        40.820098876953,
+        -73.872398376465
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-soundview-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d088bc68d3fe": {
+      "address": "Gymnasium in Lost Battalion Hall Recreation Center 93-29 Queens Boulevard Queens",
+      "coordinates": [
+        40.731846657524,
+        -73.86563074786
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/family-time",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f60def7f8fd4": {
+      "address": "Wave Hill Bronx Location Details: 4900 Independence Ave, Bronx, NY 10471",
+      "coordinates": [
+        40.89870071411133,
+        -73.9124984741211
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/family-art-project-papery-partners",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c05519105015": {
+      "address": "Visitor Center - Satterlee Street and Hylan Boulevard in Conference House Park 298 Satterlee Street Staten Island",
+      "coordinates": [
+        40.502257029653,
+        -74.251725435257
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/falling-for-nature-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8936f24b9a07": {
+      "address": "Van Cortlandt Nature Center in Van Cortlandt Park Bronx",
+      "coordinates": [
+        40.891101837158,
+        -73.893997192383
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/autumn-mushroom-id-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-b52618580995": {
+      "address": "Lawn Area in Bushwick Inlet Park Brooklyn",
+      "coordinates": [
+        40.722801208496,
+        -73.96199798584
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/discovery-hike-waterfront-ecosystems",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-43de141f9142": {
+      "address": "Hoyt Avenue North and 19th Street in Astoria Park Queens",
+      "coordinates": [
+        40.776557170875,
+        -73.923793792725
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/behind-the-smile-animal-adaptations-revealed",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-29038d1d950e": {
+      "address": "Prospect Avenue and Brentwood Avenue in Allison Pond Park Staten Island",
+      "coordinates": [
+        40.638315348643,
+        -74.102748195445
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/introduction-to-fly-fishing",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-5a099402783e": {
+      "address": "Gymnasium in Highbridge Recreation Center 2301 Amsterdam Avenue Manhattan",
+      "coordinates": [
+        40.84260178,
+        -73.93430328
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/basketball-clinic-at-highbridge-recreation-center-ages-5-to-7",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-28487fc00751": {
+      "address": "Urban Farm in Randall's Island Park Manhattan",
+      "coordinates": [
+        40.784213892023,
+        -73.925898551941
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/fire-cider-workshop",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f756959421f1": {
+      "address": "Palisade Avenue and Spaulding Lane in Riverdale Park Bronx",
+      "coordinates": [
+        40.896972906301,
+        -73.914912700653
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/hiking-club-series-sappy-trails",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f1941036932c": {
+      "address": "Picnic House in Prospect Park West Drive and Fifth Street Brooklyn",
+      "coordinates": [
+        40.665500640869,
+        -73.971603393555
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/fall-foliage-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f2d351655cc1": {
+      "address": "Vermont Place Parking Lot in Highland Park Vermont Place and Highland Boulevard Queens",
+      "coordinates": [
+        40.686199188232,
+        -73.889801025391
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/the-secret-lives-of-insects",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-7fa16ef1a573": {
+      "address": "West 114th Street and Morningside Drive in Morningside Park Manhattan",
+      "coordinates": [
+        40.804599761963,
+        -73.959999084473
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/outdoor-skills-survival-101",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-af0212175151": {
+      "address": "Wagner College Pool - Spiro Sports Center 1 Campus Rd, Staten Island, NY 10301 Staten Island",
+      "coordinates": [
+        40.614960443787,
+        -74.095867991448
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/wagner-college-childrens-learn-to-swim-level-2",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-53c4b562c9ce": {
+      "address": "Conference House Park Staten Island Location Details: Off Hylan Boulevard, next to parking lot on path leading to the water.",
+      "coordinates": [
+        40.502601623535,
+        -74.251800537109
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-conference-house-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-dd1d64da85e3": {
+      "address": "Carmine Carro Community Center in Marine Park 3000 Fillmore Ave Brooklyn",
+      "coordinates": [
+        40.607943945573,
+        -73.937465012074
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/ricitos-and-the-three-bears",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-0f4c8995202c": {
+      "address": "Cunningham Park Parking Lot in Cunningham Park Union Turnpike and 197th Street Queens",
+      "coordinates": [
+        40.730899810791016,
+        -73.77400207519531
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-cunningham-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8a59f97850b5": {
+      "address": "Greenbelt Nature Center in Blood Root Valley 700 Rockland Avenue at Brielle Avenue Staten Island",
+      "coordinates": [
+        40.588401794434,
+        -74.139099121094
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/autumn-leaves-story-time-and-craft",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1896748ab7b3": {
+      "address": "Gymnasium in St. John’s Recreation Center 1251 Prospect Place Brooklyn",
+      "coordinates": [
+        40.67350006,
+        -73.93479919
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/gobble-games-family-board-game-extravaganza",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-6cd3a566f5b5": {
+      "address": "Forest Avenue and Silver Lake Park Road in Silver Lake Park Staten Island",
+      "coordinates": [
+        40.63159291279,
+        -74.095857262611
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/discovery-hike-pond-and-freshwater-ecology",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8db4eaa3d0e0": {
+      "address": "Brower Park Lawn in Brower Park Prospect Place & Kingston Avenue Brooklyn",
+      "coordinates": [
+        40.673487329365,
+        -73.942834436893
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nature-detective-mystery-adventure",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-aa8b99cbfb19": {
+      "address": "North Picnic Area in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.871167346548,
+        -73.790476083755
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/hiking-club-series-hidden-hunter-island",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-e2982f5b6278": {
+      "address": "Fort Greene Park Visitor Center in Fort Greene Park Brooklyn",
+      "coordinates": [
+        40.69219970703125,
+        -73.97480010986328
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/historic-new-york-prison-ship-martyrs-monument",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-dbf15f9147d2": {
+      "address": "Eton Place Parking Lot in Willowbrook Park Staten Island",
+      "coordinates": [
+        40.604227074067,
+        -74.159055948257
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/discovery-hike-urban-mammals",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-71c023491cb4": {
+      "address": "Public Restroom Building - 164th St and Lithonia Ave in Kissena Park Queens",
+      "coordinates": [
+        40.749037767722,
+        -73.803719761346
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/natures-workshop-bird-friendly-windows",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-14437f80cf19": {
+      "address": "Crotona Nature Center in Crotona Park Crotona Park East and Charlotte Street Bronx",
+      "coordinates": [
+        40.837001800537,
+        -73.893402099609
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/fireside-meditation",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1b9dacc4ea9b": {
+      "address": "Multi-Use Room in Williamsbridge Oval Recreation Center 3225 Reservoir Oval East Bronx",
+      "coordinates": [
+        40.876733907,
+        -73.878591092031
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/16/arts-culture-fun-be-bold-ballet-programming",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-077f6150e9cb": {
+      "address": "Oak Ridge in Forest Park Queens",
+      "coordinates": [
+        40.697621504081,
+        -73.85307598114
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/17/winter-lanterns-20261",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-09e7a8962816": {
+      "address": "Thomas Jefferson Recreation Center in Thomas Jefferson Recreation Center 2180 First Avenue, New York, NY Manhattan",
+      "coordinates": [
+        40.79349899291992,
+        -73.93669891357422
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/turkey-trot-5k",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-63892096fc04": {
+      "address": "Seth Low Playground in Seth Low Playground/ Bealin Square Brooklyn",
+      "coordinates": [
+        40.608200073242,
+        -73.986503601074
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/nature-scavenger-hunt",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-2ca4270acd73": {
+      "address": "Orchard Beach Pavilion in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.8661994934082,
+        -73.7947998046875
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/birding-owls",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c27f6fbf1794": {
+      "address": "The Overlook in Forest Park Queens",
+      "coordinates": [
+        40.710895558585,
+        -73.835624933243
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/forest-park-super-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-722617f22bbf": {
+      "address": "Entrance - Baisley Blvd. & 157th Street in Baisley Pond Park Queens",
+      "coordinates": [
+        40.675882000605,
+        -73.78319811821
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/beginner-fishing",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-813adbfe8d93": {
+      "address": "Entrance - Mt. Eden Parkway and Morris Avenue in Claremont Park Bronx",
+      "coordinates": [
+        40.842700958252,
+        -73.90950012207
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/living-with-urban-coyotes",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-03ecfd589af9": {
+      "address": "West 81st Street and Central Park West in Central Park Manhattan",
+      "coordinates": [
+        40.781804280189,
+        -73.971595048905
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/falling-for-nature-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c1d1814ceb17": {
+      "address": "Lawn Area - Monitor Street and Driggs Avenue in Msgr. McGolrick Park Driggs Ave and Monitor Street Brooklyn",
+      "coordinates": [
+        40.723712045724,
+        -73.942661046981
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/historic-new-york-greenpoint-neighborhood-history",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-cb238fa9f6c8": {
+      "address": "Blue Heron Nature Center in Blue Heron Park 222 Poillon Avenue Staten Island",
+      "coordinates": [
+        40.530857179196,
+        -74.177863717079
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/birding-fall-migration",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1316fd097995": {
+      "address": "Lawn Area in Owl's Head Park Brooklyn",
+      "coordinates": [
+        40.640098571777,
+        -74.032402038574
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/magnetic-archery",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-0f9718c20629": {
+      "address": "Arthur Kill Road and Brookfield Avenue in Brookfield Park Staten Island",
+      "coordinates": [
+        40.561667478494,
+        -74.15999635582
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/nature-sketching",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-3478552d58a3": {
+      "address": "Entrance - 34th Avenue between 77th and 78th Streets in Travers Park Queens",
+      "coordinates": [
+        40.753513336182,
+        -73.889167785645
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/outdoor-skills-knot-tying",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-b4fac6481bf4": {
+      "address": "Union Turnpike and 196th Street in Cunningham Park Queens",
+      "coordinates": [
+        40.730712281998,
+        -73.774853669312
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/hibernation-and-brumation-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d6d60a00a18c": {
+      "address": "Seaman Avenue and Isham Street in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.869701385498,
+        -73.920600891113
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/native-american-heritage-month-walking-lenapehoking",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-6d891adaa650": {
+      "address": "Orchard Beach Nature Center in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.870487367202,
+        -73.786619067192
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/seal-exploration",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-92feabe21b35": {
+      "address": "Parkside Avenue and South Lake Drive in Prospect Park Brooklyn",
+      "coordinates": [
+        40.651412963867,
+        -73.971786499023
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/freedom-seekers-stories-by-the-fire",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-francis-martin": {
+      "address": "2150 University Avenue, Bronx, NY 10453",
+      "coordinates": [
+        40.8574,
+        -73.9095
+      ],
+      "source": "https://www.nypl.org/locations/francis-martin",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-115th-street": {
+      "address": "203 West 115th Street, New York, NY 10026",
+      "coordinates": [
+        40.8028,
+        -73.9532
+      ],
+      "source": "https://www.nypl.org/locations/115th-street",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-west-new-brighton": {
+      "address": "976 Castleton Avenue, Staten Island, NY 10310",
+      "coordinates": [
+        40.6346,
+        -74.1152
+      ],
+      "source": "https://www.nypl.org/locations/west-new-brighton",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-tremont": {
+      "address": "1866 Washington Avenue, Bronx, NY 10457",
+      "coordinates": [
+        40.8461,
+        -73.8984
+      ],
+      "source": "https://www.nypl.org/locations/tremont",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-todt-hill-westerleigh": {
+      "address": "2550 Victory Boulevard, Staten Island, NY 10314",
+      "coordinates": [
+        40.6098,
+        -74.148
+      ],
+      "source": "https://www.nypl.org/locations/todt-hill-westerleigh",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-bronx-library-center": {
+      "address": "310 East Kingsbridge Road, Bronx, NY 10458",
+      "coordinates": [
+        40.8634,
+        -73.8944
+      ],
+      "source": "https://www.nypl.org/locations/bronx-library-center",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-new-amsterdam": {
+      "address": "9 Murray Street, New York, NY 10007",
+      "coordinates": [
+        40.7134,
+        -74.0078
+      ],
+      "source": "https://www.nypl.org/locations/new-amsterdam",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-throgs-neck": {
+      "address": "3025 Cross Bronx Expressway, Bronx, NY 10465",
+      "coordinates": [
+        40.8219,
+        -73.8188
+      ],
+      "source": "https://www.nypl.org/locations/throgs-neck",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "bpl-macon": {
+      "address": "361 Lewis Ave, Brooklyn, NY 11233",
+      "coordinates": [
+        40.683173543349,
+        -73.935013681121
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=361+Lewis+Ave%2C+Brooklyn%2C+NY+11233&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "361 LEWIS AVE, BROOKLYN, NY, 11233",
+      "approximate": true
+    },
+    "bpl-bay-ridge": {
+      "address": "7223 Ridge Blvd, Brooklyn, NY 11209",
+      "coordinates": [
+        40.633953322633,
+        -74.029636239794
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=7223+Ridge+Blvd%2C+Brooklyn%2C+NY+11209&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "7223 RIDGE BLVD, BROOKLYN, NY, 11209",
+      "approximate": true
+    },
+    "bpl-kensington": {
+      "address": "4207 18th Avenue, Brooklyn, NY 11218",
+      "coordinates": [
+        40.63145060878,
+        -73.975535060631
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4207+18th+Avenue%2C+Brooklyn%2C+NY+11218&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "4207 18TH AVE, BROOKLYN, NY, 11218",
+      "approximate": true
+    },
+    "nassau-043802faf30a": {
+      "address": "475 Great Neck Road, Great Neck, NY 11021",
+      "coordinates": [
+        40.775817240335,
+        -73.732255897797
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=475+Great+Neck+Road%2C+Great+Neck%2C+NY+11021&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "approximate": true
+    },
+    "nassau-0b1bf3fae193": {
+      "address": "115 James A. Garner Way, Hempstead, NY 11550",
+      "coordinates": [
+        40.7103795,
+        -73.622142
+      ],
+      "source": "https://www.openstreetmap.org/way/329959862",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "approximate": true
+    },
+    "nassau-096b59677a2d": {
+      "address": "1060 Hicksville Rd, Massapequa, NY 11758",
+      "coordinates": [
+        40.7088803,
+        -73.4823144
+      ],
+      "source": "https://www.openstreetmap.org/way/568636100",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "approximate": true
+    },
+    "bcm": {
+      "address": "145 Brooklyn Avenue, Brooklyn, NY 11213",
+      "coordinates": [
+        40.674845916522,
+        -73.944391820549
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=145+Brooklyn+Avenue%2C+Brooklyn%2C+NY+11213&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "145 BROOKLYN AVE, BROOKLYN, NY, 11213",
+      "approximate": true
+    }
+  }
+}

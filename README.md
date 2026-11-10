@@ -22,20 +22,22 @@ Open http://127.0.0.1:4317. The build output in `dist/` works on static hosting,
 
 ## Open data
 
-The initial published edition covers **October 24–November 1, 2026**, with **534 activities, 672 sessions, and 232 venues**. Collection coverage is incomplete and varies by organizer. The dataset is an edition, not a live inventory of registration availability.
+The current edition covers **November 10–23, 2026**, verified **November 10**, with **606 activities, 788 sessions, and 128 venues**. Collection coverage is incomplete and varies by organizer. The dataset is an edition, not a live inventory of registration availability.
+
+This edition reconciles NYC Parks’ 11 calendar pages (547 listings) and related categories, reads calendars from 48 of Nassau’s 54 member libraries, and includes selected BPL, NYPL and family-venue programs. Six Nassau calendars remain incomplete: Bethpage, East Rockaway, East Williston, Peninsula, Roosevelt and Williston Park. QPL’s calendar currently returns an official network-outage notice; no current QPL occurrences could be verified. BPL, NYPL and venue coverage is selective rather than exhaustive. Canceled, pickup-only, unresolved-location and implausible-time entries are excluded; membership, residency/card rules and uncertain registration remain explicit.
 
 - `public/data/events.json`: schema v1; activities, occurrences, public venues, English/Chinese copy, and official provenance.
 - `public/data/sessions.csv`: one row per occurrence, UTF-8, with bilingual titles and official links.
 - `public/data/sources.json`: source registry, actual review dates, and known limitations.
 - `public/data/*_coverage.json`: collection audits.
-- `public/data/geocodes.json`: replacement Nassau coordinate provenance (US Census / OpenStreetMap).
+- `public/data/geocodes.json`: venue-coordinate provenance (US Census, OpenStreetMap and organizer-published meeting points).
 - `datasets/<edition-id>/`: versioned reviewed snapshots of the public data.
 
 See [data format](docs/data.md), [collection](docs/collection.md), and [data licensing](DATA_LICENSE.md). Venue coordinates are approximate; check the organizer's directions for the entrance.
 
 ## Updates and publication
 
-The intended schedule is Tuesday at 08:00 America/New_York, covering the next 14 days. Collection currently uses an operator-run, agent-assisted process. The first scheduled refresh on October 27 was blocked by collection-service and source-access failures; the previous reviewed edition was retained. A schedule is not a guarantee of a fresh edition.
+The intended schedule is Tuesday at 08:00 America/New_York, covering the next 14 days. Collection uses an operator-run, agent-assisted process. The November 10 edition is the latest reviewed refresh. A schedule is not a guarantee of a fresh edition; blocked refreshes retain the previous reviewed edition.
 
 This repository is the canonical source for website code and reviewed data. The release sequence is: collect into private staging → review sources and facts → validate/export/test → privacy review → commit and push to `main` → build and deploy that exact clean commit → verify the live artifacts. Partial candidates are not published over a successful edition.
 

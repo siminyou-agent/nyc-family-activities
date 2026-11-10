@@ -16,7 +16,10 @@ Collection is currently operator/agent-assisted. The repository includes reusabl
 1. Collect official calendars across the real run window; reconcile pagination and refresh previously limited sources. Do not reuse historical verification dates as new evidence.
 2. Review child/family suitability, duplicates, dated occurrences, exact venues, prices, age guidance, booking, and residency/card rules. Do not infer free admission from a library location or open signup from an unknown status.
 3. Write bilingual candidates and actual source/coverage limitations. Incomplete major sources can block publication; retain the previous successful edition rather than publish a misleading replacement.
+   Use a fresh directory per verification run. Cached HTTP evidence must match that run; a directory cannot be reused for another date window. LibCal records retain `endDate` and `multiDay`: a multi-day pickup span must not be flattened into a one-day outing, and an implausible AM/PM value must not be silently corrected.
 4. Validate the contract, inspect changed facts, export snapshots, run privacy checks and tests, and review both language layouts.
 5. Commit and push reviewed artifacts, deploy the exact clean commit, then verify live content and release hashes.
 
 The intended weekly window is actual New York run date through +13 days, inclusive. API credentials, source-access restrictions, paid quotas, and operator scheduling are deployment-specific. Historical regression tests use the archived first edition rather than requiring future editions to have its counts or Halloween events.
+
+Run `npm run test:collectors` with [uv](https://docs.astral.sh/uv/) for offline feed/cache regression tests. These tests never contact official sources or consume extraction credits.

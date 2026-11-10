@@ -32,3 +32,34 @@ test('scheduled source registry rejects historical checked dates',()=>{
   catalog.sources[0].checkedOn='2000-01-01';
   assert.throws(()=>validateSources(fixture,catalog),/stale source checked date/);
 });
+test('scheduled coverage reconciles the actual calendars and every mapped venue has provenance',async()=>{
+  if(data.edition.mode!=='scheduled')return;
+  const load=async name=>JSON.parse(await readFile(new URL('../public/data/'+name,import.meta.url),'utf8'));
+  const parks=await load('parks_coverage.json'),nassau=await load('nassau_coverage.json'),geo=await load('geocodes.json');
+  assert.equal(nassau.memberLibraries,54);
+  assert.equal(nassau.libraryScopes.length,54);
+  assert.equal(new Set(nassau.libraryScopes.map(l=>l.id)).size,54);
+  assert.equal(nassau.libraryScopes.filter(l=>l.status==='ok').length,nassau.calendarReadable);
+  assert(parks.audits.length>1);
+  for(const audit of parks.audits){
+    assert(audit.complete,`incomplete calendar: ${audit.url}`);
+    assert.equal(audit.pagesReceived,audit.pagesExpected);
+    assert.equal(audit.rows,audit.total);
+    assert.deepEqual(audit.missingFromAll,[]);
+    assert(audit.url.includes('f'+data.edition.start+'/t'+data.edition.end));
+  }
+  const included=data.events.filter(e=>e.source.collection?.startsWith('nyc-parks-'));
+  assert.equal(included.length,parks.includedActivities);
+  assert.equal(included.reduce((n,e)=>n+e.sessions.length,0),parks.includedSessions);
+  const seen=new Set();
+  for(const e of data.events)for(const s of e.sessions){
+    const key=[e.venueId,s.sourceUrl,s.date,s.start,s.end].join('|');
+    assert(!seen.has(key),`duplicate occurrence: ${key}`);seen.add(key);
+  }
+  for(const [id,venue]of Object.entries(data.venues)){
+    const evidence=geo.venues[id];assert(evidence,`missing coordinate provenance: ${id}`);
+    assert.deepEqual(evidence.coordinates,venue.coordinates);
+    assert(evidence.source.startsWith('https://'));
+    assert(['US-government-public-domain','ODbL-1.0','publicly-published-factual-coordinates'].includes(evidence.license));
+  }
+});

@@ -1,5 +1,5 @@
 {
-  "scope": "Nassau venue coordinate replacements before initial open-source publication",
+  "scope": "Redistributable coordinate provenance for current edition venues: US Census, OpenStreetMap and official organizer-published meeting points",
   "attribution": "US Census Bureau; © OpenStreetMap contributors (ODbL 1.0)",
   "osmCopyright": "https://www.openstreetmap.org/copyright",
   "venues": {
@@ -757,6 +757,824 @@
       "provider": "US Census Geocoder",
       "license": "US-government-public-domain",
       "matchedName": "494 WILLIS AVE, WILLISTON PARK, NY, 11596",
+      "approximate": true
+    },
+    "sicm": {
+      "address": "1000 Richmond Terrace, Building M, Staten Island, NY 10301",
+      "coordinates": [
+        40.644743798098,
+        -74.102321811388
+      ],
+      "provider": "Official organizer-published venue",
+      "source": "https://sichildrensmuseum.org/venue/staten-island-childrens-museum/",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-ddbdec4abc74": {
+      "address": "Bowne Park Field House in Bowne Park Queens",
+      "coordinates": [
+        40.770500183105,
+        -73.80729675293
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/tiny-tots-session-2",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-df5d401607c1": {
+      "address": "Classroom A - Small in Lost Battalion Hall Recreation Center 93-29 Queens Boulevard Queens",
+      "coordinates": [
+        40.731924128298,
+        -73.865528823918
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/after-school-youth-recreation",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-fcb0db3398d4": {
+      "address": "Pier 6 in Brooklyn Bridge Park Atlantic Avenue and Furman Street Brooklyn",
+      "coordinates": [
+        40.692914780123,
+        -74.00262928009
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/10/nyrr-open-run-brooklyn-bridge-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8189f449238d": {
+      "address": "Le Carrousel in Bryant Park 40th Street between 5th Avenue and 6th Avenues Manhattan",
+      "coordinates": [
+        40.753299713135,
+        -73.984001159668
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/11/le-carrousel-extravaganza",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-fe0f952ac0ae": {
+      "address": "Beach 32nd Street Football Field in Rockaway Beach and Boardwalk Queens",
+      "coordinates": [
+        40.592538749639,
+        -73.763463231456
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/11/nyc-parks-girls-flag-football-festival",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d6e9a95176be": {
+      "address": "West 218th Street and Indian Road in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.873013267738,
+        -73.918452858924
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/astronomy-autumn-sky",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-466db2d5f4b0": {
+      "address": "United Nations Ave South Entrance in Flushing Meadows Corona Park Queens Location Details: Beginning of United Nations Avenue South, by the parking lot at 111th Street and 55th Avenue.",
+      "coordinates": [
+        40.742657289192,
+        -73.849996328354
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/12/nyrr-open-run-flushing-meadows-corona-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-894466777efe": {
+      "address": "Canarsie Park House in Canarsie Park 88th Street and Seaview Avenue Brooklyn",
+      "coordinates": [
+        40.628942896777,
+        -73.895997524261
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-canarsie-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-4f68ae709320": {
+      "address": "St. Mary's Annual 5K Start East 149th and Eagle Ave Bronx",
+      "coordinates": [
+        40.813804626464844,
+        -73.91180419921875
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-st-marys-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-da6746f85376": {
+      "address": "Seaman Avenue and Isham Street Entrance in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.869998931884766,
+        -73.92109680175781
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-inwood-hill-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-bb570294a380": {
+      "address": "Astoria Park Queens Location Details: Next to the track by the comfort station.",
+      "coordinates": [
+        40.779102012899,
+        -73.922377586365
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-astoria-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-bb5f2d1169ab": {
+      "address": "Baisley Pond Park House in Baisley Pond Park Rockaway & Sutphin Boulevards Queens",
+      "coordinates": [
+        40.67300033569336,
+        -73.78669738769531
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-baisley-pond-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-670769f06f63": {
+      "address": "Entrance to John Golden Park in John Golden Park 215th Place and 33rd Ave Queens John Golden Parking Lot in John Golden Park 215th Place and 33rd Avenue Queens",
+      "coordinates": [
+        40.773001879825,
+        -73.769996166229
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-crocheron-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f28bba5dab5d": {
+      "address": "Entrance - Lafayette Avenue and Morrison Avenue in Soundview Park Bronx",
+      "coordinates": [
+        40.820098876953,
+        -73.872398376465
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/nyrr-open-run-soundview-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d088bc68d3fe": {
+      "address": "Gymnasium in Lost Battalion Hall Recreation Center 93-29 Queens Boulevard Queens",
+      "coordinates": [
+        40.731846657524,
+        -73.86563074786
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/family-time",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f60def7f8fd4": {
+      "address": "Wave Hill Bronx Location Details: 4900 Independence Ave, Bronx, NY 10471",
+      "coordinates": [
+        40.89870071411133,
+        -73.9124984741211
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/family-art-project-papery-partners",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c05519105015": {
+      "address": "Visitor Center - Satterlee Street and Hylan Boulevard in Conference House Park 298 Satterlee Street Staten Island",
+      "coordinates": [
+        40.502257029653,
+        -74.251725435257
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/falling-for-nature-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8936f24b9a07": {
+      "address": "Van Cortlandt Nature Center in Van Cortlandt Park Bronx",
+      "coordinates": [
+        40.891101837158,
+        -73.893997192383
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/autumn-mushroom-id-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-b52618580995": {
+      "address": "Lawn Area in Bushwick Inlet Park Brooklyn",
+      "coordinates": [
+        40.722801208496,
+        -73.96199798584
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/discovery-hike-waterfront-ecosystems",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-43de141f9142": {
+      "address": "Hoyt Avenue North and 19th Street in Astoria Park Queens",
+      "coordinates": [
+        40.776557170875,
+        -73.923793792725
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/behind-the-smile-animal-adaptations-revealed",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-29038d1d950e": {
+      "address": "Prospect Avenue and Brentwood Avenue in Allison Pond Park Staten Island",
+      "coordinates": [
+        40.638315348643,
+        -74.102748195445
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/introduction-to-fly-fishing",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-5a099402783e": {
+      "address": "Gymnasium in Highbridge Recreation Center 2301 Amsterdam Avenue Manhattan",
+      "coordinates": [
+        40.84260178,
+        -73.93430328
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/basketball-clinic-at-highbridge-recreation-center-ages-5-to-7",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-28487fc00751": {
+      "address": "Urban Farm in Randall's Island Park Manhattan",
+      "coordinates": [
+        40.784213892023,
+        -73.925898551941
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/fire-cider-workshop",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f756959421f1": {
+      "address": "Palisade Avenue and Spaulding Lane in Riverdale Park Bronx",
+      "coordinates": [
+        40.896972906301,
+        -73.914912700653
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/hiking-club-series-sappy-trails",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f1941036932c": {
+      "address": "Picnic House in Prospect Park West Drive and Fifth Street Brooklyn",
+      "coordinates": [
+        40.665500640869,
+        -73.971603393555
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/fall-foliage-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-f2d351655cc1": {
+      "address": "Vermont Place Parking Lot in Highland Park Vermont Place and Highland Boulevard Queens",
+      "coordinates": [
+        40.686199188232,
+        -73.889801025391
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/the-secret-lives-of-insects",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-7fa16ef1a573": {
+      "address": "West 114th Street and Morningside Drive in Morningside Park Manhattan",
+      "coordinates": [
+        40.804599761963,
+        -73.959999084473
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/outdoor-skills-survival-101",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-af0212175151": {
+      "address": "Wagner College Pool - Spiro Sports Center 1 Campus Rd, Staten Island, NY 10301 Staten Island",
+      "coordinates": [
+        40.614960443787,
+        -74.095867991448
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/14/wagner-college-childrens-learn-to-swim-level-2",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-53c4b562c9ce": {
+      "address": "Conference House Park Staten Island Location Details: Off Hylan Boulevard, next to parking lot on path leading to the water.",
+      "coordinates": [
+        40.502601623535,
+        -74.251800537109
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-conference-house-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-dd1d64da85e3": {
+      "address": "Carmine Carro Community Center in Marine Park 3000 Fillmore Ave Brooklyn",
+      "coordinates": [
+        40.607943945573,
+        -73.937465012074
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/ricitos-and-the-three-bears",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-0f4c8995202c": {
+      "address": "Cunningham Park Parking Lot in Cunningham Park Union Turnpike and 197th Street Queens",
+      "coordinates": [
+        40.730899810791016,
+        -73.77400207519531
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nyrr-open-run-cunningham-park",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8a59f97850b5": {
+      "address": "Greenbelt Nature Center in Blood Root Valley 700 Rockland Avenue at Brielle Avenue Staten Island",
+      "coordinates": [
+        40.588401794434,
+        -74.139099121094
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/autumn-leaves-story-time-and-craft",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1896748ab7b3": {
+      "address": "Gymnasium in St. John’s Recreation Center 1251 Prospect Place Brooklyn",
+      "coordinates": [
+        40.67350006,
+        -73.93479919
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/gobble-games-family-board-game-extravaganza",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-6cd3a566f5b5": {
+      "address": "Forest Avenue and Silver Lake Park Road in Silver Lake Park Staten Island",
+      "coordinates": [
+        40.63159291279,
+        -74.095857262611
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/discovery-hike-pond-and-freshwater-ecology",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-8db4eaa3d0e0": {
+      "address": "Brower Park Lawn in Brower Park Prospect Place & Kingston Avenue Brooklyn",
+      "coordinates": [
+        40.673487329365,
+        -73.942834436893
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/nature-detective-mystery-adventure",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-aa8b99cbfb19": {
+      "address": "North Picnic Area in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.871167346548,
+        -73.790476083755
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/hiking-club-series-hidden-hunter-island",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-e2982f5b6278": {
+      "address": "Fort Greene Park Visitor Center in Fort Greene Park Brooklyn",
+      "coordinates": [
+        40.69219970703125,
+        -73.97480010986328
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/historic-new-york-prison-ship-martyrs-monument",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-dbf15f9147d2": {
+      "address": "Eton Place Parking Lot in Willowbrook Park Staten Island",
+      "coordinates": [
+        40.604227074067,
+        -74.159055948257
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/discovery-hike-urban-mammals",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-71c023491cb4": {
+      "address": "Public Restroom Building - 164th St and Lithonia Ave in Kissena Park Queens",
+      "coordinates": [
+        40.749037767722,
+        -73.803719761346
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/natures-workshop-bird-friendly-windows",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-14437f80cf19": {
+      "address": "Crotona Nature Center in Crotona Park Crotona Park East and Charlotte Street Bronx",
+      "coordinates": [
+        40.837001800537,
+        -73.893402099609
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/15/fireside-meditation",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1b9dacc4ea9b": {
+      "address": "Multi-Use Room in Williamsbridge Oval Recreation Center 3225 Reservoir Oval East Bronx",
+      "coordinates": [
+        40.876733907,
+        -73.878591092031
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/16/arts-culture-fun-be-bold-ballet-programming",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-077f6150e9cb": {
+      "address": "Oak Ridge in Forest Park Queens",
+      "coordinates": [
+        40.697621504081,
+        -73.85307598114
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/17/winter-lanterns-20261",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-09e7a8962816": {
+      "address": "Thomas Jefferson Recreation Center in Thomas Jefferson Recreation Center 2180 First Avenue, New York, NY Manhattan",
+      "coordinates": [
+        40.79349899291992,
+        -73.93669891357422
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/turkey-trot-5k",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-63892096fc04": {
+      "address": "Seth Low Playground in Seth Low Playground/ Bealin Square Brooklyn",
+      "coordinates": [
+        40.608200073242,
+        -73.986503601074
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/nature-scavenger-hunt",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-2ca4270acd73": {
+      "address": "Orchard Beach Pavilion in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.8661994934082,
+        -73.7947998046875
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/birding-owls",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c27f6fbf1794": {
+      "address": "The Overlook in Forest Park Queens",
+      "coordinates": [
+        40.710895558585,
+        -73.835624933243
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/forest-park-super-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-722617f22bbf": {
+      "address": "Entrance - Baisley Blvd. & 157th Street in Baisley Pond Park Queens",
+      "coordinates": [
+        40.675882000605,
+        -73.78319811821
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/beginner-fishing",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-813adbfe8d93": {
+      "address": "Entrance - Mt. Eden Parkway and Morris Avenue in Claremont Park Bronx",
+      "coordinates": [
+        40.842700958252,
+        -73.90950012207
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/living-with-urban-coyotes",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-03ecfd589af9": {
+      "address": "West 81st Street and Central Park West in Central Park Manhattan",
+      "coordinates": [
+        40.781804280189,
+        -73.971595048905
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/falling-for-nature-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-c1d1814ceb17": {
+      "address": "Lawn Area - Monitor Street and Driggs Avenue in Msgr. McGolrick Park Driggs Ave and Monitor Street Brooklyn",
+      "coordinates": [
+        40.723712045724,
+        -73.942661046981
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/21/historic-new-york-greenpoint-neighborhood-history",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-cb238fa9f6c8": {
+      "address": "Blue Heron Nature Center in Blue Heron Park 222 Poillon Avenue Staten Island",
+      "coordinates": [
+        40.530857179196,
+        -74.177863717079
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/birding-fall-migration",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-1316fd097995": {
+      "address": "Lawn Area in Owl's Head Park Brooklyn",
+      "coordinates": [
+        40.640098571777,
+        -74.032402038574
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/magnetic-archery",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-0f9718c20629": {
+      "address": "Arthur Kill Road and Brookfield Avenue in Brookfield Park Staten Island",
+      "coordinates": [
+        40.561667478494,
+        -74.15999635582
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/nature-sketching",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-3478552d58a3": {
+      "address": "Entrance - 34th Avenue between 77th and 78th Streets in Travers Park Queens",
+      "coordinates": [
+        40.753513336182,
+        -73.889167785645
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/outdoor-skills-knot-tying",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-b4fac6481bf4": {
+      "address": "Union Turnpike and 196th Street in Cunningham Park Queens",
+      "coordinates": [
+        40.730712281998,
+        -73.774853669312
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/hibernation-and-brumation-hike",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-d6d60a00a18c": {
+      "address": "Seaman Avenue and Isham Street in Inwood Hill Park Manhattan",
+      "coordinates": [
+        40.869701385498,
+        -73.920600891113
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/native-american-heritage-month-walking-lenapehoking",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-6d891adaa650": {
+      "address": "Orchard Beach Nature Center in Pelham Bay Park Bronx",
+      "coordinates": [
+        40.870487367202,
+        -73.786619067192
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/seal-exploration",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "parks-place-92feabe21b35": {
+      "address": "Parkside Avenue and South Lake Drive in Prospect Park Brooklyn",
+      "coordinates": [
+        40.651412963867,
+        -73.971786499023
+      ],
+      "source": "https://www.nycgovparks.org/events/2026/11/22/freedom-seekers-stories-by-the-fire",
+      "provider": "NYC Parks published meeting point",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-francis-martin": {
+      "address": "2150 University Avenue, Bronx, NY 10453",
+      "coordinates": [
+        40.8574,
+        -73.9095
+      ],
+      "source": "https://www.nypl.org/locations/francis-martin",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-115th-street": {
+      "address": "203 West 115th Street, New York, NY 10026",
+      "coordinates": [
+        40.8028,
+        -73.9532
+      ],
+      "source": "https://www.nypl.org/locations/115th-street",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-west-new-brighton": {
+      "address": "976 Castleton Avenue, Staten Island, NY 10310",
+      "coordinates": [
+        40.6346,
+        -74.1152
+      ],
+      "source": "https://www.nypl.org/locations/west-new-brighton",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-tremont": {
+      "address": "1866 Washington Avenue, Bronx, NY 10457",
+      "coordinates": [
+        40.8461,
+        -73.8984
+      ],
+      "source": "https://www.nypl.org/locations/tremont",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-todt-hill-westerleigh": {
+      "address": "2550 Victory Boulevard, Staten Island, NY 10314",
+      "coordinates": [
+        40.6098,
+        -74.148
+      ],
+      "source": "https://www.nypl.org/locations/todt-hill-westerleigh",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-bronx-library-center": {
+      "address": "310 East Kingsbridge Road, Bronx, NY 10458",
+      "coordinates": [
+        40.8634,
+        -73.8944
+      ],
+      "source": "https://www.nypl.org/locations/bronx-library-center",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-new-amsterdam": {
+      "address": "9 Murray Street, New York, NY 10007",
+      "coordinates": [
+        40.7134,
+        -74.0078
+      ],
+      "source": "https://www.nypl.org/locations/new-amsterdam",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "nypl-throgs-neck": {
+      "address": "3025 Cross Bronx Expressway, Bronx, NY 10465",
+      "coordinates": [
+        40.8219,
+        -73.8188
+      ],
+      "source": "https://www.nypl.org/locations/throgs-neck",
+      "provider": "NYPL published location",
+      "license": "publicly-published-factual-coordinates",
+      "approximate": true
+    },
+    "bpl-macon": {
+      "address": "361 Lewis Ave, Brooklyn, NY 11233",
+      "coordinates": [
+        40.683173543349,
+        -73.935013681121
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=361+Lewis+Ave%2C+Brooklyn%2C+NY+11233&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "361 LEWIS AVE, BROOKLYN, NY, 11233",
+      "approximate": true
+    },
+    "bpl-bay-ridge": {
+      "address": "7223 Ridge Blvd, Brooklyn, NY 11209",
+      "coordinates": [
+        40.633953322633,
+        -74.029636239794
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=7223+Ridge+Blvd%2C+Brooklyn%2C+NY+11209&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "7223 RIDGE BLVD, BROOKLYN, NY, 11209",
+      "approximate": true
+    },
+    "bpl-kensington": {
+      "address": "4207 18th Avenue, Brooklyn, NY 11218",
+      "coordinates": [
+        40.63145060878,
+        -73.975535060631
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4207+18th+Avenue%2C+Brooklyn%2C+NY+11218&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "4207 18TH AVE, BROOKLYN, NY, 11218",
+      "approximate": true
+    },
+    "nassau-043802faf30a": {
+      "address": "475 Great Neck Road, Great Neck, NY 11021",
+      "coordinates": [
+        40.775817240335,
+        -73.732255897797
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=475+Great+Neck+Road%2C+Great+Neck%2C+NY+11021&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "approximate": true
+    },
+    "nassau-0b1bf3fae193": {
+      "address": "115 James A. Garner Way, Hempstead, NY 11550",
+      "coordinates": [
+        40.7103795,
+        -73.622142
+      ],
+      "source": "https://www.openstreetmap.org/way/329959862",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "approximate": true
+    },
+    "nassau-096b59677a2d": {
+      "address": "1060 Hicksville Rd, Massapequa, NY 11758",
+      "coordinates": [
+        40.7088803,
+        -73.4823144
+      ],
+      "source": "https://www.openstreetmap.org/way/568636100",
+      "provider": "OpenStreetMap",
+      "license": "ODbL-1.0",
+      "approximate": true
+    },
+    "bcm": {
+      "address": "145 Brooklyn Avenue, Brooklyn, NY 11213",
+      "coordinates": [
+        40.674845916522,
+        -73.944391820549
+      ],
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=145+Brooklyn+Avenue%2C+Brooklyn%2C+NY+11213&benchmark=Public_AR_Current&format=json",
+      "provider": "US Census Geocoder",
+      "license": "US-government-public-domain",
+      "matchedName": "145 BROOKLYN AVE, BROOKLYN, NY, 11213",
       "approximate": true
     }
   }

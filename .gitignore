@@ -36,6 +36,7 @@
 !/tests/nypl.test.mjs
 !/tests/nassau.test.mjs
 !/tests/edition.test.mjs
+!/tests/collector.py
 !/tests/browser.mjs
 **/*.env
 **/.env

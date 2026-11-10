@@ -19,6 +19,8 @@ jobs:
       - run: npm run validate
       - run: npm run export -- --check
       - run: npm test
+      - uses: astral-sh/setup-uv@v6
+      - run: npm run test:collectors
       - run: npm run build
       - run: npx playwright install --with-deps chromium
       - name: Browser checks
