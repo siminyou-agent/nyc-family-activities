@@ -12,6 +12,10 @@ export function validate(data) {
   assert(['manual','scheduled'].includes(edition.mode));
   for(const key of ['start','end','verifiedOn'])assert(isDate(edition[key]),`invalid edition.${key}`);
   assert(edition.start<=edition.end,'edition start must precede end');
+  if(edition.mode==='scheduled'){
+    assert.equal((Date.parse(edition.end)-Date.parse(edition.start))/86400000,13,'scheduled edition must cover exactly 14 inclusive dates');
+    assert.equal(edition.verifiedOn,edition.start,'scheduled verification must match the run date');
+  }
   assert(data.venues && Object.keys(data.venues).length>0,'venues required');
   for(const [id,v] of Object.entries(data.venues)) {
     for(const key of ['name','city','address'])assert(text(v[key]),`${id}.${key} required`);
@@ -20,7 +24,7 @@ export function validate(data) {
     assert(Array.isArray(v.coordinates) && v.coordinates.length===2 && v.coordinates.every(Number.isFinite));
     assert(v.coordinates[0]>40.45 && v.coordinates[0]<41 && v.coordinates[1]>-74.3 && v.coordinates[1]<-73.4,`${id}: coordinates outside NYC/Nassau`);
   }
-  assert(Array.isArray(data.events),'events must be an array');
+  assert(Array.isArray(data.events) && data.events.length>0,'nonempty events array required');
   assert(data.translations?.en?.edition && data.translations.en.events,'English translations required');
   for(const key of ['title','scope'])assert(text(data.translations.en.edition[key]),`English edition.${key} required`);
   const ids=new Set();
@@ -46,6 +50,7 @@ export function validate(data) {
       assert(isDate(s.date) && s.date>=edition.start && s.date<=edition.end,`${e.id}: session outside edition`);
       assert(isTime(s.start) && isTime(s.end) && s.start<s.end,`${e.id}: invalid times`);
       if(s.sourceUrl)assert(s.sourceUrl.startsWith('https://'),`${e.id}: session source must be HTTPS`);
+      if(edition.mode==='scheduled')assert(text(s.sourceUrl),`${e.id}: scheduled occurrence needs an official source URL`);
       if(s.availability)assert(['unknown','open','closed','full','waitlist'].includes(s.availability),`${e.id}: invalid availability`);
       const key=`${s.date}T${s.start}`;assert(key>previous,`${e.id}: sessions must be unique and sorted`);previous=key;
     }
@@ -55,12 +60,14 @@ export function validate(data) {
 }
 export function validateSources(data,catalog) {
   assert(isDate(catalog.checkedOn));assert(Array.isArray(catalog.sources));
+  if(data.edition.mode==='scheduled')assert.equal(catalog.checkedOn,data.edition.verifiedOn,'source catalog must reflect the current run');
   const ids=new Set(),hosts=new Set();
   for(const s of catalog.sources){
     assert(text(s.id) && !ids.has(s.id),'unique source IDs required');ids.add(s.id);
     assert(text(s.name));assert(['parks','library','venue'].includes(s.kind));
     assert(['partial','scanned','reviewed','limited','pending'].includes(s.status));
     assert(s.status==='pending'?s.checkedOn===null:isDate(s.checkedOn));
+    if(data.edition.mode==='scheduled' && s.status!=='pending')assert.equal(s.checkedOn,data.edition.verifiedOn,`${s.id}: stale source checked date`);
     assert(s.url.startsWith('https://'));new URL(s.url);
     assert(text(s.note.zh) && text(s.note.en));assert(Array.isArray(s.hosts));
     for(const host of s.hosts){assert(!hosts.has(host),`source host is ambiguous: ${host}`);hosts.add(host);}

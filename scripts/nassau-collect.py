@@ -29,6 +29,14 @@ NY = ZoneInfo("America/New_York")
 START = dt.date.fromisoformat(args.start)
 END = dt.date.fromisoformat(args.end)
 if END < START: parser.error("end precedes start")
+# A directory is a single verification run, never a cross-edition cache.
+run_path = D / "collection_run.json"
+run_scope = {"start": START.isoformat(), "end": END.isoformat()}
+if run_path.exists() and json.loads(run_path.read_text()) != run_scope:
+    parser.error("collection directory belongs to a different date window")
+if not run_path.exists() and any(D.glob("*_calendar.json")):
+    parser.error("existing calendar cache has no run scope; use a fresh directory")
+run_path.write_text(json.dumps(run_scope, indent=2) + "\n")
 CHILD = re.compile(r"children|\bchild\b|\bkids\b|\bbab(?:y|ies)\b|toddler|preschool|pre.school|pre.?k\b|early childhood|\bfamil(?:y|ies)\b|tweens?|jr\.? levels|\bgrades?\s*(?:k|[1-6])\b", re.I)
 
 def text(node):
@@ -36,7 +44,11 @@ def text(node):
 
 def fetch(url):
     file = D / ("http_" + hashlib.sha256(url.encode()).hexdigest()[:18] + ".txt")
-    if file.exists(): return file.read_text()
+    if file.exists():
+        evidence = json.loads(file.with_suffix(".status.json").read_text())
+        if evidence.get("url") != url or evidence.get("checkedOn") != START.isoformat() or evidence.get("status") != 200:
+            raise ValueError("Cached response is not verified for this run")
+        return file.read_text()
     req = urllib.request.Request(url, headers={"User-Agent": "NYCFamilyActivities/0.1 (+https://nyc-family-weekend.pages.dev/)"})
     evidence = {"url": url, "checkedOn": START.isoformat()}
     try:
@@ -93,6 +105,8 @@ def candidate(title, groups, body):
     if re.search(r"\b(?:teen|adult|senior)\b", " ".join(groups), re.I) and not CHILD.search(" ".join(groups) + " " + title): return False
     if re.search(r"donation|drive\b|early voting|board of trustees|room available|library clos|book sale|shredding", title, re.I): return False
     if CHILD.search(" ".join(groups) + " " + title): return True
+    explicit_age = re.search(r"\b(?:ages?|aged)[:\s]*(\d+(?:\.\d+)?)", title, re.I)
+    if explicit_age and float(explicit_age[1]) < 18: return True
     return bool(re.search(r"all ages|children and|kids and|parent.child|caregiver|storytime|lego|minecraft", title + " " + body, re.I))
 
 def local(value):

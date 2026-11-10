@@ -35,6 +35,7 @@
 !/tests/parks.test.mjs
 !/tests/nypl.test.mjs
 !/tests/nassau.test.mjs
+!/tests/edition.test.mjs
 !/tests/browser.mjs
 **/*.env
 **/.env
